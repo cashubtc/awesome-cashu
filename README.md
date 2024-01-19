@@ -1,5 +1,5 @@
 # Awesome Cashu 🥜✨
-A curated, collaborative list of awesome Cashu resources for getting ramped up with Ecash
+A curated, collaborative list of awesome resources for getting ramped up with Cashu
 
 ## What's Cashu?
 
