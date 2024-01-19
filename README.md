@@ -75,3 +75,4 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [Nutminer](https://nutminer.semisol.dev/) is a proof of work based Cashu faucet that releases a constant rate of Cashu tokens ([Repo](https://git.semisol.dev/shit-code-v2/nutminer.git)).
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects
 - [Cashu Address](https://github.com/lightning-digital-entertainment/cashu-address) uses Cashu mints to receive funds via Lightning addresses
+- [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu
