@@ -28,7 +28,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Cashu.me](http://cashu.me/) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
-
+- [Macadamia](github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 
 ## Libraries
 
