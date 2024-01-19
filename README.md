@@ -65,6 +65,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 ## Projects
 - [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
+- [ChatNut](https://chatnut.sparkpay.pt/) is a privacy-preserving large language model (LLM) that users pay-per-request with an integrated Cashu wallet without having to create accounts.
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
 - [Mint index](https://mintindex.gandlaf.com/) An index to find Cashu mints ([GitHub](https://github.com/gandlafbtc/mintindex))
 - This [Cashu faucet](https://www.gandlaf.com/faucet/anarchy) allows you to deposit and withdraw Cashu tokens from a web interface. Read the code [here](https://github.com/gandlafbtc/cashu-faucet).
