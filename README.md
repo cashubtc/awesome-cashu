@@ -62,7 +62,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 #### Dart
 
 - [cashu_dart](https://github.com/ryzizub/cashu_dart) is Library for Cashu wallets written in Dart
-- [Cashu-Dart](https://github.com/0xchat-app/cashu-dart) is library allow developers integrate Cashu easily into apps
+- [cashu-dart](https://github.com/0xchat-app/cashu-dart) is library that allows developers to integrate Cashu easily into apps
 
 ## Projects
 - [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
