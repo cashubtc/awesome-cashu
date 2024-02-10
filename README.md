@@ -3,9 +3,9 @@ A curated, collaborative list of awesome resources for getting ramped up with Ca
 
 ## What's Cashu?
 
-Cashu is a free and open-source Chaumian Ecash system built for Bitcoin. [Chaumian Ecash](https://en.wikipedia.org/wiki/Ecash) is an anonymous cryptographic electronic money or electronic cash system in 1982. Cashu is an implementation of this idea built on Bitcoin.
+Cashu is a free and open-source Chaumian Ecash system built for Bitcoin. [Chaumian Ecash](https://en.wikipedia.org/wiki/Ecash) is an anonymous cryptographic electronic money or electronic cash system invented in 1982. Cashu is a modern ecash implementation on Bitcoin.
 
-Visit [cashu.space](https://cashu.space/) or [docs.cashu.space](https://docs.cashu.space/) to learn more here.
+Visit [cashu.space](https://cashu.space/) or [docs.cashu.space](https://docs.cashu.space/) to learn more.
 
 ## The Cashu protocol
 
@@ -28,7 +28,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Cashu.me](http://cashu.me/) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
-- [Macadamia](github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
+- [Macadamia](https://github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 
 ## Libraries
 
@@ -62,7 +62,8 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 #### Dart
 
-- [cashu_dart](https://github.com/ryzizub/cashu_dart) is Library for Cashu wallets written in Dart
+- [cashu_dart](https://github.com/ryzizub/cashu_dart) is one Library for Cashu wallets written in Dart
+- [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
 
 ## Projects
 - [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
