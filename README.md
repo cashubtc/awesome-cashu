@@ -38,11 +38,12 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 - [Nutshell](https://github.com/cashubtc/cashu) Nutshell is a Python library for using Cashu wallets and mints inside other Python projects
 
-#### TypeScript
+#### TypeScript & JavaScript
 
 - [Cashu-TS](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets
 - [cashu-crypto-js](https://github.com/gandlafbtc/cashu-crypto-js) is a TypeScript library that implements the basic cryptographic blinded signature scheme.
 - [Cashu tools](https://github.com/gandlafbtc/cashu-tools) are advanced Cashu wallet tools based on cashu-ts in TypeScript.
+- [blind-sig-js](https://github.com/supertestnet/blind-sig-js) is a JavaScript library implementing Cashu's blind signature mechanism
 
 #### Rust
 
