@@ -1,4 +1,5 @@
 # Awesome Cashu 🥜✨
+
 A curated, collaborative list of awesome resources for getting ramped up with Cashu
 
 ## What's Cashu?
@@ -54,6 +55,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 #### Golang
 
 - [Cashu-Feni](https://github.com/cashubtc/cashu-feni) is a Golang library for Cashu wallets and mints
+- [gonuts](https://github.com/elnosh/gonuts) Cashu library for wallets and mints in Go.
 
 #### Kotlin
 
@@ -66,7 +68,8 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
 
 ## Projects
-- [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
+
+- [Proxnut](https://github.com/gandlafbtc/proxnut) forwards requests only if they have a valid cashu token attached to the X-Cashu header.
 - [ChatNut](https://chatnut.sparkpay.pt/) is a privacy-preserving Chat application for large language models (LLMs) that users pay-per-request with an integrated Cashu wallet without having to create accounts.
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
 - [Mint index](https://mintindex.gandlaf.com/) An index to find Cashu mints ([GitHub](https://github.com/gandlafbtc/mintindex))
