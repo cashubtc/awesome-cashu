@@ -81,6 +81,5 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects
 - [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu
 - [SatsContactBot](https://github.com/massmux/SatsContact) is a Telegram bot that converts Lightning Zaps/Tips in Cashu Ecash sent to you via a Telegram message
-- [Cashu-Address](https://github.com/lightning-digital-entertainment/cashu-address) uses Cashu mints to receive funds via Lightning addresses
-- [npub.cash](https://npub.cash) is a Lightning-Address powered by eCash and nostr. The npub.cash implementation is based on Cashu-Adddress
+- [npub.cash](https://npub.cash) is a Lightning-Address powered by eCash and nostr. The npub.cash implementation is based on [Cashu-Address](https://github.com/lightning-digital-entertainment/cashu-address)
 
