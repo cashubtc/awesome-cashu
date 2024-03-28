@@ -45,6 +45,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 - [Cashu-TS](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets
 - [cashu-crypto-js](https://github.com/gandlafbtc/cashu-crypto-js) is a TypeScript library that implements the basic cryptographic blinded signature scheme.
+- [cashu-crypto-ts](https://github.com/gandlafbtc/cashu-crypto-ts) is a TypeScript library that implements basic crypto operations for cashu wallets and mints.
 - [Cashu tools](https://github.com/gandlafbtc/cashu-tools) are advanced Cashu wallet tools based on cashu-ts in TypeScript.
 - [blind-sig-js](https://github.com/supertestnet/blind-sig-js) is a JavaScript library implementing Cashu's blind signature mechanism
 - [cashu-wallet](https://github.com/ebrakke/cashu-wallet) is a framework-agnostic Cashu wallet written in TypeScript.
