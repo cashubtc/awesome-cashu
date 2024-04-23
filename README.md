@@ -52,8 +52,8 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 #### Rust
 
-- [@thesimplekid/cashu-crab](https://github.com/thesimplekid/cashu-crab) wallet and mint library
-- [@ngutech21/cashu-rs](https://github.com/ngutech21/cashu-rs) wallet and mint library and flutter app
+- [@cashubtc/cdk](https://github.com/cashubtc/cdk) wallet and mint library
+- [@ngutech21/moksha](https://github.com/ngutech21/moksha) wallet and mint library and flutter app
 - [@clarkmoody/cashu-rs](https://github.com/clarkmoody/cashu-rs) wallet and mint library
 
 #### Golang
