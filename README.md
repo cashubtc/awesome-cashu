@@ -76,6 +76,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [Cashu decoder](https://github.com/nostrapps/cashu/) is a [web decoder](https://nostrapps.github.io/cashu) for Cashu tokens
 - [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu
 - [bitcoinmints](http://bitcoinmints.com) is a list of ecash mints, supported NUTS, and reviews of the mints.  [GitHub](https://github.com/MakePrisms/bitcoinmints)
+- [Cashumints.space](https://Cashumints.space) is a list of Cashu ecash mints and reviews of the mints. 
 ## Projects
 
 ### X-Cashu
