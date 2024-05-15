@@ -34,6 +34,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Cashu.me](http://cashu.me/) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
 - [Macadamia](https://github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 - [BoardwalkCash.com](https://boardwalkcash.com/setup) is a dollar-based CashuBTC wallet built on top of Bitcoin and connected to Nostr.
+- [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 
 ## Libraries
 
@@ -95,3 +96,4 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects
 - [SatsContactBot](https://github.com/massmux/SatsContact) is a Telegram bot that converts Lightning Zaps/Tips in Cashu Ecash sent to you via a Telegram message
 - [npub.cash](https://npub.cash) is a Lightning-Address provider for nostr pubkeys based on [Cashu-Address](https://github.com/lightning-digital-entertainment/cashu-address)
+- [Shopstr](https://shopstr.store) is a Nostr marketplace client that uses Cashu tokens to settle payments via DMs
