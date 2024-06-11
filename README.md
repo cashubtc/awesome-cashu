@@ -73,6 +73,10 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [cashu_dart](https://github.com/ryzizub/cashu_dart) is one Library for Cashu wallets written in Dart
 - [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
 
+#### C#
+- [dotnut](https://github.com/Kukks/DotNut) a C# library implementing the Cashu protocol
+
+
 ## Tools
 - [Cashu decoder](https://github.com/nostrapps/cashu/) is a [web decoder](https://nostrapps.github.io/cashu) for Cashu tokens
 - [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu
