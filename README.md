@@ -93,7 +93,6 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 ### Various nutcases
 
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
-- [Mint index](https://mintindex.gandlaf.com/) An index to find Cashu mints ([GitHub](https://github.com/gandlafbtc/mintindex))
 - [Cashu faucet](https://www.gandlaf.com/faucet/anarchy) allows you to deposit and withdraw Cashu tokens from a web interface. Read the code [here](https://github.com/gandlafbtc/cashu-faucet).
 - [Redeem](https://redeem.cashu.me/) webtool allows you to redeem any Cashu token directly onto your Lightning wallet without having to receive it in a Cashu wallet [GitHub](https://github.com/cashubtc/cashu-redeem).
 - [Spacenut](https://spacenut.nutstash.app) The sickest Cashu-enabled game you've ever played ([GitHub](https://github.com/gandlafbtc/spacenut))
