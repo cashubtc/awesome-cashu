@@ -19,6 +19,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Cashu-rs-mint](https://github.com/thesimplekid/cashu-rs-mint) is a mint implementation in Rust.
 - [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
+- [Chamberlain](https://github.com/sovereign-app/chamberlain) is a work-in-progress mint implementation with an Integrated LDK Node.
 
 
 ## Wallets
