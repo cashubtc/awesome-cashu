@@ -15,11 +15,12 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Mints
 
 - [Nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
+- [Cashu-rs-mint](https://github.com/thesimplekid/cashu-rs-mint) is a mint implementation in Rust using CDK.
+- [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
-- [Cashu-rs-mint](https://github.com/thesimplekid/cashu-rs-mint) is a mint implementation in Rust.
 - [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
-- [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
-- [Chamberlain](https://github.com/sovereign-app/chamberlain) is a work-in-progress mint implementation with an Integrated LDK Node.
+- [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
+
 
 
 ## Wallets
@@ -106,3 +107,4 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [npub.cash](https://npub.cash) is a Lightning-Address provider for nostr pubkeys based on [Cashu-Address](https://github.com/lightning-digital-entertainment/cashu-address)
 - [Shopstr](https://shopstr.store) is a Nostr marketplace client that uses Cashu tokens to settle payments via DMs
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
+- [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
