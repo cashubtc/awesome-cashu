@@ -37,6 +37,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [BoardwalkCash.com](https://boardwalkcash.com/setup) is a dollar-based CashuBTC wallet built on top of Bitcoin and connected to Nostr.
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Nutsack](https://nutsack.me) is a wallet that lives in nostr and is can be accessed from any nostr client that chooses to implement it.  [Announcement](https://njump.me/nevent1qqswgsx8qvx45h5hx8ln9c3ka95mf0jvn3m0c5xhg3puk0maswclrcqpz4mhxue69uhkummnw3ezummcw3ezuer9wchsyg86np9a0kajstc8u9h846rmy6320wdepdeydfz8w8cv7kh9sqv02gpsgqqqqqqs7ywncs)    [GitHub](https://github.com/pablof7z/nutsack)
+- [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
 
 ## Libraries
 
