@@ -108,3 +108,4 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [Shopstr](https://shopstr.store) is a Nostr marketplace client that uses Cashu tokens to settle payments via DMs
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
+- [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into digital files.
