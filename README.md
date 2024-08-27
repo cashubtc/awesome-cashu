@@ -76,7 +76,10 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
 
 #### C#
-- [dotnut](https://github.com/Kukks/DotNut) a C# library implementing the Cashu protocol
+- [dotnut](https://github.com/Kukks/DotNut) is a C# library implementing the Cashu protocol
+
+#### Swift
+- [CashuSwift](https://github.com/zeugmaster/CashuSwift) is a Swift library implementing the Cashu protocol
 
 
 ## Tools
