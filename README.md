@@ -37,6 +37,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [BoardwalkCash.com](https://boardwalkcash.com/setup) is a dollar-based CashuBTC wallet built on top of Bitcoin and connected to Nostr.
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Nutsack](https://nutsack.me) is a wallet that lives in nostr and is can be accessed from any nostr client that chooses to implement it.  [Announcement](https://njump.me/nevent1qqswgsx8qvx45h5hx8ln9c3ka95mf0jvn3m0c5xhg3puk0maswclrcqpz4mhxue69uhkummnw3ezummcw3ezuer9wchsyg86np9a0kajstc8u9h846rmy6320wdepdeydfz8w8cv7kh9sqv02gpsgqqqqqqs7ywncs)    [GitHub](https://github.com/pablof7z/nutsack)
+- [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
 
 ## Libraries
 
@@ -76,7 +77,10 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
 
 #### C#
-- [dotnut](https://github.com/Kukks/DotNut) a C# library implementing the Cashu protocol
+- [dotnut](https://github.com/Kukks/DotNut) is a C# library implementing the Cashu protocol
+
+#### Swift
+- [CashuSwift](https://github.com/zeugmaster/CashuSwift) is a Swift library implementing the Cashu protocol
 
 
 ## Tools
@@ -109,3 +113,4 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
+
