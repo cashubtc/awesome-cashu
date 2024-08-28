@@ -29,7 +29,6 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Nutstash](https://nutstash.app/) is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [eNuts](https://enuts.cash) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
 - [Minibits](https://github.com/minibits-cash/minibits_wallet) is a mobile Cashu wallet with a focus on performance and usability.
-- [Feni](https://github.com/cashubtc/cashu-feni) is a Cashu wallet and mint written in Golang. It supports multiple mints, P2SH, and offers Docker images for easy deployment.
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Cashu.me](http://cashu.me/) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
@@ -59,11 +58,9 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 - [@cashubtc/cdk](https://github.com/cashubtc/cdk) wallet and mint library
 - [@ngutech21/moksha](https://github.com/ngutech21/moksha) wallet and mint library and flutter app
-- [@clarkmoody/cashu-rs](https://github.com/clarkmoody/cashu-rs) wallet and mint library
 
 #### Golang
 
-- [Cashu-Feni](https://github.com/cashubtc/cashu-feni) is a Golang library for Cashu wallets and mints
 - [gonuts](https://github.com/elnosh/gonuts) Cashu library for wallets and mints in Go.
 
 #### Kotlin
@@ -73,7 +70,6 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 #### Dart
 
-- [cashu_dart](https://github.com/ryzizub/cashu_dart) is one Library for Cashu wallets written in Dart
 - [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
 
 #### C#
