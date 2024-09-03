@@ -20,6 +20,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
+- [Zig](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
 
 
 
@@ -37,27 +38,20 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Nutsack](https://nutsack.me) is a wallet that lives in nostr and is can be accessed from any nostr client that chooses to implement it.  [Announcement](https://njump.me/nevent1qqswgsx8qvx45h5hx8ln9c3ka95mf0jvn3m0c5xhg3puk0maswclrcqpz4mhxue69uhkummnw3ezummcw3ezuer9wchsyg86np9a0kajstc8u9h846rmy6320wdepdeydfz8w8cv7kh9sqv02gpsgqqqqqqs7ywncs)    [GitHub](https://github.com/pablof7z/nutsack)
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
+- [Zig](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig.
 
 ## Libraries
 
 Cashu libraries allow developers to build wallets, mints, and other services that use Cashu.
 
-#### Python
+#### C#
+- [dotnut](https://github.com/Kukks/DotNut) is a C# library implementing the Cashu protocol
 
-- [Nutshell](https://github.com/cashubtc/cashu) Nutshell is a Python library for using Cashu wallets and mints inside other Python projects
 
-#### TypeScript & JavaScript
+#### Dart
 
-- [Cashu-TS](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets
-- [cashu-crypto-ts](https://github.com/cashubtc/cashu-crypto-ts) is a TypeScript library that implements basic crypto operations for cashu wallets and mints.
-- [Cashu tools](https://github.com/gandlafbtc/cashu-tools) are advanced Cashu wallet tools based on cashu-ts in TypeScript.
-- [blind-sig-js](https://github.com/supertestnet/blind-sig-js) is a JavaScript library implementing Cashu's blind signature mechanism
-- [cashu-wallet](https://github.com/ebrakke/cashu-wallet) is a framework-agnostic Cashu wallet written in TypeScript.
+- [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
 
-#### Rust
-
-- [@cashubtc/cdk](https://github.com/cashubtc/cdk) wallet and mint library
-- [@ngutech21/moksha](https://github.com/ngutech21/moksha) wallet and mint library and flutter app
 
 #### Golang
 
@@ -68,15 +62,26 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [cashu-client](https://github.com/thunderbiscuit/cashu-client) is a Cashu client library in Kotlin.
 - [cashu-bdhke-kmp](https://github.com/gandlafbtc/cashu-bdhke-kmp) is a Kotlin library that implements the basic cryptographic blinded signature scheme.
 
-#### Dart
+#### Python
 
-- [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
+- [Nutshell](https://github.com/cashubtc/cashu) Nutshell is a Python library for using Cashu wallets and mints inside other Python projects
 
-#### C#
-- [dotnut](https://github.com/Kukks/DotNut) is a C# library implementing the Cashu protocol
+#### Rust
+
+- [@cashubtc/cdk](https://github.com/cashubtc/cdk) wallet and mint library
+- [@ngutech21/moksha](https://github.com/ngutech21/moksha) wallet and mint library and flutter app
 
 #### Swift
 - [CashuSwift](https://github.com/zeugmaster/CashuSwift) is a Swift library implementing the Cashu protocol
+
+#### TypeScript & JavaScript
+
+- [Cashu-TS](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets
+- [cashu-crypto-ts](https://github.com/cashubtc/cashu-crypto-ts) is a TypeScript library that implements basic crypto operations for cashu wallets and mints.
+- [Cashu tools](https://github.com/gandlafbtc/cashu-tools) are advanced Cashu wallet tools based on cashu-ts in TypeScript.
+- [blind-sig-js](https://github.com/supertestnet/blind-sig-js) is a JavaScript library implementing Cashu's blind signature mechanism
+- [cashu-wallet](https://github.com/ebrakke/cashu-wallet) is a framework-agnostic Cashu wallet written in TypeScript.
+
 
 
 ## Tools
