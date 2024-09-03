@@ -20,7 +20,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
-- [Zig](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
+- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
 
 
 
@@ -38,7 +38,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Nutsack](https://nutsack.me) is a wallet that lives in nostr and is can be accessed from any nostr client that chooses to implement it.  [Announcement](https://njump.me/nevent1qqswgsx8qvx45h5hx8ln9c3ka95mf0jvn3m0c5xhg3puk0maswclrcqpz4mhxue69uhkummnw3ezummcw3ezuer9wchsyg86np9a0kajstc8u9h846rmy6320wdepdeydfz8w8cv7kh9sqv02gpsgqqqqqqs7ywncs)    [GitHub](https://github.com/pablof7z/nutsack)
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
-- [Zig](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig.
+- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig.
 
 ## Libraries
 
