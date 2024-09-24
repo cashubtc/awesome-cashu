@@ -38,8 +38,10 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Nutsack](https://nutsack.me) is a wallet that lives in nostr and is can be accessed from any nostr client that chooses to implement it.  [Announcement](https://njump.me/nevent1qqswgsx8qvx45h5hx8ln9c3ka95mf0jvn3m0c5xhg3puk0maswclrcqpz4mhxue69uhkummnw3ezummcw3ezuer9wchsyg86np9a0kajstc8u9h846rmy6320wdepdeydfz8w8cv7kh9sqv02gpsgqqqqqqs7ywncs)    [GitHub](https://github.com/pablof7z/nutsack)
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
-- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig.
-
+- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
+- [Blitz wallet](blitz-wallet.com) - Lightning wallet with Cashu ecash integration.
+- [coinos](https://coinos.io) - Lightning wallet with Cashu ecash integration.
+  
 ## Libraries
 
 Cashu libraries allow developers to build wallets, mints, and other services that use Cashu.
@@ -83,7 +85,6 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [cashu-wallet](https://github.com/ebrakke/cashu-wallet) is a framework-agnostic Cashu wallet written in TypeScript.
 
 
-
 ## Tools
 - [Cashu decoder](https://github.com/nostrapps/cashu/) is a [web decoder](https://nostrapps.github.io/cashu) for Cashu tokens
 - [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu
@@ -115,4 +116,9 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
 - [nuts.cash](https://www.nuts.cash/home)  is an ecash wallet that saves your proofs in the Nostr Relays.
+
+
+
+
+ 
 
