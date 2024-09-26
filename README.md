@@ -21,7 +21,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
-- [Cashubrew](https://github.com/AbdelStark/gakimint) – is a Cashu mint written in Elixir.
+- [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
 
 ## Wallets
 
@@ -37,8 +37,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
-- [Blitz wallet](blitz-wallet.com) - Lightning wallet with Cashu ecash integration.
-- [coinos](https://coinos.io) - Lightning wallet with Cashu ecash integration.
+- [Blitz wallet](blitz-wallet.com) is a Lightning wallet with Cashu ecash integration.
+- [coinos](https://coinos.io) is a Lightning wallet with Cashu ecash integration.
 
 ## Nostr NIP-60 Wallets
 - [nuts.cash](https://nostrudel.ninja/#/n/note1uz24vj73vq5w47qv8ypzye0edllks7zu308u87hy4hz3j3h6evnsegmw94)
