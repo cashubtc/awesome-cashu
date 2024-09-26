@@ -21,7 +21,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
-- [Cashubrew](https://github.com/AbdelStark/gakimint) – is a Cashu mint in Elixir.
+- [Cashubrew](https://github.com/AbdelStark/gakimint) – is a Cashu mint written in Elixir.
 
 ## Wallets
 
