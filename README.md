@@ -37,7 +37,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
-- [Bullish Nuts](https://bullishnuts.vercel.app/) is an ecash wallet in early beta phase.
+- [bullishNuts](https://bullishnuts.cash) is an ecash wallet in early beta phase.
 
 ## Wallets- On-Chain/Lightning Wallets 
 - [Blitz wallet](blitz-wallet.com) is a Lightning wallet with Cashu ecash integration.
