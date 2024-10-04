@@ -48,6 +48,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [nuts.cash](https://nostrudel.ninja/#/n/note1uz24vj73vq5w47qv8ypzye0edllks7zu308u87hy4hz3j3h6evnsegmw94)
 - [lnw.cash](https://lnw.cash)
 - [Nutsack](https://nutsack.me) [GitHub](https://github.com/pablof7z/nutsack)
+- [Highlighter](https://highlighter.com/)
   
 ## Libraries
 
