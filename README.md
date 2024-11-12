@@ -96,8 +96,8 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 ## Tools
 
 ### Testnut Mints
-- [Testnut Mint with Fees](fees.testnut.cashu.space) is a testnut mint with fees with unbacked fake ecash for testing  
-- [Testnut Mint with No Fees ](https://nofees.testnut.cashu.space) is a testnut mint with no fees with unbacked fake ecash for testing  
+- [https://fees.testnut.cashu.space](https://fees.testnut.cashu.space) is a testnut mint with fees with unbacked fake ecash for testing  
+- [https://nofees.testnut.cashu.space ](https://nofees.testnut.cashu.space) is a testnut mint with no fees with unbacked fake ecash for testing  
 
 ### Mint Discovery and Audit
 - [bitcoinmints](http://bitcoinmints.com) is a list of ecash mints, supported NUTS, and reviews of the mints.  [GitHub](https://github.com/MakePrisms/bitcoinmints)
