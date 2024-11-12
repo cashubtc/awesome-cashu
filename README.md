@@ -95,15 +95,25 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 ## Tools
 
-### Mint Discovery
+### Testnut Mints
+- [Testnut Mint with Fees](fees.testnut.cashu.space) is a testnut mint with fees with unbacked fake ecash for testing  
+- [Testnut Mint with No Fees ](https://nofees.testnut.cashu.space) is a testnut mint with no fees with unbacked fake ecash for testing  
+
+### Mint Discovery and Audit
 - [bitcoinmints](http://bitcoinmints.com) is a list of ecash mints, supported NUTS, and reviews of the mints.  [GitHub](https://github.com/MakePrisms/bitcoinmints)
 - [Cashumints.space](https://Cashumints.space) is an index of Cashu ecash mints and offers reviews of these mints, complete with comprehensive mint pages.
-### Misc
-- [Cashu decoder](https://github.com/nostrapps/cashu/) is a [web decoder](https://nostrapps.github.io/cashu) for Cashu v3 tokens
-- [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu
-- [Cashu decoder](https://nutcoder.netlify.app/) is a decoder for Cashu v3 and v4 tokens
 - [Mint Audit](https://audit.8333.space/) is a mint auditor
-   
+  
+### Restore 
+- [Restore Tool-from seed](https://wallet.cashu.me/#/restore) is a tool that enables you to restore from a seed phrase.
+
+### Token Decoders 
+- [Cashu decoder](https://github.com/nostrapps/cashu/) is a [web decoder](https://nostrapps.github.io/cashu) for Cashu v3 tokens
+- [Cashu decoder](https://nutcoder.netlify.app/) is a decoder for Cashu v3 and v4 tokens
+
+### Misc
+- [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu
+
 ## Projects
 ### Messengers
 - [0xChat](https://github.com/0xchat-app) 0xchat is a secure chat app built on the Nostr protocol with payments support using Cashu
