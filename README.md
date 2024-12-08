@@ -113,6 +113,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 ### Misc
 - [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu
+- [Nutshell configurer]( https://celadon-semolina-91d112.netlify.app/) is a tool to set up the .env file for nutshell mints
 
 ## Projects
 ### Messengers
