@@ -43,13 +43,15 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Voltz](https://www.lnvoltz.xyz/) is an all-in-one on-chain+lightning+ecash wallet.
 - [coinos](https://coinos.io) is a Lightning wallet with Cashu ecash integration.
 
-## Wallets - Nostr NIP-60
+## Wallets - Nostr NIP-60 support
 - [nuts.cash](https://nostrudel.ninja/#/n/note1uz24vj73vq5w47qv8ypzye0edllks7zu308u87hy4hz3j3h6evnsegmw94)
 - [lnw.cash](https://lnw.cash)
 - [Nutsack](https://nutsack.me) [GitHub](https://github.com/pablof7z/nutsack)
 - [Highlighter](https://highlighter.com/)
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
-
+- [Olas](https://www.nobsbitcoin.com/olas-v0-1-4/) is an Instagram-like Nostr Client that supports NIP-60/61 (nutzaps/wallet), uses [nutsack](https://nutsack.me/)
+- [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support
+  
 ## Libraries
 
 Cashu libraries allow developers to build wallets, mints, and other services that use Cashu.
@@ -130,8 +132,6 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [SatsContact](https://github.com/massmux/SatsContact) is a Lightning address provider that automatically generates @sats.contact Lightning addresses and real-time converts received amounts in Cashu tokens sent to the Telegram Chat.
   
 ### Various nutcases
-- [Olas](https://www.nobsbitcoin.com/olas-v0-1-4/) is an Instagram-like Nostr Client that supports NIP-60/61 (nutzaps/wallet), uses [nutsack](https://nutsack.me/)
-- [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support
 - [Athenut](https://athenut.com/) search smarter (Kagi-powered). Pay in sats.
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
 - [Cashu faucet](https://www.gandlaf.com/faucet/anarchy) allows you to deposit and withdraw Cashu tokens from a web interface. Read the code [here](https://github.com/gandlafbtc/cashu-faucet).
