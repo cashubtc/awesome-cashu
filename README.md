@@ -15,7 +15,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Mints
 
 - [Nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
-- [Cashu-rs-mint](https://github.com/thesimplekid/cashu-rs-mint) is a mint implementation in Rust using CDK.
+- [cdk-mintd](https://github.com/cashubtc/cdk/tree/main/crates/cdk-mintd) is a mint implementation in Rust using CDK.
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
@@ -130,17 +130,17 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [SatsContact](https://github.com/massmux/SatsContact) is a Lightning address provider that automatically generates @sats.contact Lightning addresses and real-time converts received amounts in Cashu tokens sent to the Telegram Chat.
   
 ### Various nutcases
+- [Olas](https://www.nobsbitcoin.com/olas-v0-1-4/) is an Instagram-like Nostr Client that supports NIP-60/61 (nutzaps/wallet), uses [nutsack](https://nutsack.me/)
+- [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support
 - [Athenut](https://athenut.com/) search smarter (Kagi-powered). Pay in sats.
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
 - [Cashu faucet](https://www.gandlaf.com/faucet/anarchy) allows you to deposit and withdraw Cashu tokens from a web interface. Read the code [here](https://github.com/gandlafbtc/cashu-faucet).
 - [Redeem](https://redeem.cashu.me/) webtool allows you to redeem any Cashu token directly onto your Lightning wallet without having to receive it in a Cashu wallet [GitHub](https://github.com/cashubtc/cashu-redeem).
 - [Spacenut](https://spacenut.nutstash.app) The sickest Cashu-enabled game you've ever played ([GitHub](https://github.com/gandlafbtc/spacenut))
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects
-- [Shopstr](https://shopstr.store) is a Nostr marketplace client that uses Cashu tokens to settle payments via DMs
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
-
 
 
 
