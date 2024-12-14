@@ -107,7 +107,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [Mint Audit](https://audit.8333.space/) is a mint auditor
   
 ### Restore 
-- [Restore Tool-from seed](https://wallet.cashu.me/#/restore) is a tool that enables you to restore from a seed phrase.
+- [Restore Tool-from seed](https://wallet.cashu.me/restore) is a tool that enables you to restore from a seed phrase.
 
 ### Token Decoders 
 - [Cashu decoder](https://github.com/nostrapps/cashu/) is a [web decoder](https://nostrapps.github.io/cashu) for Cashu v3 tokens
