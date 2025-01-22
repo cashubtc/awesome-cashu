@@ -37,7 +37,9 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
 - [bullishNuts](https://bullishnuts.cash) is an ecash wallet in early beta phase.
-
+- [lnw.cash](https://lnw.cash/) is an ecash wallet
+- [Sovran](https://sovranbitcoin.com) is an ecash wallet
+  
 ## Wallets- On-Chain/Lightning Wallets 
 - [Blitz wallet](blitz-wallet.com) is a Lightning wallet with Cashu ecash integration.
 - [Voltz](https://www.lnvoltz.xyz/) is an all-in-one on-chain+lightning+ecash wallet.
@@ -52,7 +54,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Olas](https://www.nobsbitcoin.com/olas-v0-1-4/) is an Instagram-like Nostr Client that supports NIP-60/61 (nutzaps/wallet), uses [nutsack](https://nutsack.me/)
 - [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support
-  
+- [AFK](https://afk-community.xyz/app/cashu) 
+ 
 ## Libraries
 
 Cashu libraries allow developers to build wallets, mints, and other services that use Cashu.
@@ -134,6 +137,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 ### Various nutcases
 - [Cashu-brrr](https://brrr.gandlaf.com) is a Cashu ecash printer. [GitHub](https://github.com/gandlafbtc/cashu-brrr/)
 - [Athenut](https://athenut.com/) search smarter (Kagi-powered). Pay in sats.
+- [Almandine](https://lab.oak-node.net/almandine) uses Athenut above, basic wrapper with a built-in CDK wallet
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
 - [Cashu faucet](https://www.gandlaf.com/faucet/anarchy) allows you to deposit and withdraw Cashu tokens from a web interface. Read the code [here](https://github.com/gandlafbtc/cashu-faucet).
 - [Redeem](https://redeem.cashu.me/) webtool allows you to redeem any Cashu token directly onto your Lightning wallet without having to receive it in a Cashu wallet [GitHub](https://github.com/cashubtc/cashu-redeem).
