@@ -53,8 +53,9 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Highlighter](https://highlighter.com/)
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Olas](https://www.nobsbitcoin.com/olas-v0-1-4/) is an Instagram-like Nostr Client that supports NIP-60/61 (nutzaps/wallet), uses [nutsack](https://nutsack.me/)
-- [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support
-- [AFK](https://afk-community.xyz/app/cashu) 
+- [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support.
+- [AFK](https://afk-community.xyz/app/cashu) is a community application with NIP-60 support.
+- [Clams](https://clams.tech/) is a Personal Finance and Business Analytics application that has a Cashu NIP-60 connection.
  
 ## Libraries
 
