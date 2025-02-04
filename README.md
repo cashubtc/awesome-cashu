@@ -16,7 +16,6 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 
 - [Nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
 - [cdk-mintd](https://github.com/cashubtc/cdk/tree/main/crates/cdk-mintd) is a mint implementation in Rust using CDK.
-- [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
