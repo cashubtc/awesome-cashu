@@ -16,7 +16,6 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 
 - [Nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
 - [cdk-mintd](https://github.com/cashubtc/cdk/tree/main/crates/cdk-mintd) is a mint implementation in Rust using CDK.
-- [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
@@ -25,22 +24,21 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Wallets
 
 - [Nutshell](https://github.com/cashubtc/nutshell) is a CLI wallet available through PyPi. It comes with builtin Tor, supports multiple mints, and can send and receive tokens on nostr, and supports pay-to-script-hash (P2SH) tokens.
-- [Nutstash](https://nutstash.app/) is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
+- [Nutstash](https://github.com/gandlafbtc/nutstash-wallet) is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [eNuts](https://enuts.cash) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
 - [Minibits](https://github.com/minibits-cash/minibits_wallet) is a mobile Cashu wallet with a focus on performance and usability.
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
-- [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
-- [Cashu.me](http://cashu.me/) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
+- [Cashu.me](https://github.com/cashubtc/cashu.me) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
 - [Macadamia](https://github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 - [BoardwalkCash.com](https://boardwalkcash.com/setup) is a dollar-based CashuBTC wallet built on top of Bitcoin and connected to Nostr.
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
-- [bullishNuts](https://bullishnuts.cash) is an ecash wallet in early beta phase.
+- [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
 - [lnw.cash](https://lnw.cash/) is an ecash wallet
 - [Sovran](https://sovranbitcoin.com) is an ecash wallet
   
 ## Wallets- On-Chain/Lightning Wallets 
-- [Blitz wallet](blitz-wallet.com) is a Lightning wallet with Cashu ecash integration.
+- [Blitz wallet](https://github.com/BlitzWallet/BlitzWallet) is a Lightning wallet with Cashu ecash integration.
 - [Voltz](https://www.lnvoltz.xyz/) is an all-in-one on-chain+lightning+ecash wallet.
 - [coinos](https://coinos.io) is a Lightning wallet with Cashu ecash integration.
 
@@ -146,8 +144,10 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
-
-
-
- 
+- [Paywally](https://github.com/bordalix/paywally) is a Lightning paywall powered by Cashu.
+  
+## Currently Unmaintained Projects
+- [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
+- [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
+- [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 
