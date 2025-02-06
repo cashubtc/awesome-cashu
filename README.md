@@ -43,7 +43,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Wallets - Nostr NIP-60 support
 - [nutlife.lol](https://nutlife.lol/) 
 - [nuts.cash](https://nostrudel.ninja/#/n/note1uz24vj73vq5w47qv8ypzye0edllks7zu308u87hy4hz3j3h6evnsegmw94)
-- [lnwCash](https://github.com/AlbiziaLebbeck/lnwCash) is an ecash wallet. [lnw.cash](https://lnw.cash/)
+- [lnw.cash](https://lnw.cash/) [GitHub](https://github.com/AlbiziaLebbeck/lnwCash)
 - [Nutsack](https://nutsack.me) [GitHub](https://github.com/pablof7z/nutsack)
 - [Highlighter](https://highlighter.com/)
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
