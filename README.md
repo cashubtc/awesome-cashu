@@ -33,7 +33,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
-- [lnw.cash](https://lnw.cash/) is an ecash wallet
+- [lnwCash](https://github.com/AlbiziaLebbeck/lnwCash) is an ecash wallet. [lnw.cash](https://lnw.cash/)
 - [Sovran](https://sovranbitcoin.com) is an ecash wallet
   
 ## Wallets- On-Chain/Lightning Wallets 
