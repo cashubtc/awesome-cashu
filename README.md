@@ -33,7 +33,6 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
-- [lnwCash](https://github.com/AlbiziaLebbeck/lnwCash) is an ecash wallet. [lnw.cash](https://lnw.cash/)
 - [Sovran](https://sovranbitcoin.com) is an ecash wallet
   
 ## Wallets- On-Chain/Lightning Wallets 
@@ -44,7 +43,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Wallets - Nostr NIP-60 support
 - [nutlife.lol](https://nutlife.lol/) 
 - [nuts.cash](https://nostrudel.ninja/#/n/note1uz24vj73vq5w47qv8ypzye0edllks7zu308u87hy4hz3j3h6evnsegmw94)
-- [lnw.cash](https://lnw.cash)
+- [lnwCash](https://github.com/AlbiziaLebbeck/lnwCash) is an ecash wallet. [lnw.cash](https://lnw.cash/)
 - [Nutsack](https://nutsack.me) [GitHub](https://github.com/pablof7z/nutsack)
 - [Highlighter](https://highlighter.com/)
 - [Shopstr](https://shopstr.store/wallet) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
