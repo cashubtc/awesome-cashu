@@ -145,7 +145,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [Paywally](https://github.com/bordalix/paywally) is a Lightning paywall powered by Cashu.
   
 ## Currently Unmaintained Projects
-- [eNuts](https://enuts.cash) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
+- [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
