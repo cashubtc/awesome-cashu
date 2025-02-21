@@ -131,6 +131,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [SatsContact](https://github.com/massmux/SatsContact) is a Lightning address provider that automatically generates @sats.contact Lightning addresses and real-time converts received amounts in Cashu tokens sent to the Telegram Chat.
   
 ### Various nutcases
+- [Nostrly Cashu Redeem](https://www.nostrly.com/cashu-redeem/) lets you redeem a Cashu ecash token to your lightning address... just like paying cash into a bank account. You can also pay a lightning invoice, with change returned as a new ecash token.
 - [Cashu-brrr](https://brrr.gandlaf.com) is a Cashu ecash printer. [GitHub](https://github.com/gandlafbtc/cashu-brrr/)
 - [Athenut](https://athenut.com/) search smarter (Kagi-powered). Pay in sats. [Github-Mint](https://github.com/thesimplekid/athenut-mint), [Github-Frontend](https://github.com/thesimplekid/athenut-frontend)
 - [Almandine](https://lab.oak-node.net/almandine) uses Athenut above, basic wrapper with a built-in CDK wallet
