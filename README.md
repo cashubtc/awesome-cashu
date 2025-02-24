@@ -144,6 +144,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
 - [Paywally](https://github.com/bordalix/paywally) is a Lightning paywall powered by Cashu.
+- [Redeem v4 tokens](https://www.nostrly.com/cashu-redeem/) is an updated version of Cashu Redeem that uses latest cashu-ts, reads v4 tokens, and gives 'change'.
   
 ## Currently Unmaintained Projects
 - [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
