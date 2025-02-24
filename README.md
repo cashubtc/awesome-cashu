@@ -131,6 +131,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [SatsContact](https://github.com/massmux/SatsContact) is a Lightning address provider that automatically generates @sats.contact Lightning addresses and real-time converts received amounts in Cashu tokens sent to the Telegram Chat.
   
 ### Various nutcases
+- [Nostrly Cashu Redeem](https://www.nostrly.com/cashu-redeem/) is an updated version of [Redeem](https://redeem.cashu.me/) that uses latest [Cashu-TS](https://github.com/cashubtc/cashu-ts), reads v4 tokens, and gives 'change'. Read the code [here](https://github.com/robwoodgate/cashu-redeem).
 - [Cashu-brrr](https://brrr.gandlaf.com) is a Cashu ecash printer. [GitHub](https://github.com/gandlafbtc/cashu-brrr/)
 - [Athenut](https://athenut.com/) search smarter (Kagi-powered). Pay in sats. [Github-Mint](https://github.com/thesimplekid/athenut-mint), [Github-Frontend](https://github.com/thesimplekid/athenut-frontend)
 - [Almandine](https://lab.oak-node.net/almandine) uses Athenut above, basic wrapper with a built-in CDK wallet
@@ -143,11 +144,9 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
 - [Paywally](https://github.com/bordalix/paywally) is a Lightning paywall powered by Cashu.
-- [Redeem v4 tokens](https://www.nostrly.com/cashu-redeem/) is an updated version of Cashu Redeem that uses latest cashu-ts, reads v4 tokens, and gives 'change'.
   
 ## Currently Unmaintained Projects
 - [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
-- [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 
