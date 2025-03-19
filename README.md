@@ -133,7 +133,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 ### Redeem Tools
 - [Cashu-redeem](https://cashu-redeem-five.vercel.app) is a tool that enables you to redeem Cashu tokens and decode emojis to redeem Cashu tokens directly into your Lightning wallet.
 - [Nostrly Cashu Redeem](https://www.nostrly.com/cashu-redeem/) is an updated version of [Redeem](https://redeem.cashu.me/) that uses latest [Cashu-TS](https://github.com/cashubtc/cashu-ts), reads v4 tokens, and gives 'change'. Read the code [here](https://github.com/robwoodgate/cashu-redeem).
-- [Redeem](https://redeem.cashu.me/) webtool allows you to redeem any Cashu token directly onto your Lightning wallet without having to receive it in a Cashu wallet [GitHub](https://github.com/cashubtc/cashu-redeem).
+- [Redeem](https://cashu-redeem.vercel.app/) webtool allows you to redeem any Cashu token directly onto your Lightning wallet without having to receive it in a Cashu wallet [GitHub](https://github.com/cashubtc/cashu-redeem).
 
 ### Various nutcases
 - [Cashu-brrr](https://brrr.gandlaf.com) is a Cashu ecash printer. [GitHub](https://github.com/gandlafbtc/cashu-brrr/)
