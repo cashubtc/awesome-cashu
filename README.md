@@ -94,6 +94,12 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [blind-sig-js](https://github.com/supertestnet/blind-sig-js) is a JavaScript library implementing Cashu's blind signature mechanism
 - [cashu-wallet](https://github.com/ebrakke/cashu-wallet) is a framework-agnostic Cashu wallet written in TypeScript.
 
+## Documentation Web Sites
+Note: These documentation sites are works in progress (WIP) and welcome feedback and suggestions for content.
+- [CDK](https://cashudevkit.org/) is a CDK doc site. [GH](https://github.com/cashubtc/cdk) for input/feedback.
+- [CDK](https://ok300.github.io/cdk-docs/mint/03_systemd_service/) is a CDK doc site.
+- [cashu-ts](https://cashubtc.github.io/cashu-ts-docs/) is a cashu-ts doc site.  [GH](https://github.com/cashubtc/cashu-ts-docs) for input/feedback.
+- [Mint Best Practices](https://findingsov.github.io/cashu-mint-docs/) is a mint best practices doc site. [GH](https://github.com/findingsov/cashu-mint-docs) for input/feedback.
 
 ## Tools
 
