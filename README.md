@@ -16,7 +16,6 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 
 - [Nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
 - [cdk-mintd](https://github.com/cashubtc/cdk/tree/main/crates/cdk-mintd) is a mint implementation in Rust using CDK.
-- [Gonuts](https://github.com/elnosh/gonuts) is a mint written in Golang.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
 - [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
@@ -63,11 +62,6 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 #### Dart
 
 - [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
-
-
-#### Golang
-
-- [gonuts](https://github.com/elnosh/gonuts) Cashu library for wallets and mints in Go.
 
 #### Kotlin
 
