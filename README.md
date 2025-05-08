@@ -39,7 +39,9 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Voltz](https://www.lnvoltz.xyz/) is an all-in-one on-chain+lightning+ecash wallet.
 - [coinos](https://github.com/coinos/coinos-ui) is a Lightning wallet with Cashu ecash integration.
 
-## Wallets - Nostr NIP-60 support
+## Wallets - Nostr NIP-60/61 support
+- [Cashu Cache](https://www.nostrly.com/cashu-cache/) lets you create (or update) a NIP-60 compliant Cashu Wallet and advertizes the NIP-61 public key so you can receive NutZaps. It also makes a wallet backup.
+- [Cashu Gather](https://www.nostrly.com/cashu-gather/) lets you receive NutZaps sent to your NIP-61 public key, creating a token per mint you can redeem with any wallet.
 - [nutlife.lol](https://nutlife.lol/) 
 - [nuts.cash](https://www.nuts.cash/)
 - [lnw.cash](https://lnw.cash/) [GitHub](https://github.com/AlbiziaLebbeck/lnwCash)
@@ -117,6 +119,10 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Nutshell configurer]( https://celadon-semolina-91d112.netlify.app/) is a tool to set up the .env file for nutshell mints
 
 ## Projects
+### P2PK Locked and Multi-Sig Tokens
+- [Cashu NutLock](https://www.nostrly.com/cashu-nutlock/) lets you lock a Cashu token to one or more public keys (Nostr NPUB or P2PK) for a set time. Supports complex multi-signature (multi-sig) tokens.
+- [Cashu Witness](https://www.nostrly.com/cashu-witness/) lets you unlock locked Cashu tokens by signing them with your private key (Nostr NSEC or P2PK). Supports multi-sig, and will show you whose signature(s) are required to unlock.
+
 ### Messengers
 - [0xChat](https://github.com/0xchat-app) 0xchat is a secure chat app built on the Nostr protocol with payments support using Cashu
 - [KeyChat](https://github.com/keychat-io/keychat-app) Keychat is a chat app built on Cashu, Nostr and the Signal Protocol.
