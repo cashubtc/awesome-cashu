@@ -111,6 +111,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Restore Tool-from seed](https://wallet.cashu.me/restore) is a tool that enables you to restore from a seed phrase.
 
 ### Token Decoders 
+- [Cashu Decode](https://decode.8333.space/) - a v4 token decoder that lets you view and edit the tokens in real time.
 - [Cashu decoder](https://github.com/nostrapps/cashu/) is a [web decoder](https://nostrapps.github.io/cashu) for Cashu v3 tokens
 - [Cashu decoder](https://nutcoder.netlify.app/) is a decoder for Cashu v3 and v4 tokens
 
