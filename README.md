@@ -150,6 +150,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Meme amigo](https://memeamigo.lol/) enables you to hide ecash in a meme.
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [Tollgate](https://github.com/OpenTollGate/tollgate-app)  turns any WiFi router into a decentralized ISP using bitcoin and ecash.
+- [Cashucards](https://github.com/Marc26z/CashuCards) are greeting Ccards that give bitcoin using the Cashu protocol.
 ## Currently Unmaintained Projects
 - [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
