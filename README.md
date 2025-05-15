@@ -37,7 +37,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [coinos](https://github.com/coinos/coinos-ui) is a Lightning wallet with Cashu ecash integration.
 
 ## Wallets - Nostr NIP-60/61 support
-- [Cashu Cache](https://github.com/robwoodgate/cashu-cache⁦) lets you create (or update) a NIP-60 compliant Cashu Wallet and advertizes the NIP-61 public key so you can receive NutZaps. It also makes a wallet backup.
+- [Cashu Cache](https://github.com/robwoodgate/cashu-cache/tree/main/src) lets you create (or update) a NIP-60 compliant Cashu Wallet and advertizes the NIP-61 public key so you can receive NutZaps. It also makes a wallet backup.
 - [Cashu Gather](https://www.nostrly.com/cashu-gather/) lets you receive NutZaps sent to your NIP-61 public key, creating a token per mint you can redeem with any wallet.
 - [nutlife.lol](https://nutlife.lol/) 
 - [nuts.cash](https://www.nuts.cash/)
