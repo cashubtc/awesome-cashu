@@ -37,7 +37,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [coinos](https://github.com/coinos/coinos-ui) is a Lightning wallet with Cashu ecash integration.
 
 ## Wallets - Nostr NIP-60/61 support
-- [Cashu Cache](https://github.com/robwoodgate/cashu-cache/tree/main/src) lets you create (or update) a NIP-60 compliant Cashu Wallet and advertizes the NIP-61 public key so you can receive NutZaps. It also makes a wallet backup.
+- [Cashu Cache](https://github.com/robwoodgate/cashu-cache) lets you create (or update) a NIP-60 compliant Cashu Wallet and advertizes the NIP-61 public key so you can receive NutZaps. It also makes a wallet backup.
 - [Cashu Gather](https://www.nostrly.com/cashu-gather/) lets you receive NutZaps sent to your NIP-61 public key, creating a token per mint you can redeem with any wallet.
 - [nutlife.lol](https://nutlife.lol/) 
 - [nuts.cash](https://www.nuts.cash/)
@@ -151,6 +151,10 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [Tollgate](https://github.com/OpenTollGate/tollgate-app)  turns any WiFi router into a decentralized ISP using bitcoin and ecash.
 - [Cashucards](https://github.com/Marc26z/CashuCards) are greeting Ccards that give bitcoin using the Cashu protocol.
+- [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
+- [Receipt.cash](https://Receipt.Cash) is a bill splitter snap a picture of a fiat bill and easily split costs auto-converted to BTC. It's based on Cashu payment requests.
+- [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
+  
 ## Currently Unmaintained Projects
 - [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
