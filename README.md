@@ -154,7 +154,8 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
 - [Receipt.cash](https://github.com/Origami74/receipt-cash) is a bill splitter to snap a picture of a fiat bill and easily split costs auto-converted to BTC. It's based on Cashu payment requests.
 - [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
-  
+- [Cashu Bonds](https://github.com/lescuer97/nut-bond) is a simple proof of concept of identity bonds using Cashu.
+- [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
 ## Currently Unmaintained Projects
 - [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
@@ -162,7 +163,6 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
 - [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
-#### Kotlin
 - [cashu-client](https://github.com/thunderbiscuit/cashu-client) is a Cashu client library in Kotlin.
 - [cashu-bdhke-kmp](https://github.com/gandlafbtc/cashu-bdhke-kmp) is a Kotlin library that implements the basic cryptographic blinded signature scheme.
 
