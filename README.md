@@ -50,6 +50,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [AFK](https://afk-community.xyz/app/cashu) is a community application with NIP-60 support.
 - [Clams](https://clams.tech/) is a Personal Finance and Business Analytics application that has a Cashu NIP-60 connection.
 - [chachi](https://github.com/purrgrammer/chachi) is a nostr group chat client with NIP-60 and NIP-61 support.
+- [sixty-nuts](https://github.com/shroominic/sixty-nuts) is a lightweight NIP-60 Cashu Wallet in Python.
 ## Libraries
 
 Cashu libraries allow developers to build wallets, mints, and other services that use Cashu.
