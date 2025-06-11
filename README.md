@@ -51,6 +51,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Clams](https://clams.tech/) is a Personal Finance and Business Analytics application that has a Cashu NIP-60 connection.
 - [chachi](https://github.com/purrgrammer/chachi) is a nostr group chat client with NIP-60 and NIP-61 support.
 - [sixty-nuts](https://github.com/shroominic/sixty-nuts) is a lightweight NIP-60 Cashu Wallet in Python.
+- [+chorus](https://github.com/andotherstuff/chorus) is a simple space for communities to gather, share, and support each other. It is built on the decentralized Nostr protocol.
+  
 ## Libraries
 
 Cashu libraries allow developers to build wallets, mints, and other services that use Cashu.
