@@ -153,7 +153,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Meme amigo](https://memeamigo.lol/) enables you to hide ecash in a meme.
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [Tollgate](https://github.com/OpenTollGate/tollgate-app)  turns any WiFi router into a decentralized ISP using bitcoin and ecash.
-- [Cashucards](https://github.com/Marc26z/CashuCards) are greeting Ccards that give bitcoin using the Cashu protocol.
+- [Cashucards](https://github.com/Marc26z/CashuCards) are greeting cards that give bitcoin using the Cashu protocol.
 - [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
 - [Receipt.cash](https://github.com/Origami74/receipt-cash) is a bill splitter to snap a picture of a fiat bill and easily split costs auto-converted to BTC. It's based on Cashu payment requests.
 - [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
