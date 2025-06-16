@@ -159,6 +159,8 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
 - [Cashu Bonds](https://github.com/lescuer97/nut-bond) is a simple proof of concept of identity bonds using Cashu.
 - [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
+- [sig4sats](https://github.com/vstabile/sig4sats-script) is a a simple script demonstrating how to atomically exchange Cashu payments for Nostr event signatures using Schnorr adaptor signatures.
+
 ## Currently Unmaintained Projects
 - [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
