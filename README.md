@@ -149,6 +149,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
 - [Paywally](https://github.com/bordalix/paywally) is a Lightning paywall powered by Cashu.
+- [Satocash-Applet](https://github.com/Toporin/Satocash-Applet) is an Ecash wallet implementation in javacard.
 - [Hide a message in an emoji](https://github.com/paulgb/emoji-encoder) is a [site](https://emoji.paulbutler.org) that allows you to hide ecash in an emoji.
 - [Meme amigo](https://memeamigo.lol/) enables you to hide ecash in a meme.
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
