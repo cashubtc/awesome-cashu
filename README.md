@@ -30,6 +30,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
 - [Sovran](https://github.com/SovranBitcoin) is an ecash wallet
+- [Kashir](https://github.com/KashirApp/Kashir) is an ecash wallet with nostr integration built using React Native and CDK
   
 ## Wallets- On-Chain/Lightning Wallets 
 - [Blitz](https://github.com/BlitzWallet/BlitzWallet) is a Lightning wallet with Cashu ecash integration.
