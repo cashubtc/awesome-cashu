@@ -53,7 +53,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [chachi](https://github.com/purrgrammer/chachi) is a nostr group chat client with NIP-60 and NIP-61 support.
 - [sixty-nuts](https://github.com/shroominic/sixty-nuts) is a lightweight NIP-60 Cashu Wallet in Python.
 - [+chorus](https://github.com/andotherstuff/chorus) is a simple space for communities to gather, share, and support each other. It is built on the decentralized Nostr protocol.
-- [BTCNutServer](https://github.com/d4rp4t/BTCNutServer?mc_cid=bf3feffb71) is a new experimental plugin to bring ecash payments to BTCPay Server.  
+- [BTCNutServer](https://github.com/d4rp4t/BTCNutServer?mc_cid=bf3feffb71) is a new experimental plugin to bring ecash payments to BTCPay Server.
+- [morning-glory](http://github.com/hzrd149/morning-glory) is a paid blossom server that only stores blobs for a day and uses ecash payments.
 ## Libraries
 
 Cashu libraries allow developers to build wallets, mints, and other services that use Cashu.
