@@ -38,8 +38,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [coinos](https://github.com/coinos/coinos-ui) is a Lightning wallet with Cashu ecash integration.
 
 ## Wallets - Nostr NIP-60/61 support
-- [Cashu Cache](https://github.com/robwoodgate/cashu-cache) lets you create (or update) a NIP-60 compliant Cashu Wallet and advertizes the NIP-61 public key so you can receive NutZaps. It also makes a wallet backup.
-- [Cashu Gather](https://www.nostrly.com/cashu-gather/) lets you receive NutZaps sent to your NIP-61 public key, creating a token per mint you can redeem with any wallet.
+- [Cashu Cache](https://github.com/robwoodgate/cashu-cache) lets you create (or update) a NIP-60 compliant Cashu Wallet and advertizes the NIP-61 public key so you can receive NutZaps. It also makes a wallet backup. [GitHub](https://github.com/robwoodgate/cashu-cache).
+- [Cashu Gather](https://www.nostrly.com/cashu-gather/) lets you receive NutZaps sent to your NIP-61 public key, creating a token per mint you can redeem with any wallet. [GitHub](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-gather.js).
 - [nutlife.lol](https://nutlife.lol/) 
 - [nuts.cash](https://www.nuts.cash/)
 - [lnw.cash](https://lnw.cash/) [GitHub](https://github.com/AlbiziaLebbeck/lnwCash)
@@ -118,8 +118,8 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 
 ## Projects
 ### P2PK Locked and Multi-Sig Tokens
-- [Cashu NutLock](https://www.nostrly.com/cashu-nutlock/) lets you lock a Cashu token to one or more public keys (Nostr NPUB or P2PK) for a set time. Supports complex multi-signature (multi-sig) tokens.
-- [Cashu Witness](https://www.nostrly.com/cashu-witness/) lets you unlock locked Cashu tokens by signing them with your private key (Nostr NSEC or P2PK). Supports multi-sig, and will show you whose signature(s) are required to unlock.
+- [Cashu NutLock](https://www.nostrly.com/cashu-nutlock/) lets you lock a Cashu token to one or more public keys (Nostr NPUB or P2PK) for a set time. Supports complex multi-signature (multi-sig) tokens. [GitHub](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-lock.js).
+- [Cashu Witness](https://www.nostrly.com/cashu-witness/) lets you unlock locked Cashu tokens by signing them with your private key (Nostr NSEC or P2PK). Supports multi-sig, and will show you whose signature(s) are required to unlock. [GitHub](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-witness.js).
 
 ### Messengers
 - [0xChat](https://github.com/0xchat-app) 0xchat is a secure chat app built on the Nostr protocol with payments support using Cashu
