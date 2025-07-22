@@ -78,7 +78,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 #### Swift
 - [CashuSwift](https://github.com/zeugmaster/CashuSwift) is a Swift library implementing the Cashu protocol
-
+- [CashuKit](https://github.com/SparrowTek/CashuKit) is a Swift library implementing the Cashu protocol
 #### TypeScript & JavaScript
 
 - [Cashu-TS](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets
