@@ -22,7 +22,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [BoardwalkCash](https://github.com/MakePrisms/boardwalkcash) is a dollar-based CashuBTC wallet built on top of Bitcoin and connected to Nostr.
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
 - [Cashu.me](https://github.com/cashubtc/cashu.me) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
-- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
+- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig.
+- [Harbor](https://github.com/HarborWallet/harbor) is an ecash wallet for better desktop privacy. 
 - [Kashir](https://github.com/KashirApp/Kashir) is an ecash wallet with nostr integration built using React Native and CDK
 - [Macadamia](https://github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 - [Minibits](https://github.com/minibits-cash/minibits_wallet) is a mobile Cashu wallet with a focus on performance and usability.
@@ -33,9 +34,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 
 ## Wallets- On-Chain/Lightning Wallets 
 - [Blitz](https://github.com/BlitzWallet/BlitzWallet) is a Lightning wallet with Cashu ecash integration.
-- [Voltz](https://www.lnvoltz.xyz/) is an all-in-one on-chain+lightning+ecash wallet.
-- [Harbor](https://github.com/HarborWallet/harbor) is an ecash wallet for better desktop privacy. 
 - [coinos](https://github.com/coinos/coinos-ui) is a Lightning wallet with Cashu ecash integration.
+- [Voltz](https://www.lnvoltz.xyz/) is an all-in-one on-chain+lightning+ecash wallet.
 - [Zeus](https://github.com/ZeusLN/zeus) is a Lightning wallet with Cashu ecash integration.
 
 ## Wallets - Nostr NIP-60/61 support
