@@ -35,6 +35,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Wallets- On-Chain/Lightning Wallets 
 - [Blitz](https://github.com/BlitzWallet/BlitzWallet) is a Lightning wallet with Cashu ecash integration.
 - [Voltz](https://www.lnvoltz.xyz/) is an all-in-one on-chain+lightning+ecash wallet.
+- [Harbor](https://github.com/HarborWallet/harbor) is an ecash wallet for better desktop privacy. 
 - [coinos](https://github.com/coinos/coinos-ui) is a Lightning wallet with Cashu ecash integration.
 - [Zeus](https://github.com/ZeusLN/zeus) is a Lightning wallet with Cashu ecash integration.
 
