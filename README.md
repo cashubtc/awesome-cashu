@@ -116,19 +116,21 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Nutshell configurer]( https://celadon-semolina-91d112.netlify.app/) is a tool to set up the .env file for nutshell mints
 
 ## Projects
-### Private LLM Purchase
+### LLM Purchase
 - [Cypherflow](https://github.com/cypherflow/cypherflow_ai) is an application that provides private AI conversations powered by Cashu payments.
 - [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
 - [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
 
 
-### Messengers
-- [0xChat](https://github.com/0xchat-app) 0xchat is a secure chat app built on the Nostr protocol with payments support using Cashu
-- [KeyChat](https://github.com/keychat-io/keychat-app) Keychat is a chat app built on Cashu, Nostr and the Signal Protocol.
 
 ### LN Address Support
 - [npubcash-server](https://github.com/cashubtc/npubcash-server) is a Lightning-Address provider for nostr pubkeys based on [Cashu-Address](https://github.com/lightning-digital-entertainment/cashu-address)
 - [SatsContact](https://github.com/massmux/SatsContact) is a Lightning address provider that automatically generates @sats.contact Lightning addresses and real-time converts received amounts in Cashu tokens sent to the Telegram Chat.
+
+### Messengers
+- [0xChat](https://github.com/0xchat-app) 0xchat is a secure chat app built on the Nostr protocol with payments support using Cashu
+- [KeyChat](https://github.com/keychat-io/keychat-app) Keychat is a chat app built on Cashu, Nostr and the Signal Protocol.
+
 
 ### P2PK Locked and Multi-Sig Tokens
 - [Cashu NutLock](https://www.nostrly.com/cashu-nutlock/) lets you lock a Cashu token to one or more public keys (Nostr NPUB or P2PK) for a set time. Supports complex multi-signature (multi-sig) tokens. [GitHub](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-lock.js).
