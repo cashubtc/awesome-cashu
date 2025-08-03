@@ -39,21 +39,22 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Zeus](https://github.com/ZeusLN/zeus) is a Lightning wallet with Cashu ecash integration.
 
 ## Wallets - Nostr NIP-60/61 support
+- [AFK](https://afk-community.xyz/app/cashu) is a community application with NIP-60 support.
 - [Cashu Cache](https://github.com/robwoodgate/cashu-cache) lets you create (or update) a NIP-60 compliant Cashu Wallet and advertizes the NIP-61 public key so you can receive NutZaps. It also makes a wallet backup. [GitHub](https://github.com/robwoodgate/cashu-cache).
 - [Cashu Gather](https://www.nostrly.com/cashu-gather/) lets you receive NutZaps sent to your NIP-61 public key, creating a token per mint you can redeem with any wallet. [GitHub](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-gather.js).
-- [nutlife.lol](https://nutlife.lol/) 
-- [nuts.cash](https://www.nuts.cash/)
-- [lnw.cash](https://lnw.cash/) [GitHub](https://github.com/AlbiziaLebbeck/lnwCash)
-- [Nutsack](https://github.com/pablof7z/nutsack) [GitHub](https://github.com/pablof7z/nutsack)
-- [Highlighter](https://github.com/pablof7z/highlighter)
-- [Shopstr](https://github.com/shopstr-eng/shopstr) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
-- [Olas](https://github.com/pablof7z/olas) is an Instagram-like Nostr Client that supports NIP-60/61 (nutzaps/wallet), uses [nutsack](https://nutsack.me/)
-- [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support.
-- [AFK](https://afk-community.xyz/app/cashu) is a community application with NIP-60 support.
-- [Clams](https://clams.tech/) is a Personal Finance and Business Analytics application that has a Cashu NIP-60 connection.
 - [chachi](https://github.com/purrgrammer/chachi) is a nostr group chat client with NIP-60 and NIP-61 support.
-- [sixty-nuts](https://github.com/shroominic/sixty-nuts) is a lightweight NIP-60 Cashu Wallet in Python.
 - [+chorus](https://github.com/andotherstuff/chorus) is a simple space for communities to gather, share, and support each other. It is built on the decentralized Nostr protocol.
+- [Clams](https://clams.tech/) is a Personal Finance and Business Analytics application that has a Cashu NIP-60 connection.
+- [Highlighter](https://github.com/pablof7z/highlighter)
+- [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support.
+- [lnw.cash](https://lnw.cash/) [GitHub](https://github.com/AlbiziaLebbeck/lnwCash)
+- [nutlife.lol](https://nutlife.lol/) 
+- [Nutsack](https://github.com/pablof7z/nutsack) [GitHub](https://github.com/pablof7z/nutsack)
+- [nuts.cash](https://www.nuts.cash/)
+- [Olas](https://github.com/pablof7z/olas) is an Instagram-like Nostr Client that supports NIP-60/61 (nutzaps/wallet), uses [nutsack](https://nutsack.me/)
+- [Shopstr](https://github.com/shopstr-eng/shopstr) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
+- [sixty-nuts](https://github.com/shroominic/sixty-nuts) is a lightweight NIP-60 Cashu Wallet in Python.
+
 ## Libraries
 
 Cashu libraries allow developers to build wallets, mints, and other services that use Cashu.
