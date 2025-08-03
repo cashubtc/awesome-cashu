@@ -13,9 +13,8 @@ Visit [cashu.space](https://cashu.space/) or [docs.cashu.space](https://docs.cas
 Cashu is an open Ecash protocol for anyone to implement. The specifications, called [Cashu NUTs](https://github.com/cashubtc/nuts) (Notation, Usage, and Terminology) describe how to implement the protocol. Multiple Cashu client libaries make it easy for developers to write their own wallets.
 
 ## Mints
-
-- [Nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
 - [cdk-mintd](https://github.com/cashubtc/cdk/tree/main/crates/cdk-mintd) is a mint implementation in Rust using CDK.
+- [Nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
 
 ## Wallets
@@ -126,8 +125,8 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [KeyChat](https://github.com/keychat-io/keychat-app) Keychat is a chat app built on Cashu, Nostr and the Signal Protocol.
 
 ### X-Cashu
-- [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
 - [ChatNut](https://chatnut.sparkpay.pt/) is a privacy-preserving Chat application for large language models (LLMs) that users pay-per-request with an integrated Cashu wallet without having to create accounts.
+- [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
 - [X-Cashu](https://github.com/callebtc/xcashu) is a work-in-progress project that aims to create a 402 Payment Required scheme to monetize REST API access by using ecash in HTTP headers.
 
 ### LN Address Support
@@ -135,9 +134,9 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [SatsContact](https://github.com/massmux/SatsContact) is a Lightning address provider that automatically generates @sats.contact Lightning addresses and real-time converts received amounts in Cashu tokens sent to the Telegram Chat.
 
 ### Redeem Tools
-- [Nostrly Cashu Redeem](https://www.nostrly.com/cashu-redeem/) is an updated version of [Redeem](https://redeem.cashu.me/) that uses latest [Cashu-TS](https://github.com/cashubtc/cashu-ts), reads v4 tokens, emojis, and gives 'change'. Read the code [here](https://github.com/robwoodgate/cashu-redeem).
 - [Cashu-redeem](https://cashu-redeem.vercel.app/) webtool allows you to redeem any Cashu token directly onto your Lightning wallet without having to receive it in a Cashu wallet [GitHub](https://github.com/cashubtc/cashu-redeem).
 - [Cashu-redeem (newer)](https://redeem.cashu.me/) is a webtool that enables you to redeem Cashu v4 tokens and decode emojis to redeem Cashu tokens directly into your Lightning wallet.  It has support for bitcoin connect (NWC) and also stores change in localstorage. 
+- [Nostrly Cashu Redeem](https://www.nostrly.com/cashu-redeem/) is an updated version of [Redeem](https://redeem.cashu.me/) that uses latest [Cashu-TS](https://github.com/cashubtc/cashu-ts), reads v4 tokens, emojis, and gives 'change'. Read the code [here](https://github.com/robwoodgate/cashu-redeem).
 
 ### Various nutcases
 - [Almandine](https://lab.oak-node.net/almandine) uses Athenut above, basic wrapper with a built-in CDK wallet
