@@ -14,7 +14,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 
 ## Mints
 - [cdk-mintd](https://github.com/cashubtc/cdk/tree/main/crates/cdk-mintd) is a mint implementation in Rust using CDK.
-- [Nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
+- [nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
 
 ## Wallets
@@ -80,7 +80,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [CashuKit](https://github.com/SparrowTek/CashuKit) is a Swift library implementing the Cashu protocol
 #### TypeScript & JavaScript
 
-- [Cashu-TS](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets
+- [cashu-ts](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets
 - [cashu-crypto-ts](https://github.com/cashubtc/cashu-crypto-ts) is a TypeScript library that implements basic crypto operations for cashu wallets and mints.
 - [Cashu tools](https://github.com/gandlafbtc/cashu-tools) are advanced Cashu wallet tools based on cashu-ts in TypeScript.
 - [blind-sig-js](https://github.com/supertestnet/blind-sig-js) is a JavaScript library implementing Cashu's blind signature mechanism
