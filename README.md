@@ -19,19 +19,18 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
 
 ## Wallets
-
-- [Nutshell](https://github.com/cashubtc/nutshell) is a CLI wallet available through PyPi. It comes with builtin Tor, supports multiple mints, and can send and receive tokens on nostr, and supports pay-to-script-hash (P2SH) tokens.
-- [Nutstash](https://github.com/gandlafbtc/nutstash-wallet) is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
-- [Minibits](https://github.com/minibits-cash/minibits_wallet) is a mobile Cashu wallet with a focus on performance and usability.
-- [Cashu.me](https://github.com/cashubtc/cashu.me) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
-- [Macadamia](https://github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 - [BoardwalkCash](https://github.com/MakePrisms/boardwalkcash) is a dollar-based CashuBTC wallet built on top of Bitcoin and connected to Nostr.
-- [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
-- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
-- [Sovran](https://github.com/SovranBitcoin) is an ecash wallet
+- [Cashu.me](https://github.com/cashubtc/cashu.me) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
+- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig. 
 - [Kashir](https://github.com/KashirApp/Kashir) is an ecash wallet with nostr integration built using React Native and CDK
-  
+- [Macadamia](https://github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
+- [Minibits](https://github.com/minibits-cash/minibits_wallet) is a mobile Cashu wallet with a focus on performance and usability.
+- [Nutstash](https://github.com/gandlafbtc/nutstash-wallet) is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
+- [Nutshell](https://github.com/cashubtc/nutshell) is a CLI wallet available through PyPi. It comes with builtin Tor, supports multiple mints, and can send and receive tokens on nostr, and supports pay-to-script-hash (P2SH) tokens.
+- [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
+- [Sovran](https://github.com/SovranBitcoin) is an ecash wallet
+
 ## Wallets- On-Chain/Lightning Wallets 
 - [Blitz](https://github.com/BlitzWallet/BlitzWallet) is a Lightning wallet with Cashu ecash integration.
 - [Voltz](https://www.lnvoltz.xyz/) is an all-in-one on-chain+lightning+ecash wallet.
