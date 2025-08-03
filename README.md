@@ -173,13 +173,14 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
    
 ## Currently Unmaintained Projects
-- [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
-- [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
-- [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
-- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
-- [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
+
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
 - [cashu-client](https://github.com/thunderbiscuit/cashu-client) is a Cashu client library in Kotlin.
 - [cashu-bdhke-kmp](https://github.com/gandlafbtc/cashu-bdhke-kmp) is a Kotlin library that implements the basic cryptographic blinded signature scheme.
+- [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
 - [Cashu faucet](https://www.gandlaf.com/faucet/anarchy) allows you to deposit and withdraw Cashu tokens from a web interface. Read the code [here](https://github.com/gandlafbtc/cashu-faucet).
+- [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
+- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
+- [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
+- [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 
