@@ -179,6 +179,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
 - [cashu-client](https://github.com/thunderbiscuit/cashu-client) is a Cashu client library in Kotlin.
 - [cashu-bdhke-kmp](https://github.com/gandlafbtc/cashu-bdhke-kmp) is a Kotlin library that implements the basic cryptographic blinded signature scheme.
+- [cashu-feni](https://github.com/cashubtc/cashu-feni) is a Golang library for Cashu wallets and mints.
 - [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
 - [Cashu faucet](https://www.gandlaf.com/faucet/anarchy) allows you to deposit and withdraw Cashu tokens from a web interface. Read the code [here](https://github.com/gandlafbtc/cashu-faucet).
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
