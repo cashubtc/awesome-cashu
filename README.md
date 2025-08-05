@@ -120,7 +120,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cypherflow](https://github.com/cypherflow/cypherflow_ai) is an application that provides private AI conversations powered by Cashu payments.
 - [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
 - [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
-
+- [otrta-client](https://github.com/Routstr/otrta-client) is privacy-first AI payment system powered by e-cash technology. [Site](https://ecash.client.otrta.me/documentation/overview)
 
 
 ### LN Address Support
