@@ -117,11 +117,11 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 
 ## Projects
 ### LLM Purchase
+- [ChatNut](https://chatnut.sparkpay.pt/) is a privacy-preserving Chat application for large language models (LLMs) that users pay-per-request with an integrated Cashu wallet without having to create accounts.
 - [Cypherflow](https://github.com/cypherflow/cypherflow_ai) is an application that provides private AI conversations powered by Cashu payments.
 - [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
-- [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
 - [otrta-client](https://github.com/Routstr/otrta-client) is privacy-first AI payment system powered by e-cash technology. [Site](https://ecash.client.otrta.me/documentation/overview)
-
+- [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
 
 ### LN Address Support
 - [npubcash-server](https://github.com/cashubtc/npubcash-server) is a Lightning-Address provider for nostr pubkeys based on [Cashu-Address](https://github.com/lightning-digital-entertainment/cashu-address)
@@ -143,7 +143,6 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Nostrly Cashu Redeem](https://www.nostrly.com/cashu-redeem/) is an updated version of [Redeem](https://redeem.cashu.me/) that uses latest [Cashu-TS](https://github.com/cashubtc/cashu-ts), reads v4 tokens, emojis, and gives 'change'. Read the code [here](https://github.com/robwoodgate/cashu-redeem).
 
 ### X-Cashu
-- [ChatNut](https://chatnut.sparkpay.pt/) is a privacy-preserving Chat application for large language models (LLMs) that users pay-per-request with an integrated Cashu wallet without having to create accounts.
 - [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
 - [X-Cashu](https://github.com/callebtc/xcashu) is a work-in-progress project that aims to create a 402 Payment Required scheme to monetize REST API access by using ecash in HTTP headers.
 
