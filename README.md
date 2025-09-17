@@ -156,6 +156,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashucards](https://github.com/Marc26z/CashuCards) are greeting cards that give bitcoin using the Cashu protocol.
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
+- [coco-cashu](https://github.com/Egge21M/coco-cashu) is a modular, TypeScript-first toolkit for building Cashu wallets and applications.
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [Hide a message in an emoji](https://github.com/paulgb/emoji-encoder) is a [site](https://emoji.paulbutler.org) that allows you to hide ecash in an emoji.
