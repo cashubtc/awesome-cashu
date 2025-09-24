@@ -73,8 +73,10 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 #### Rust
 
-- [@cashubtc/cdk](https://github.com/cashubtc/cdk) wallet and mint library
-
+- [Cashu Development Kit(cdk)](https://github.com/cashubtc/cdk) is a Rust library implementing the Cashu protocol
+- [cdk-kotlin](https://github.com/cashubtc/cdk-kotlin) are Kotlin/Android language bindings for the Cashu Development Kit (cdk)
+- [cdk-swift](https://github.com/cashubtc/cdk-swift) are Swift language bindings for the Cashu Development Kit (cdk)
+  
 #### Swift
 - [CashuSwift](https://github.com/zeugmaster/CashuSwift) is a Swift library implementing the Cashu protocol
 - [CashuKit](https://github.com/SparrowTek/CashuKit) is a Swift library implementing the Cashu protocol
