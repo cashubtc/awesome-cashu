@@ -13,7 +13,7 @@ Visit [cashu.space](https://cashu.space/) or [docs.cashu.space](https://docs.cas
 Cashu is an open Ecash protocol for anyone to implement. The specifications, called [Cashu NUTs](https://github.com/cashubtc/nuts) (Notation, Usage, and Terminology) describe how to implement the protocol. Multiple Cashu client libaries make it easy for developers to write their own wallets.
 
 ## Mints
-- [cdk-mintd](https://github.com/cashubtc/cdk/tree/main/crates/cdk-mintd) is a mint implementation in Rust using CDK.
+- [mintd](https://github.com/cashubtc/cdk/tree/main/crates/cdk-mintd) is a mint implementation in Rust using CDK.
 - [nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
 
