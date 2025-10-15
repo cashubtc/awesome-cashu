@@ -61,11 +61,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 #### C#
 - [dotnut](https://github.com/Kukks/DotNut) is a C# library implementing the Cashu protocol
 
-
-#### Dart
-
-- [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps
-  
+ 
 
 #### Python
 
@@ -189,6 +185,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashu faucet](https://www.gandlaf.com/faucet/anarchy) allows you to deposit and withdraw Cashu tokens from a web interface. Read the code [here](https://github.com/gandlafbtc/cashu-faucet).
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
+- [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps 
 - [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your Ecash journey.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
 
