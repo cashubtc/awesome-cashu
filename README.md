@@ -154,6 +154,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashu Bonds](https://github.com/lescuer97/nut-bond) is a simple proof of concept of identity bonds using Cashu.
 - [Cashu-brrr](https://brrr.gandlaf.com) is a Cashu ecash printer. [GitHub](https://github.com/gandlafbtc/cashu-brrr/)
 - [Cashucards](https://github.com/Marc26z/CashuCards) are greeting cards that give bitcoin using the Cashu protocol.
+- [Cashu MLS Chat](https://github.com/SatsAndSports/cashu_mls_chat) is a a web-based application combining MDK (Marmot Development Kit) for encrypted group messaging with Cashu (CDK) for ecash wallet functionality.
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
