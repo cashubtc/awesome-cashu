@@ -168,6 +168,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
 - [Orchard](https://github.com/orangeshyguy21/orchard) is a Bitcoin super application that has Cashu mint monitoring.
 - [Paywally](https://github.com/bordalix/paywally) is a Lightning paywall powered by Cashu.
+- [Portal Technologies](https://github.com/PortalTechnologiesInc) is a universal app for identity & payments.
 - [Receipt.cash](https://github.com/Origami74/receipt-cash) is a bill splitter to snap a picture of a fiat bill and easily split costs auto-converted to BTC. It's based on Cashu payment requests.
 - [Satocash-Applet](https://github.com/Toporin/Satocash-Applet) is an Ecash wallet implementation in javacard.
 - [sig4sats](https://github.com/vstabile/sig4sats-script) is a a simple script demonstrating how to atomically exchange Cashu payments for Nostr event signatures using Schnorr adaptor signatures.
