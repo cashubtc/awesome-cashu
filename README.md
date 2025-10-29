@@ -159,6 +159,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashu-brrr](https://brrr.gandlaf.com) is a Cashu ecash printer. [GitHub](https://github.com/gandlafbtc/cashu-brrr/)
 - [cashu-kym](https://github.com/Egge21M/cashu-kym) is used to discover and score Cashu mints.
 - [Cashucards](https://github.com/Marc26z/CashuCards) are greeting cards that give bitcoin using the Cashu protocol.
+- [Cashu for Community Sovereignty](http://cashu4community.xyz) is a private and censorship resistant payment systems for communities under authoritarian regimes. [GH](https://github.com/cashu4community)
 - [Cashu MLS Chat](https://github.com/SatsAndSports/cashu_mls_chat) is a a web-based application combining MDK (Marmot Development Kit) for encrypted group messaging with Cashu (CDK) for ecash wallet functionality.
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
