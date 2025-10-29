@@ -154,7 +154,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [S-two Cairo Demo](https://stwo-cairo.vercel.app/) is bringing zero-knowledge proofs to Cashu. Github repos: [stwo-cairo](https://github.com/starkware-libs/stwo-cairo) and [stwo-cairo-ts](https://github.com/clealabs/stwo-cairo-ts)
 - [Cashu Bonds](https://github.com/lescuer97/nut-bond) is a simple proof of concept of identity bonds using Cashu.
 - [Cashu-brrr](https://brrr.gandlaf.com) is a Cashu ecash printer. [GitHub](https://github.com/gandlafbtc/cashu-brrr/)
-- [cashu-kym](https://www.npmjs.com/package/cashu-kym) is used to discover and score Cashu mints.
+- [cashu-kym](https://github.com/Egge21M/cashu-kym) is used to discover and score Cashu mints.
 - [Cashucards](https://github.com/Marc26z/CashuCards) are greeting cards that give bitcoin using the Cashu protocol.
 - [Cashu MLS Chat](https://github.com/SatsAndSports/cashu_mls_chat) is a a web-based application combining MDK (Marmot Development Kit) for encrypted group messaging with Cashu (CDK) for ecash wallet functionality.
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects
