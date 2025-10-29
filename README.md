@@ -62,7 +62,9 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 #### C#
 - [dotnut](https://github.com/Kukks/DotNut) is a C# library implementing the Cashu protocol
 
- 
+#### Java
+
+- [Cashu-JDK](https://github.com/d4rp4t/Cashu-JDK) is a minimal, stateless reimplementation of the Cashu protocol in Java.
 
 #### Python
 
