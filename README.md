@@ -185,7 +185,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Spacenut](https://spacenut.nutstash.app) The sickest Cashu-enabled game you've ever played ([GitHub](https://github.com/gandlafbtc/spacenut))
 - [Tollgate](https://github.com/OpenTollGate/tollgate-app)  turns any WiFi router into a decentralized ISP using bitcoin and ecash.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
-- [402.markets](https://402.markets/) is an API marketplace powered by Lightning Network and Cashu tokens.   
+- [402.markets](https://402.markets/) is an API marketplace powered by Lightning Network and Cashu tokens. [GitHub](https://github.com/Kelbie/402.markets) 
 ## Currently Unmaintained Projects
 
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
