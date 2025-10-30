@@ -80,6 +80,10 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 #### Swift
 - [CashuSwift](https://github.com/zeugmaster/CashuSwift) is a Swift library implementing the Cashu protocol
 - [CashuKit](https://github.com/SparrowTek/CashuKit) is a Swift library implementing the Cashu protocol
+
+#### Svelte
+- [Cyphertap](https://github.com/cypherflow/cyphertap) provides Nostr, Lightning & ecash in a single Svelte component.
+
 #### TypeScript & JavaScript
 
 - [cashu-ts](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets
@@ -185,6 +189,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Satocash-Applet](https://github.com/Toporin/Satocash-Applet) is an Ecash wallet implementation in javacard.
 - [sig4sats](https://github.com/vstabile/sig4sats-script) is a a simple script demonstrating how to atomically exchange Cashu payments for Nostr event signatures using Schnorr adaptor signatures.
 - [Spacenut](https://spacenut.nutstash.app) The sickest Cashu-enabled game you've ever played ([GitHub](https://github.com/gandlafbtc/spacenut))
+- [Spark Payment processor](https://github.com/thesimplekid/cdk-spark-payment-prcoessor) is a gRPC-based Lightning Network payment processor that implements the CDK payment processor protocol using the Breez SDK Spark.
 - [Tollgate](https://github.com/OpenTollGate/tollgate-app)  turns any WiFi router into a decentralized ISP using bitcoin and ecash.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
 - [402.markets](https://402.markets/) is an API marketplace powered by Lightning Network and Cashu tokens. [GitHub](https://github.com/Kelbie/402.markets) 
