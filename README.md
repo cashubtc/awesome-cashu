@@ -23,7 +23,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Cashu.me](https://github.com/cashubtc/cashu.me) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig.
 - [eNuts 2](https://github.com/cashubtc/eNuts/tree/master) is a Cashu wallet being resurrected from the original eNuts wallet.
-- [Harbor](https://github.com/HarborWallet/harbor) is an ecash wallet for better desktop privacy. 
+- [Harbor](https://github.com/HarborWallet/harbor) is an ecash wallet for better desktop privacy.
 - [Kashir](https://github.com/KashirApp/Kashir) is an ecash wallet with nostr integration built using React Native and CDK.
 - [Macadamia](https://github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 - [Minibits](https://github.com/minibits-cash/minibits_wallet) is a mobile Cashu wallet with a focus on performance and usability.
@@ -46,6 +46,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [+chorus](https://github.com/andotherstuff/chorus) is a simple space for communities to gather, share, and support each other. It is built on the decentralized Nostr protocol.
 - [Clams](https://clams.tech/) is a Personal Finance and Business Analytics application that has a Cashu NIP-60 connection.
 - [Highlighter](https://github.com/pablof7z/highlighter)
+- [Iris](https://github.com/irislib/iris-messenger) is a Nostr Android, iOS and web client that has also standalone desktop app and a Cashu wallet.
 - [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support.
 - [lnw.cash](https://lnw.cash/) [GitHub](https://github.com/AlbiziaLebbeck/lnwCash)
 - [nutlife.lol](https://nutlife.lol/) 
@@ -163,6 +164,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashu MLS Chat](https://github.com/SatsAndSports/cashu_mls_chat) is a a web-based application combining MDK (Marmot Development Kit) for encrypted group messaging with Cashu (CDK) for ecash wallet functionality.
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
+- [chessu.cash](https://chessu.cash/) is a game where you can solve chess puzzles and earn Cashu ecash.
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [Hide a message in an emoji](https://github.com/paulgb/emoji-encoder) is a [site](https://emoji.paulbutler.org) that allows you to hide ecash in an emoji.
