@@ -20,7 +20,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Wallets
 - [Agicash](https://github.com/MakePrisms/agicash) is a Cashu wallet that uses the Open Secret platform.
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
-- [Cashu.me](https://github.com/cashubtc/cashu.me) is another web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
+- [Cashu.me](https://github.com/cashubtc/cashu.me) is a web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig.
 - [eNuts 2](https://github.com/cashubtc/eNuts/tree/master) is a Cashu wallet being resurrected from the original eNuts wallet.
 - [Harbor](https://github.com/HarborWallet/harbor) is an ecash wallet for better desktop privacy.
@@ -29,8 +29,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Minibits](https://github.com/minibits-cash/minibits_wallet) is a mobile Cashu wallet with a focus on performance and usability.
 - [Nutstash](https://github.com/gandlafbtc/nutstash-wallet) is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Nutshell](https://github.com/cashubtc/nutshell) is a CLI wallet available through PyPi. It comes with builtin Tor, supports multiple mints, and can send and receive tokens on nostr, and supports pay-to-script-hash (P2SH) tokens.
-- [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental
-- [Sovran](https://github.com/SovranBitcoin) is an ecash wallet
+- [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental.
+- [Sovran](https://github.com/SovranBitcoin) is a Cashu wallet for iOS.
 
 ## Wallets- On-Chain/Lightning Wallets 
 - [Blitz](https://github.com/BlitzWallet/BlitzWallet) is a Lightning wallet with Cashu ecash integration.
@@ -43,16 +43,16 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Cashu Cache](https://github.com/robwoodgate/cashu-cache) lets you create (or update) a NIP-60 compliant Cashu Wallet and advertizes the NIP-61 public key so you can receive NutZaps. It also makes a wallet backup. [GitHub](https://github.com/robwoodgate/cashu-cache).
 - [Cashu Gather](https://www.nostrly.com/cashu-gather/) lets you receive NutZaps sent to your NIP-61 public key, creating a token per mint you can redeem with any wallet. [GitHub](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-gather.js).
 - [chachi](https://github.com/purrgrammer/chachi) is a nostr group chat client with NIP-60 and NIP-61 support.
-- [+chorus](https://github.com/andotherstuff/chorus) is a simple space for communities to gather, share, and support each other. It is built on the decentralized Nostr protocol.
+- [+chorus](https://github.com/andotherstuff/chorus) is a simple space for communities to gather, share, and support each other. It is built on the decentralized Nostr protocol and has an integrated Cashu wallet.
 - [Clams](https://clams.tech/) is a Personal Finance and Business Analytics application that has a Cashu NIP-60 connection.
 - [Highlighter](https://github.com/pablof7z/highlighter)
-- [Iris](https://github.com/irislib/iris-messenger) is a Nostr Android, iOS and web client that has also standalone desktop app and a Cashu wallet.
+- [Iris](https://github.com/irislib/iris-messenger) is a Nostr Android, iOS and web client that also has a standalone desktop app and a Cashu wallet.
 - [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support.
 - [lnw.cash](https://lnw.cash/) [GitHub](https://github.com/AlbiziaLebbeck/lnwCash)
 - [nutlife.lol](https://nutlife.lol/) 
 - [Nutsack](https://github.com/pablof7z/nutsack) [GitHub](https://github.com/pablof7z/nutsack)
 - [nuts.cash](https://www.nuts.cash/)
-- [Olas](https://github.com/pablof7z/olas) is an Instagram-like Nostr Client that supports NIP-60/61 (nutzaps/wallet), uses [nutsack](https://nutsack.me/)
+- [Olas](https://github.com/pablof7z/olas) is an Instagram-like Nostr Client that supports NIP-60/61 (nutzaps/wallet), uses [nutsack](https://nutsack.me/).
 - [Shopstr](https://github.com/shopstr-eng/shopstr) has a built-in Cashu wallet for payments that has several features and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [sixty-nuts](https://github.com/shroominic/sixty-nuts) is a lightweight NIP-60 Cashu Wallet in Python.
 
@@ -61,7 +61,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 Cashu libraries allow developers to build wallets, mints, and other services that use Cashu.
 
 #### C#
-- [dotnut](https://github.com/Kukks/DotNut) is a C# library implementing the Cashu protocol
+- [dotnut](https://github.com/Kukks/DotNut) is a C# library implementing the Cashu protocol.
 
 #### Java
 
@@ -69,28 +69,28 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 #### Python
 
-- [Nutshell](https://github.com/cashubtc/cashu) Nutshell is a Python library for using Cashu wallets and mints inside other Python projects
+- [Nutshell](https://github.com/cashubtc/cashu) is a Python library for using Cashu wallets and mints inside other Python projects.
 
 #### Rust
 
-- [Cashu Development Kit(cdk)](https://github.com/cashubtc/cdk) is a Rust library implementing the Cashu protocol
-- [cdk-kotlin](https://github.com/cashubtc/cdk-kotlin) are Kotlin/Android language bindings for the Cashu Development Kit (cdk)
-- [cdk-swift](https://github.com/cashubtc/cdk-swift) are Swift language bindings for the Cashu Development Kit (cdk)
+- [Cashu Development Kit(cdk)](https://github.com/cashubtc/cdk) is a Rust library implementing the Cashu protocol.
+- [cdk-kotlin](https://github.com/cashubtc/cdk-kotlin) are Kotlin/Android language bindings for the Cashu Development Kit (cdk).
+- [cdk-swift](https://github.com/cashubtc/cdk-swift) are Swift language bindings for the Cashu Development Kit (cdk).
   
 #### Swift
-- [CashuSwift](https://github.com/zeugmaster/CashuSwift) is a Swift library implementing the Cashu protocol
-- [CashuKit](https://github.com/SparrowTek/CashuKit) is a Swift library implementing the Cashu protocol
+- [CashuSwift](https://github.com/zeugmaster/CashuSwift) is a Swift library implementing the Cashu protocol.
+- [CashuKit](https://github.com/SparrowTek/CashuKit) is a Swift library implementing the Cashu protocol.
 
 #### Svelte
 - [Cyphertap](https://github.com/cypherflow/cyphertap) provides Nostr, Lightning & ecash in a single Svelte component.
 
 #### TypeScript & JavaScript
 
-- [cashu-ts](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets
-- [cashu-crypto-ts](https://github.com/cashubtc/cashu-crypto-ts) is a TypeScript library that implements basic crypto operations for cashu wallets and mints.
+- [cashu-ts](https://github.com/cashubtc/cashu-ts) is a TypeScript library for building Cashu wallets.
+- [cashu-crypto-ts](https://github.com/cashubtc/cashu-crypto-ts) is a TypeScript library that implements basic crypto operations for Cashu wallets and mints.
 - [Coco](https://github.com/cashubtc/coco) is a modular, TypeScript-first toolkit for building Cashu wallets and applications.
 - [Cashu tools](https://github.com/gandlafbtc/cashu-tools) are advanced Cashu wallet tools based on cashu-ts in TypeScript.
-- [blind-sig-js](https://github.com/supertestnet/blind-sig-js) is a JavaScript library implementing Cashu's blind signature mechanism
+- [blind-sig-js](https://github.com/supertestnet/blind-sig-js) is a JavaScript library implementing Cashu's blind signature mechanism.
 - [cashu-wallet](https://github.com/ebrakke/cashu-wallet) is a framework-agnostic Cashu wallet written in TypeScript.
 
 ## Documentation Web Sites
@@ -103,8 +103,8 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 ## Tools
 
 ### Testnut Mints
-- [https://testnut.cashu.space](https://testnut.cashu.space) is a testnut mint with fees with unbacked fake ecash for testing  
-- [https://nofees.testnut.cashu.space ](https://nofees.testnut.cashu.space) is a testnut mint with no fees with unbacked fake ecash for testing  
+- [https://testnut.cashu.space](https://testnut.cashu.space) is a testnut mint with fees with unbacked fake ecash for testing.  
+- [https://nofees.testnut.cashu.space ](https://nofees.testnut.cashu.space) is a testnut mint with no fees with unbacked fake ecash for testing.  
 
 ### Mint Discovery and Audit
 - [bitcoinmints](http://bitcoinmints.com) is a list of ecash mints, supported NUTS, and reviews of the mints.  [GitHub](https://github.com/MakePrisms/bitcoinmints)
@@ -116,12 +116,12 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 
 ### Token Decoders 
 - [Cashu Decode](https://decode.8333.space/) - a v4 token decoder that lets you view and edit the tokens in real time.
-- [Cashu decoder](https://github.com/nostrapps/cashu/) is a [web decoder](https://nostrapps.github.io/cashu) for Cashu v3 tokens
-- [Cashu decoder](https://nutcoder.netlify.app/) is a decoder for Cashu v3 and v4 tokens
+- [Cashu decoder](https://github.com/nostrapps/cashu/) is a [web decoder](https://nostrapps.github.io/cashu) for Cashu v3 tokens.
+- [Cashu decoder](https://nutcoder.netlify.app/) is a decoder for Cashu v3 and v4 tokens.
 
 ### Misc
-- [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu
-- [Nutshell configurer]( https://celadon-semolina-91d112.netlify.app/) is a tool to set up the .env file for nutshell mints
+- [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu.
+- [Nutshell configurer]( https://celadon-semolina-91d112.netlify.app/) is a tool to set up the .env file for nutshell mints.
 
 ## Projects
 ### LLM Purchase
