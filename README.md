@@ -128,7 +128,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [ChatNut](https://chatnut.sparkpay.pt/) is a privacy-preserving Chat application for large language models (LLMs) that users pay-per-request with an integrated Cashu wallet without having to create accounts.
 - [Cypherflow](https://github.com/cypherflow/cypherflow_ai) is an application that provides private AI conversations powered by Cashu payments.
 - [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
-- [otrta-client](https://github.com/Routstr/otrta-client) is privacy-first AI payment system powered by e-cash technology. [Site](https://ecash.client.otrta.me/documentation/overview)
+- [otrta-client](https://github.com/Routstr/otrta-client) is privacy-first AI payment system powered by e-cash technology. [site](https://ecash.client.otrta.me/documentation/overview)
 - [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
 
 ### LN Address Support
@@ -170,6 +170,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
 - [cashu.me.extension](https://github.com/Kelbie/cashu.me.extension) is a Cashu.me wrapper that allows you to use your Cashu.me ecash and manage functionality related to it including sending and receiving.        [Chrome extension](https://chromewebstore.google.com/detail/cashume/adfafhcbnbehkgpkfgpbgagkjlddkohj) and [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/cashu-me/).
 - [chessu.cash](https://chessu.cash/) is a game where you can solve chess puzzles and earn Cashu ecash.
+- [classu](https://github.com/inscrib3/classu.cash) is an educational platform fully dedicated to Cashu. [site](https://classu.cash)
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [Hide a message in an emoji](https://github.com/paulgb/emoji-encoder) is a [site](https://emoji.paulbutler.org) that allows you to hide ecash in an emoji.
