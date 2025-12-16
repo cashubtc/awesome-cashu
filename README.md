@@ -104,7 +104,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 
 ### Testnut Mints
 - [https://testnut.cashu.space](https://testnut.cashu.space) is a testnut mint with fees with unbacked fake ecash for testing.  
-- [https://nofee.testnut.cashu.space ](https://nofees.testnut.cashu.space) is a testnut mint with no fees with unbacked fake ecash for testing.  
+- [https://nofee.testnut.cashu.space ](https://nofee.testnut.cashu.space) is a testnut mint with no fees with unbacked fake ecash for testing.  
 
 ### Mint Discovery and Audit
 - [bitcoinmints](http://bitcoinmints.com) is a list of ecash mints, supported NUTS, and reviews of the mints.  [GitHub](https://github.com/MakePrisms/bitcoinmints)
