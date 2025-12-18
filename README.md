@@ -184,6 +184,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Nuts are Pure Signal](https://github.com/swedishfrenchpress/bitcoinforsignal) is a bitcoin for Signal hackathon project winner.
 - [Obfusats](https://devpost.com/software/obfusats) is a hackathon project that takes a stack of sats, splits and routes through a couple of Cashu mints before merging again. 
 - [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
+- [OnChainDiscGolf](https://github.com/OnChainDiscGolf/app) is a disc golf scorecard app with integrated Bitcoin payments via Cashu ecash.
 - [Orchard](https://github.com/orangeshyguy21/orchard) is a Bitcoin super application that has Cashu mint monitoring.
 - [Paywally](https://github.com/bordalix/paywally) is a Lightning paywall powered by Cashu.
 - [Portal Technologies](https://github.com/PortalTechnologiesInc) is a universal app for identity & payments.
@@ -192,6 +193,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [sig4sats](https://github.com/vstabile/sig4sats-script) is a a simple script demonstrating how to atomically exchange Cashu payments for Nostr event signatures using Schnorr adaptor signatures.
 - [Spacenut](https://spacenut.nutstash.app) The sickest Cashu-enabled game you've ever played. ([GitHub](https://github.com/gandlafbtc/spacenut))
 - [Spark Payment processor](https://github.com/thesimplekid/cdk-spark-payment-prcoessor) is a gRPC-based Lightning Network payment processor that implements the CDK payment processor protocol using the Breez SDK Spark.
+- [The Nutty Pill](https://github.com/MonkeyDGigi/The_Nutty_Pill) is an educational application that gamifies Bitcoin learning with a Cashu.me wallet.
 - [Tollgate](https://github.com/OpenTollGate/tollgate-app) turns any WiFi router into a decentralized ISP using bitcoin and ecash.
 - [Wally](https://github.com/Origami74/wally) allows your device to discover and (auto)connect to TollGates around you. Implements Cashu Wallet Connect (CWC), an extension of NIP-47 (Nostr Wallet Connect) that enables applications to interact with Cashu ecash wallets over Nostr.
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding cashu into files with the help of steganography.
