@@ -166,6 +166,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashucards](https://github.com/Marc26z/CashuCards) are greeting cards that give bitcoin using the Cashu protocol.
 - [Cashu for Community Sovereignty](http://cashu4community.xyz) is a private and censorship resistant payment systems for communities under authoritarian regimes. [GH](https://github.com/cashu4community)
 - [Cashu MLS Chat](https://github.com/SatsAndSports/cashu_mls_chat) is a a web-based application combining MDK (Marmot Development Kit) for encrypted group messaging with Cashu (CDK) for ecash wallet functionality.
+- [Cashu Monopoly](https://github.com/bTCpy/monopoly/) is classic Monopoly, but the money is real Bitcoin. Buy in with Lightning, pot held in a Cashu wallet, winner takes the sats.
 - [CashuProjects](https://github.com/CashuProjects) is collection of TypeScript projects.
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) Ecash escrow provider and client concept.
 - [cashu.me.extension](https://github.com/Kelbie/cashu.me.extension) is a Cashu.me wrapper that allows you to use your Cashu.me ecash and manage functionality related to it including sending and receiving.        [Chrome extension](https://chromewebstore.google.com/detail/cashume/adfafhcbnbehkgpkfgpbgagkjlddkohj) and [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/cashu-me/).
