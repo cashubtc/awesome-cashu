@@ -179,6 +179,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Meme amigo](https://memeamigo.lol/) enables you to hide ecash in a meme.
 - [Morning Glory](https://github.com/hzrd149/morning-glory) is a paid blossom server that only stores blobs for a day.
 - [ngx_l402](https://github.com/DhananjayPurohit/ngx_l402) is an L402 authentication module/plugin for Nginx that integrates seamlessly into your web server.
+- [nostrpay](https://github.com/Unit-Matrix/nostrpay) is a child-friendly learning app with offline-first Cashu payments built into an educational environment.
 - [nutoff-wallet](https://github.com/gzuuus/nutoff-wallet) is a command-line interface and MCP server interface implementing a Cashu wallet.
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
 - [Nuts are Pure Signal](https://github.com/swedishfrenchpress/bitcoinforsignal) is a bitcoin for Signal hackathon project winner.
@@ -193,6 +194,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [sig4sats](https://github.com/vstabile/sig4sats-script) is a a simple script demonstrating how to atomically exchange Cashu payments for Nostr event signatures using Schnorr adaptor signatures.
 - [Spacenut](https://spacenut.nutstash.app) The sickest Cashu-enabled game you've ever played. ([GitHub](https://github.com/gandlafbtc/spacenut))
 - [Spark Payment processor](https://github.com/thesimplekid/cdk-spark-payment-prcoessor) is a gRPC-based Lightning Network payment processor that implements the CDK payment processor protocol using the Breez SDK Spark.
+- [Taskify](https://github.com/Solife-me/Taskify_Release) is a clean, powerful to-do app where tasks can carry Cashu bounties.
 - [The Nutty Pill](https://github.com/MonkeyDGigi/The_Nutty_Pill) is an educational application that gamifies Bitcoin learning with a Cashu.me wallet.
 - [Tollgate](https://github.com/OpenTollGate/tollgate-app) turns any WiFi router into a decentralized ISP using bitcoin and ecash.
 - [Wally](https://github.com/Origami74/wally) allows your device to discover and (auto)connect to TollGates around you. Implements Cashu Wallet Connect (CWC), an extension of NIP-47 (Nostr Wallet Connect) that enables applications to interact with Cashu ecash wallets over Nostr.
