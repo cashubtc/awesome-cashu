@@ -163,6 +163,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [S-two Cairo Demo](https://stwo-cairo.vercel.app/) is bringing zero-knowledge proofs to Cashu. Github repos: [stwo-cairo](https://github.com/starkware-libs/stwo-cairo) and [stwo-cairo-ts](https://github.com/clealabs/stwo-cairo-ts)
 - [Cashu Bonds](https://github.com/lescuer97/nut-bond) is a simple proof of concept of identity bonds using Cashu.
 - [Cashu-brrr](https://brrr.gandlaf.com) is a Cashu ecash printer. [GitHub](https://github.com/gandlafbtc/cashu-brrr/)
+- [Cashu Casino](https://github.com/babdbtc/cashucasino) is a privacy-focused online casino powered by Cashu ecash.
 - [cashu-kym](https://github.com/Egge21M/cashu-kym) is used to discover and score Cashu mints.
 - [Cashucards](https://github.com/Marc26z/CashuCards) are greeting cards that give Bitcoin using the Cashu protocol.
 - [Cashu for Community Sovereignty](http://cashu4community.xyz) provides private and censorship resistant payment systems for communities under authoritarian regimes. [GH](https://github.com/cashu4community)
@@ -178,6 +179,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [Hide a message in an emoji](https://github.com/paulgb/emoji-encoder) is a [site](https://emoji.paulbutler.org) that allows you to hide ecash in an emoji.
 - [Layer3 Press](https://layer3.press/welcome) is an unstoppable publishing service that allows people to easily receive Bitcoin, Lightning and Cashu subscription payments with a built-in Coinos wallet.
+- [lnuts](https://gitworkshop.dev/npub1dfedhrhn7wu7uhkdsz8dd5rrr50ymkjutkklq7y8zpxn89t7hfyqfzlc7u/relay.ngit.dev/lnuts) is a full Nostr-ready LNURL-pay server that bridges Lightning payments to Cashu tokens.
 - [mcp-money](https://github.com/pablof7z/mcp-money) is an MCP (Model Context Protocol) money implementation for Nostr using NDK (Nostr Development Kit) with Cashu ecash functionality.
 - [Meme amigo](https://memeamigo.lol/) enables you to hide ecash in a meme.
 - [Morning Glory](https://github.com/hzrd149/morning-glory) is a paid blossom server that only stores blobs for a day.
