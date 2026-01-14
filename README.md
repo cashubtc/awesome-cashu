@@ -94,10 +94,10 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 ## Documentation Web Sites
 Note: These documentation sites are works in progress (WIP) and welcome feedback and suggestions for content.
-- [CDK](https://cashudevkit.org/) is a CDK doc site. [GH](https://github.com/cashubtc/cdk) for input/feedback.
+- [CDK](https://cashudevkit.org/) is a CDK doc site. [GitHub](https://github.com/cashubtc/cdk) for input/feedback.
 - [CDK](https://ok300.github.io/cdk-docs/mint/03_systemd_service/) is a CDK doc site.
-- [cashu-ts](https://cashubtc.github.io/cashu-ts-docs/) is a cashu-ts doc site.  [GH](https://github.com/cashubtc/cashu-ts-docs) for input/feedback.
-- [Mint Best Practices](https://findingsov.github.io/cashu-mint-docs/) is a mint best practices doc site. [GH](https://github.com/findingsov/cashu-mint-docs) for input/feedback.
+- [cashu-ts](https://cashubtc.github.io/cashu-ts-docs/) is a cashu-ts doc site.  [GitHub](https://github.com/cashubtc/cashu-ts-docs) for input/feedback.
+- [Mint Best Practices](https://findingsov.github.io/cashu-mint-docs/) is a mint best practices doc site. [GitHub](https://github.com/findingsov/cashu-mint-docs) for input/feedback.
 
 ## Tools
 
@@ -127,7 +127,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [ChatNut](https://chatnut.sparkpay.pt/) is a privacy-preserving Chat application for large language models (LLMs) that users pay-per-request with an integrated Cashu wallet without having to create accounts.
 - [Cypherflow](https://github.com/cypherflow/cypherflow_ai) is an application that provides private AI conversations powered by Cashu payments.
 - [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
-- [otrta-client](https://github.com/Routstr/otrta-client) is privacy-first AI payment system powered by e-cash technology. [site](https://ecash.client.otrta.me/documentation/overview)
+- [otrta-client](https://github.com/Routstr/otrta-client) is privacy-first AI payment system powered by e-cash technology. [Site](https://ecash.client.otrta.me/documentation/overview)
 - [routstr](https://github.com/routstr) is a  marketplace to buy and sell LLM APIs using Cashu ecash tokens.
 
 ### LN Address Support
