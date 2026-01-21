@@ -107,7 +107,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [https://nofee.testnut.cashu.space ](https://nofee.testnut.cashu.space) is a testnut mint with no fees with unbacked fake ecash for testing.  
 
 ### Mint Discovery and Audit
-- [bitcoinmints](http://bitcoinmints.com) is a list of ecash mints, supported NUTS, and reviews of the mints.  [GitHub](https://github.com/MakePrisms/bitcoinmints)
+- [bitcoinmints](https://github.com/MakePrisms/bitcoinmints) is a list of ecash mints, supported NUTS, and reviews of the mints. [bitcoinmints.com](http://bitcoinmints.com) 
 - [Cashumints.space](https://Cashumints.space) is an index of Cashu ecash mints and offers reviews of these mints, complete with comprehensive mint pages.
 - [cashu-mint-status-board](https://github.com/shroominic/cashu-mint-status-board) is a mint status board. [cashu.live](https://cashu.live)
 - [Mint Audit](https://audit.8333.space/) is a mint auditor and [Mint Watch Bot](https://primal.net/p/npub1cashu0thfukl57lgwtarn7h4jrzrg2e346zc8sjvjd8u5hheds0qlhpt92) is a bot that watches the status of mints.
@@ -141,14 +141,14 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 
 
 ### P2PK Locked and Multi-Sig Tokens
-- [Cashu NutLock](https://www.nostrly.com/cashu-nutlock/) lets you lock a Cashu token to one or more public keys (Nostr NPUB or P2PK) for a set time. Supports complex multi-signature (multi-sig) tokens. [GitHub](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-lock.js).
-- [Cashu Witness](https://www.nostrly.com/cashu-witness/) lets you unlock locked Cashu tokens by signing them with your private key (Nostr NSEC or P2PK). Supports multi-sig, and will show you whose signature(s) are required to unlock. [GitHub](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-witness.js).
+- [Cashu NutLock](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-lock.ts) lets you lock a Cashu token to one or more public keys (Nostr NPUB or P2PK) for a set time. Supports complex multi-signature (multi-sig) tokens. [Site](https://www.nostrly.com/cashu-nutlock/) 
+- [Cashu Witness](https://github.com/robwoodgate/nostrly/blob/main/src/js/nostrly-cashu-witness.ts) lets you unlock locked Cashu tokens by signing them with your private key (Nostr NSEC or P2PK). Supports multi-sig, and will show you whose signature(s) are required to unlock. [Site](https://www.nostrly.com/cashu-witness/)
 
 
 ### Redeem Tools
 - [Cashu-redeem](https://cashu-redeem.vercel.app/) webtool allows you to redeem any Cashu token directly onto your Lightning wallet without having to receive it in a Cashu wallet [GitHub](https://github.com/cashubtc/cashu-redeem).
 - [Cashu-redeem (newer)](https://redeem.cashu.me/) is a webtool that enables you to redeem Cashu v4 tokens and decode emojis to redeem Cashu tokens directly into your Lightning wallet.  It has support for bitcoin connect (NWC) and also stores change in localstorage. 
-- [Nostrly Cashu Redeem](https://www.nostrly.com/cashu-redeem/) is an updated version of [Redeem](https://redeem.cashu.me/) that uses latest [Cashu-TS](https://github.com/cashubtc/cashu-ts), reads v4 tokens, emojis, and gives 'change'. Read the code [here](https://github.com/robwoodgate/cashu-redeem).
+- [Nostrly Cashu Redeem](https://github.com/robwoodgate/cashu-redeem) is an updated version of [Redeem](https://redeem.cashu.me/) that uses latest [cashu-ts](https://github.com/cashubtc/cashu-ts), reads v4 tokens, emojis, and gives 'change'. [Site](https://www.nostrly.com/cashu-redeem/) 
 
 ### X-Cashu
 - [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
@@ -218,7 +218,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-bdhke-kmp](https://github.com/gandlafbtc/cashu-bdhke-kmp) is a Kotlin library that implements the basic cryptographic blinded signature scheme.
 - [cashu-feni](https://github.com/cashubtc/cashu-feni) is a Golang library for Cashu wallets and mints.
 - [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
-- [Cashu faucet](https://www.gandlaf.com/faucet/anarchy) allows you to deposit and withdraw Cashu tokens from a web interface. Read the code [here](https://github.com/gandlafbtc/cashu-faucet).
+- [Cashu faucet](https://github.com/gandlafbtc/cashu-faucet) allows you to deposit and withdraw Cashu tokens from a web interface. [Site](https://www.gandlaf.com/faucet/anarchy)
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
 - [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps 
