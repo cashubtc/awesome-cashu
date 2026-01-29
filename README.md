@@ -170,9 +170,11 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-kym](https://github.com/Egge21M/cashu-kym) is used to discover and score Cashu mints.
 - [cashu-pos](https://github.com/babdbtc/cashu-pos) is a self-hostable POS app built with Expo for accepting Cashu payments via NFC tap-to-pay and Lightning invoices.
 - [Cashucards](https://github.com/Marc26z/CashuCards) are greeting cards that give Bitcoin using the Cashu protocol.
-- [Cashu for Community Sovereignty](https://github.com/cashu4community) provides private and censorship resistant payment systems for communities under authoritarian regimes. [Site](http://cashu4community.xyz) 
+- [Cashu for Community Sovereignty](https://github.com/cashu4community) provides private and censorship resistant payment systems for communities under authoritarian regimes. [Site](http://cashu4community.xyz)
+- [Cashu for WooCommerce](https://github.com/robwoodgate/cashu-for-woocommerce) adds a secure Cashu payment gateway to your WooCommerce store.
 - [Cashu MLS Chat](https://github.com/SatsAndSports/cashu_mls_chat) is a a web-based application combining MDK (Marmot Development Kit) for encrypted group messaging with Cashu (CDK) for ecash wallet functionality.
 - [Cashu Monopoly](https://github.com/bTCpy/monopoly/) is classic Monopoly, but the money is real Bitcoin. Buy in with Lightning, pot held in a Cashu wallet, winner takes the sats.
+- [Cashu Pay Server](https://github.com/jooray/cashupayserver) accepts Bitcoin Lightning payments without running a full BTCPay Server instance. [Site](https://cashupayserver.org)
 - [CashuProjects](https://github.com/CashuProjects) is a collection of TypeScript projects.
 - [cashu-escrow-kit](https://github.com/f321x/cashu-escrow-kit) is an ecash escrow provider and client concept.
 - [Cashu LoRa Bridge](https://github.com/Silexperience210/cashu-lora-bridge) is a gateway server that enables offline Bitcoin transactions via LoRa radio networks.
