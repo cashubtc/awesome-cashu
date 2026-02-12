@@ -20,6 +20,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Wallets
 - [Agicash](https://github.com/MakePrisms/agicash) is a Cashu wallet that uses the Open Secret platform.
 - [Cashu.me](https://github.com/cashubtc/cashu.me) is a web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
+- [Cashu Wallet CLI](https://github.com/cashubtc/cashu-skill)is a lightweight, robust CLI built with Node.js and SQLite for managing Cashu ecash tokens and interacting with Bitcoin Lightning mints.
+- [cocod](https://github.com/Egge21M/cocod) is a Cashu wallet CLI and daemon built with Bun and TypeScript.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig.
 - [eNuts 2](https://github.com/cashubtc/eNuts/tree/master) is a Cashu wallet being resurrected from the original eNuts wallet.
 - [Harbor](https://github.com/HarborWallet/harbor) is an ecash wallet for better desktop privacy.
