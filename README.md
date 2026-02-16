@@ -175,6 +175,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashu for Community Sovereignty](https://github.com/cashu4community) provides private and censorship resistant payment systems for communities under authoritarian regimes. [Site](http://cashu4community.xyz)
 - [Cashu for WooCommerce](https://github.com/robwoodgate/cashu-for-woocommerce) adds a secure Cashu payment gateway to your WooCommerce store.
 - [Cashu MLS Chat](https://github.com/SatsAndSports/cashu_mls_chat) is a a web-based application combining MDK (Marmot Development Kit) for encrypted group messaging with Cashu (CDK) for ecash wallet functionality.
+- [Cashu Bot](https://github.com/ttendoscopie-creator/cashu_bot-) is a Telegram bot and Mini App for Cashu e-cash: multi-mint wallet, P2P gifts, P2PK escrow gaming (Level 2), HTLC trustless coin flip with fraud proofs (Level 3, NUT-14), pay-per-minute streaming, and Nostr bridge (NIP-47/57). 700 tests.
 - [Cashu Monopoly](https://github.com/bTCpy/monopoly/) is classic Monopoly, but the money is real Bitcoin. Buy in with Lightning, pot held in a Cashu wallet, winner takes the sats.
 - [Cashu Pay Server](https://github.com/jooray/cashupayserver) accepts Bitcoin Lightning payments without running a full BTCPay Server instance. [Site](https://cashupayserver.org)
 - [CashuProjects](https://github.com/CashuProjects) is a collection of TypeScript projects.
