@@ -34,7 +34,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental.
 - [Satoshi Pay](https://github.com/Codepocketdev/satoshi-pay-wallet) is a Cashu wallet built to serve African markets and the global Bitcoin community. It uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library and features a mobile-first PWA design. [Site](https://satoshipay.me). 
 - [Sovran](https://github.com/SovranBitcoin) is a Cashu wallet for iOS.
-- [wallet.endfiat.money](https://wallet.endfiat.money/)is a Cashu web wallet. 
+- [wallet.endfiat.money](https://wallet.endfiat.money/) is a Cashu web wallet. 
 
 
 ## Wallets- On-Chain/Lightning Wallets 
