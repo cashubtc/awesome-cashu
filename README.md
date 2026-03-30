@@ -19,6 +19,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 
 ## Wallets
 - [Agicash](https://github.com/MakePrisms/agicash) is a Cashu wallet that uses the Open Secret platform.
+- [Archon Cashu Wallet](https://github.com/archetech/agent-skills/tree/main/archon-cashu) is a DID-native ecash wallet.
+- [Bey Wallet](https://github.com/thehussein01/BeyWallet) is a modular, local-first e-cash wallet for Bitcoin and Nostr.
 - [Cashu.me](https://github.com/cashubtc/cashu.me) is a web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
 - [Cashu Wallet CLI](https://github.com/cashubtc/cashu-skill) is a lightweight, robust CLI built with Node.js and SQLite for managing Cashu ecash tokens and interacting with Bitcoin Lightning mints.
 - [cocod](https://github.com/Egge21M/cocod) is a Cashu wallet CLI and daemon built with Bun and TypeScript.
@@ -67,6 +69,9 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 
 #### C#
 - [dotnut](https://github.com/Kukks/DotNut) is a C# library implementing the Cashu protocol.
+
+#### C++
+- [nutcpp](https://github.com/Forte11Cuba/nutcpp/) is a A C++17 library implementing the Cashu protocol.
 
 #### Java
 
@@ -167,6 +172,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Bitcoin Skills](https://gitlab.com/lemonknowsall/bitcoin-skills/) ia a workflow for building Bitcoin, Lightning, and Cashu wallets through prompts and images, with a Claude Skills library.
 - [BitMeshV2.5](https://github.com/Silexperience210/BitMesh) is a censorship-resistant P2P messaging app with Bitcoin proof identity and Cashu wallet.
 - [bitpoints.me](https://github.com/bitpoints-cashu/bitpoints.me) is a Cashu Ecash Wallet with Bluetooth mesh networking and Nostr integration.
+- [Blackbox Node](https://github.com/wadadawadada/blackbox_node) is an offline-first command post combining local AI, radio messaging, mapping, telemetry, and Cashu payments in a single self-hosted web UI.
 - [BTCNutServer](https://github.com/d4rp4t/BTCNutServer?mc_cid=bf3feffb71) is a new experimental plugin to bring ecash payments to BTCPay Server.
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
 - [S-two Cairo Demo](https://stwo-cairo.vercel.app/) is bringing zero-knowledge proofs to Cashu. Github repos: [stwo-cairo](https://github.com/starkware-libs/stwo-cairo) and [stwo-cairo-ts](https://github.com/clealabs/stwo-cairo-ts)
@@ -220,6 +226,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Skate Spots](https://nostrhub.io/naddr1qvzqqqrhnypzqg88e9f588nx7wyz4wt0ura23w3yd4hmztqrkr95utwyvgachjepqy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqqtwd4kzar994ehqmm5wv3d7yj9#skatespots-decentralized-skate-map-community) is skate spot map built on Nostr with an integrated Cashu wallet.
 - [Spacenut](https://github.com/gandlafbtc/spacenut) is the sickest Cashu-enabled game you've ever played. [Site](https://spacenut.nutstash.app)
 - [Spark Payment processor](https://github.com/thesimplekid/cdk-spark-payment-prcoessor) is a gRPC-based Lightning Network payment processor that implements the CDK payment processor protocol using the Breez SDK Spark.
+- [Stashu](https://github.com/keshav0479/Stashu) is a self-hosted marketplace for selling encrypted files for sats via Lightning or Cashu, no accounts needed.
 - [Taskify](https://github.com/Solife-me/Taskify_Release) is a clean, powerful to-do app where tasks can carry Cashu bounties.
 - [The Nutty Pill](https://github.com/MonkeyDGigi/The_Nutty_Pill) is an educational application that gamifies Bitcoin learning with a Cashu.me wallet.
 - [Tollgate](https://github.com/OpenTollGate/tollgate-app) turns any WiFi router into a decentralized ISP using bitcoin and ecash.
@@ -227,6 +234,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Wrapnuts](https://github.com/wrapnuts/wrapnuts/tree/main) is a CLI developed for embedding Cashu ecash into files with the help of steganography.
 - [402.markets](https://github.com/Kelbie/402.markets) is an API marketplace powered by Lightning Network and Cashu tokens. [Site](https://402.markets/) 
 - [402forDummies](https://402fordummies.dev/) is a practical entry point to the NUT-24 flow.
+- [μNuts](https://github.com/Amperstrand/micronuts) is a Cashu hardware wallet for the STM32F469I-discovery board.
 ## Currently Unmaintained Projects
 
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
