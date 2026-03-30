@@ -20,7 +20,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Wallets
 - [Agicash](https://github.com/MakePrisms/agicash) is a Cashu wallet that uses the Open Secret platform.
 - [Archon Cashu Wallet](https://github.com/archetech/agent-skills/tree/main/archon-cashu) is a DID-native ecash wallet.
-- [Bey Wallet](https://github.com/thehussein01/BeyWallet) is a modular, local-first e-cash wallet for Bitcoin and Nostr.
+- [Bey Wallet](https://github.com/thehussein01/BeyWallet) is a modular, local-first ecash wallet for Bitcoin and Nostr.
 - [Cashu.me](https://github.com/cashubtc/cashu.me) is a web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
 - [Cashu Wallet CLI](https://github.com/cashubtc/cashu-skill) is a lightweight, robust CLI built with Node.js and SQLite for managing Cashu ecash tokens and interacting with Bitcoin Lightning mints.
 - [cocod](https://github.com/Egge21M/cocod) is a Cashu wallet CLI and daemon built with Bun and TypeScript.
