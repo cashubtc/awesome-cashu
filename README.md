@@ -20,7 +20,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Wallets
 - [Agicash](https://github.com/MakePrisms/agicash) is a Cashu wallet that uses the Open Secret platform.
 - [Archon Cashu Wallet](https://github.com/archetech/agent-skills/tree/main/archon-cashu) is a DID-native ecash wallet.
-- [Bey Wallet](https://github.com/thehussein01/BeyWallet) is a modular, local-first e-cash wallet for Bitcoin and Nostr.
+- [Bey Wallet](https://github.com/thehussein01/BeyWallet) is a modular, local-first ecash wallet for Bitcoin and Nostr.
 - [Cashu.me](https://github.com/cashubtc/cashu.me) is a web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
 - [Cashu Wallet CLI](https://github.com/cashubtc/cashu-skill) is a lightweight, robust CLI built with Node.js and SQLite for managing Cashu ecash tokens and interacting with Bitcoin Lightning mints.
 - [cocod](https://github.com/Egge21M/cocod) is a Cashu wallet CLI and daemon built with Bun and TypeScript.
@@ -197,6 +197,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [deez-cashus](https://github.com/ngmisl/deez-cashus) is a production-ready demonstration of HTTP 402 (Payment Required) using Cashu for privacy-preserving Bitcoin-backed micropayments.
 - [EchoCash](https://github.com/Harshdev098/EchoCash) is a P2P communication and payment platform using WebRTC and WebSockets for decentralized value transfer via Fedimint and Cashu.
+- [Frosty Cashu Wallet](https://github.com/SatsAndSports/FrostyCashuWallet) is a demo Cashu wallet with FROST threshold multisignature support for collaborative ecash control.
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [Hide a message in an emoji](https://github.com/paulgb/emoji-encoder) is a [Site](https://emoji.paulbutler.org) that allows you to hide ecash in an emoji.
 - [Layer3 Press](https://layer3.press/welcome) is an unstoppable publishing service that allows people to easily receive Bitcoin, Lightning and Cashu subscription payments with a built-in Coinos wallet.
