@@ -167,6 +167,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 
 ### Various nutcases
 - [agentecash](https://agentecashsdk.replit.app/) is a tool that uses private, instant ecash payments between autonomous AI agents.
+- [Agicash Giftcards](https://agi.cash/home) are Bitcoin giftcards powered by Cashu.
 - [Almandine](https://lab.oak-node.net/almandine) uses Athenut and is basic wrapper with a built-in CDK wallet.
 - [Athenut](https://github.com/thesimplekid/athenut-frontend) is a tool to search smarter (Kagi-powered). Pay in sats. [Site](https://athenut.com/), [Github-Mint](https://github.com/thesimplekid/athenut-mint)
 - [Bitcoin Skills](https://gitlab.com/lemonknowsall/bitcoin-skills/) ia a workflow for building Bitcoin, Lightning, and Cashu wallets through prompts and images, with a Claude Skills library.
@@ -198,6 +199,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
 - [deez-cashus](https://github.com/ngmisl/deez-cashus) is a production-ready demonstration of HTTP 402 (Payment Required) using Cashu for privacy-preserving Bitcoin-backed micropayments.
 - [EchoCash](https://github.com/Harshdev098/EchoCash) is a P2P communication and payment platform using WebRTC and WebSockets for decentralized value transfer via Fedimint and Cashu.
+- [Europa](https://europa.westernbtc.com/) is marketplace for VPN access where users can pay with Cashu ecash.
 - [getbased](https://getbased.health/) is an AI app for understanding lab results with an integrated Cashu wallet.
 - [Frosty Cashu Wallet](https://github.com/SatsAndSports/FrostyCashuWallet) is a demo Cashu wallet with FROST threshold multisignature support for collaborative ecash control.
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
