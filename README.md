@@ -117,6 +117,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [https://nofee.testnut.cashu.space ](https://nofee.testnut.cashu.space) is a testnut mint with no fees with unbacked fake ecash for testing.  
 
 ### Mint Discovery and Audit
+- [MintRadar](https://mintradar.pedani.eu) — Real-time Cashu mint monitor with uptime, latency, Trust Score, NUT compatibility, watchlist and Nostr reviews. [GitHub](https://github.com/hroomnik007/MintRadar)
 - [bitcoinmints](https://github.com/MakePrisms/bitcoinmints) is a list of ecash mints, supported NUTS, and reviews of the mints. [bitcoinmints.com](http://bitcoinmints.com) 
 - [Cashumints.space](https://Cashumints.space) is an index of Cashu ecash mints and offers reviews of these mints, complete with comprehensive mint pages.
 - [cashu-mint-status-board](https://github.com/shroominic/cashu-mint-status-board) is a mint status board. [cashu.live](https://cashu.live)
