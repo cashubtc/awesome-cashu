@@ -29,6 +29,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [ElCaju](https://github.com/Forte11Cuba/elcaju) is Cashu wallet built in Flutter.
 - [Harbor](https://github.com/HarborWallet/harbor) is an ecash wallet for better desktop privacy.
 - [Kashir](https://github.com/KashirApp/Kashir) is an ecash wallet with nostr integration built using React Native and CDK.
+- [Linky](https://linky.fit/) is a PWA for contacts, Nostr messaging, and Cashu payments.
 - [Macadamia](https://github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
 - [Minibits](https://github.com/minibits-cash/minibits_wallet) is a mobile Cashu wallet with a focus on performance and usability.
 - [Nutstash](https://github.com/gandlafbtc/nutstash-wallet) is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
@@ -173,6 +174,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Mynymbox](https://x.com/mynymbox/status/2046351907648672126) is a privacy-focused hosting provider and domain registrar that lets you pay with Cashu.
 - [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
 - [Stashu](https://github.com/keshav0479/Stashu) is a self-hosted marketplace for selling encrypted files for sats via Lightning or Cashu, no accounts needed.
+- [Switchboard](https://switchboardgo.com/) is a Nostr and Cashu powered freelance marketplace.
 - [402.markets](https://github.com/Kelbie/402.markets) is an API marketplace powered by Lightning Network and Cashu tokens. [Site](https://402.markets/) 
 
 ### Various nutcases
@@ -214,6 +216,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [mcp-money](https://github.com/pablof7z/mcp-money) is an MCP (Model Context Protocol) money implementation for Nostr using NDK (Nostr Development Kit) with Cashu ecash functionality.
 - [Meme amigo](https://memeamigo.lol/) enables you to hide ecash in a meme.
 - [Mint 98](https://github.com/orangeshyguy21/mint98) is a tool for generating realistic traffic against Cashu mints. 
+- [MintRadar](https://mintradar.pedani.eu/) is a Cashu mint monitoring dashboard.
 - [Morning Glory](https://github.com/hzrd149/morning-glory) is a paid blossom server that only stores blobs for a day.
 - [ngx_l402](https://github.com/DhananjayPurohit/ngx_l402) is an L402 authentication module/plugin for Nginx that integrates seamlessly into your web server.
 - [nostr.blue](https://github.com/patrickulrich/nostr.blue) ia a full-featured Nostr social client with a built-in NIP-60 Cashu wallet, compiled to WebAssembly using CDK.
