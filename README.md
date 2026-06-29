@@ -175,7 +175,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Mynymbox](https://x.com/mynymbox/status/2046351907648672126) is a privacy-focused hosting provider and domain registrar that lets you pay with Cashu.
 - [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
 - [Stashu](https://github.com/keshav0479/Stashu) is a self-hosted marketplace for selling encrypted files for sats via Lightning or Cashu, no accounts needed.
-- [Switchboard](https://switchboardgo.com/) is a Nostr freelance marketplace powered by Cashu.
+- [Switchboard](https://switchboardgo.com/) is a Nostr and Cashu powered freelance marketplace.
 - [402.markets](https://github.com/Kelbie/402.markets) is an API marketplace powered by Lightning Network and Cashu tokens. [Site](https://402.markets/) 
 
 ### Various nutcases
