@@ -169,13 +169,13 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 ### Marketplaces
 - [Agicash Giftcards](https://agi.cash/home) are Bitcoin giftcards powered by Cashu.
 - [Athenut](https://github.com/thesimplekid/athenut-frontend) is a tool to search smarter (Kagi-powered). Pay in sats. [Site](https://athenut.com/), [Github-Mint](https://github.com/thesimplekid/athenut-mint)
-- [Europa](https://europa.westernbtc.com/) is marketplace for VPN access where users can pay with Cashu ecash.
+- [Europa](https://europa.westernbtc.com/) is a marketplace for VPN access where users can pay with Cashu ecash.
 - [getbased](https://getbased.health/) is an AI app for understanding lab results with an integrated Cashu wallet.
 - [Layer3 Press](https://layer3.press/welcome) is an unstoppable publishing service that allows people to easily receive Bitcoin, Lightning and Cashu subscription payments with a built-in Coinos wallet.
 - [Mynymbox](https://x.com/mynymbox/status/2046351907648672126) is a privacy-focused hosting provider and domain registrar that lets you pay with Cashu.
 - [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
 - [Stashu](https://github.com/keshav0479/Stashu) is a self-hosted marketplace for selling encrypted files for sats via Lightning or Cashu, no accounts needed.
-- [Switchboard](https://switchboardgo.com/) is a Nostr and Cashu powered freelance marketplace.
+- [Switchboard](https://switchboardgo.com/) is a Nostr freelance marketplace powered by Cashu.
 - [402.markets](https://github.com/Kelbie/402.markets) is an API marketplace powered by Lightning Network and Cashu tokens. [Site](https://402.markets/) 
 
 ### Various nutcases
