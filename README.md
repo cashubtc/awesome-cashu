@@ -168,13 +168,10 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [X-Cashu](https://github.com/callebtc/xcashu) is a work-in-progress project that aims to create a 402 Payment Required scheme to monetize REST API access by using ecash in HTTP headers.
 
 ### Marketplaces
-- [Agicash Giftcards](https://agi.cash/home) are Bitcoin giftcards powered by Cashu.
 - [Athenut](https://github.com/thesimplekid/athenut-frontend) is a tool to search smarter (Kagi-powered). Pay in sats. [Site](https://athenut.com/), [Github-Mint](https://github.com/thesimplekid/athenut-mint)
 - [Europa](https://europa.westernbtc.com/) is a marketplace for VPN access where users can pay with Cashu ecash.
 - [getbased](https://getbased.health/) is an AI app for understanding lab results with an integrated Cashu wallet.
-- [Layer3 Press](https://layer3.press/welcome) is an unstoppable publishing service that allows people to easily receive Bitcoin, Lightning and Cashu subscription payments with a built-in Coinos wallet.
 - [Mynymbox](https://x.com/mynymbox/status/2046351907648672126) is a privacy-focused hosting provider and domain registrar that lets you pay with Cashu.
-- [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
 - [Stashu](https://github.com/keshav0479/Stashu) is a self-hosted marketplace for selling encrypted files for sats via Lightning or Cashu, no accounts needed.
 - [Switchboard](https://switchboardgo.com/) is a Nostr and Cashu powered freelance marketplace.
 - [402.markets](https://github.com/Kelbie/402.markets) is an API marketplace powered by Lightning Network and Cashu tokens. [Site](https://402.markets/) 
@@ -182,6 +179,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 ### Various nutcases
 - [agentecash](https://agentecashsdk.replit.app/) is a tool that uses private, instant ecash payments between autonomous AI agents.
 - [Almandine](https://lab.oak-node.net/almandine) uses Athenut and is basic wrapper with a built-in CDK wallet.
+- [Agicash Giftcards](https://agi.cash/home) are Bitcoin giftcards powered by Cashu.
 - [Bitcoin Skills](https://gitlab.com/lemonknowsall/bitcoin-skills/) ia a workflow for building Bitcoin, Lightning, and Cashu wallets through prompts and images, with a Claude Skills library.
 - [BitMeshV2.5](https://github.com/Silexperience210/BitMesh) is a censorship-resistant P2P messaging app with Bitcoin proof identity and Cashu wallet.
 - [bitpoints.me](https://github.com/bitpoints-cashu/bitpoints.me) is a Cashu Ecash Wallet with Bluetooth mesh networking and Nostr integration.
@@ -215,6 +213,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [Hide a message in an emoji](https://github.com/paulgb/emoji-encoder) is a [Site](https://emoji.paulbutler.org) that allows you to hide ecash in an emoji.
 - [lnuts](https://gitworkshop.dev/npub1dfedhrhn7wu7uhkdsz8dd5rrr50ymkjutkklq7y8zpxn89t7hfyqfzlc7u/relay.ngit.dev/lnuts) is a full Nostr-ready LNURL-pay server that bridges Lightning payments to Cashu tokens.
+- [Layer3 Press](https://layer3.press/welcome) is an unstoppable publishing service that allows people to easily receive Bitcoin, Lightning and Cashu subscription payments with a built-in Coinos wallet.
 - [mcp-money](https://github.com/pablof7z/mcp-money) is an MCP (Model Context Protocol) money implementation for Nostr using NDK (Nostr Development Kit) with Cashu ecash functionality.
 - [Meme amigo](https://memeamigo.lol/) enables you to hide ecash in a meme.
 - [Mint 98](https://github.com/orangeshyguy21/mint98) is a tool for generating realistic traffic against Cashu mints. 
@@ -224,6 +223,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [nostr.blue](https://github.com/patrickulrich/nostr.blue) ia a full-featured Nostr social client with a built-in NIP-60 Cashu wallet, compiled to WebAssembly using CDK.
 - [nostrpay](https://github.com/Unit-Matrix/nostrpay) is a child-friendly learning app with offline-first Cashu payments built into an educational environment.
 - [Numo](https://github.com/cashubtc/Numo) is an Android Point-of-Sale application that enables merchants to receive Cashu ecash payments via tap-2-pay.
+- [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
 - [nutoff-wallet](https://github.com/gzuuus/nutoff-wallet) is a command-line interface and MCP server interface implementing a Cashu wallet.
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
 - [NUTbits](https://github.com/DoktorShift/nutbits) is a NWC wallet service that translates between Cashu mint (NUTs) and Nostr Wallet Connect (NIP-47).
