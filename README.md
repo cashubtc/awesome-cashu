@@ -13,10 +13,19 @@ Visit [cashu.space](https://cashu.space/) or [docs.cashu.space](https://docs.cas
 Cashu is an open Ecash protocol for anyone to implement. The specifications, called [Cashu NUTs](https://github.com/cashubtc/nuts) (Notation, Usage, and Terminology) describe how to implement the protocol. Multiple Cashu client libaries make it easy for developers to write their own wallets.
 
 ## Mints
+- [arxmint](https://github.com/Traviseric/arxmint) is a self-hosted Cashu mint / payment infrastructure for accepting Bitcoin payments with no middleman.
+- [cashu-mint](https://github.com/398ja/cashu-mint) is a Java/Spring Boot implementation of the Cashu mint protocol.
+- [cashu-mint (TypeScript)](https://github.com/Traviseric/cashu-mint) is a TypeScript Cashu mint implementing NUT-00 through NUT-07.
+- [custom-unit-mint](https://github.com/zeugmaster/custom-unit-mint) is cdk-mintd with a custom gRPC payment processor for manually settled custom units.
+- [fibernuts](https://github.com/code3ks/fibernuts) is a Cashu ecash mint backed by Fiber Network payment channels.
 - [MINTED](https://minted.is/) is a Cashu mint accessible via Tor.
+- [minervamnt](https://github.com/Z0rlord/minervamnt) is an Ark-backed Cashu mint in Rust (Chaumian ecash backed by VTXOs).
 - [mintd](https://github.com/cashubtc/cdk/tree/main/crates/cdk-mintd) is a mint implementation in Rust using CDK.
-- [nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
+- [nisfeb/ecash](https://github.com/nisfeb/ecash) is a Cashu mint implemented in pure Hoon as an Urbit Gall agent (NUTs 00–12).
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
+- [nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
+- [nutshell-xmr](https://github.com/MaurerAnton/nutshell-xmr) is a Cashu mint forked from Nutshell with a Monero (XMR) wallet-rpc backend.
+- [unit-cashu-mint](https://github.com/DUCAT-UNIT/unit-cashu-mint) is a Cashu mint implementation in TypeScript.
 
 ## Wallets
 - [Agicash](https://github.com/MakePrisms/agicash) is a Cashu wallet that uses the Open Secret platform.
