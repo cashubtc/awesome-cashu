@@ -259,15 +259,27 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [μNuts](https://github.com/Amperstrand/micronuts) is a Cashu hardware wallet for the STM32F469I-discovery board.
 ## Currently Unmaintained Projects
 
+- [alchemint](https://github.com/kazluu/alchemint) is a Cashu mint written in Elixir.
 - [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
 - [cashu-client](https://github.com/thunderbiscuit/cashu-client) is a Cashu client library in Kotlin.
 - [cashu-bdhke-kmp](https://github.com/gandlafbtc/cashu-bdhke-kmp) is a Kotlin library that implements the basic cryptographic blinded signature scheme.
 - [cashu-feni](https://github.com/cashubtc/cashu-feni) is a Golang library for Cashu wallets and mints.
+- [cashu-rs-mint](https://github.com/thesimplekid/cashu-rs-mint) is a Cashu mint implementation using CDK (archived).
+- [cashu-ts-mint](https://github.com/gandlafbtc/cashu-ts-mint) is a Cashu mint written in TypeScript.
 - [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
 - [Cashu faucet](https://github.com/gandlafbtc/cashu-faucet) allows you to deposit and withdraw Cashu tokens from a web interface. [Site](https://www.gandlaf.com/faucet/anarchy)
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
 - [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps 
 - [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your ecash journey.
+- [gonuts](https://github.com/elnosh/gonuts) is a Cashu wallet and mint written in Go.
+- [ldk-node-cashu-mint](https://github.com/benthecarman/ldk-node-cashu-mint) is a Cashu mint backed by LDK Node.
+- [lnbits-cashu](https://github.com/cashubtc/lnbits-cashu) is a Cashu mint extension for LNbits based on Nutshell (archived).
+- [lnbits/cashu](https://github.com/lnbits/cashu) is an LNbits Cashu integration (archived).
+- [mint](https://github.com/gandlafbtc/mint) is a Cashu mint project in TypeScript.
 - [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
+- [purrmint](https://github.com/heathermm55/purrmint) is a mobile Cashu mint built with Rust and Kotlin.
+- [swift-cashu-mint](https://github.com/SparrowTek/swift-cashu-mint) is a Cashu mint implementation in Swift.
+- [tsnut](https://github.com/adambor/tsnut) is a highly extensible Cashu mint written in TypeScript.
+- [zashu](https://github.com/AbdelStark/zashu) is a Zcash-backed Cashu mint written in Rust.
 
