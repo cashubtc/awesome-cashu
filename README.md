@@ -346,6 +346,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Portal Technologies](https://github.com/PortalTechnologiesInc) is a universal app for identity & payments.
 - [Purrwallet](https://github.com/heathermm55/purrwallet) is a cross-platform Cashu ecash wallet built with Rust and Flutter, featuring a terminal-inspired UI for privacy-focused Bitcoiners.
 - [Receipt.cash](https://github.com/Origami74/receipt-cash) is a bill splitter to snap a picture of a fiat bill and easily split costs auto-converted to Bitcoin. It's based on Cashu payment requests. [Site](https://sugardaddy.cash/)
+- [rythm](https://rythm.xyz/) is a non-custodial email paywall using Cashu.
 - [S-two Cairo Demo](https://stwo-cairo.vercel.app/) is bringing zero-knowledge proofs to Cashu. Github repos: [stwo-cairo](https://github.com/starkware-libs/stwo-cairo) and [stwo-cairo-ts](https://github.com/clealabs/stwo-cairo-ts)
 - [satflux](https://github.com/webiumsk/satflux) is a multi-tenant control panel for BTCPay Server stores and invoices with Cashu-related flows.
 - [Satocash-Applet](https://github.com/Toporin/Satocash-Applet) is an ecash wallet implementation in javacard.
