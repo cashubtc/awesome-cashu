@@ -30,24 +30,42 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 ## Wallets
 - [Agicash](https://github.com/MakePrisms/agicash) is a Cashu wallet that uses the Open Secret platform.
 - [Archon Cashu Wallet](https://github.com/archetech/agent-skills/tree/main/archon-cashu) is a DID-native ecash wallet.
+- [bankify](https://github.com/supertestnet/bankify) is a tool that turns any Cashu mint into a Lightning wallet with NWC support.
 - [Bey Wallet](https://github.com/thehussein01/BeyWallet) is a modular, local-first ecash wallet for Bitcoin and Nostr.
-- [Cashu.me](https://github.com/cashubtc/cashu.me) is a web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
+- [botwallets](https://github.com/aeschylus/botwallets) is a simple Cashu wallet API for autonomous agents and bots.
+- [Cashu Pixel](https://github.com/swedishfrenchpress/cashu-pixel) is an offline Cashu ecash wallet for Raspberry Pi with a HyperPixel touchscreen.
+- [Cashu Pixel (Rust)](https://github.com/swedishfrenchpress/cashu-pixel-rs) is a Rust/CDK/Slint rewrite of Cashu Pixel for Raspberry Pi.
+- [Cashu Wallet](https://github.com/cashubtc/wallet) is the official Cashu wallet for iOS and Android.
+- [Cashu wallet (Java)](https://github.com/398ja/cashu-wallet) is a Cashu wallet implementation in Java.
+- [Cashu wallet (PHP)](https://github.com/jooray/cashu-wallet-php) is a PHP implementation of a Cashu wallet.
 - [Cashu Wallet CLI](https://github.com/cashubtc/cashu-skill) is a lightweight, robust CLI built with Node.js and SQLite for managing Cashu ecash tokens and interacting with Bitcoin Lightning mints.
+- [cashu-agent](https://github.com/jeletor/cashu-agent) is a Cashu ecash wallet for AI agents with privacy-preserving payments.
+- [Cashu.me](https://github.com/cashubtc/cashu.me) is a web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
+- [cocoa-cash](https://github.com/Slender2097/cocoa-cash) is a simple Cashu protocol wallet.
+- [CocoCashu](https://github.com/imyrvold/CocoCashuApp) is a native iOS/macOS Cashu wallet app.
 - [cocod](https://github.com/Egge21M/cocod) is a Cashu wallet CLI and daemon built with Bun and TypeScript.
 - [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu wallet written in Zig.
-- [eNuts 2](https://github.com/cashubtc/eNuts/tree/master) is a Cashu wallet being resurrected from the original eNuts wallet.
 - [ElCaju](https://github.com/Forte11Cuba/elcaju) is Cashu wallet built in Flutter.
+- [endfiatcashu](https://github.com/Hodladi/endfiatcashu) is the open-source UI for the endfiat Cashu web wallet.
+- [eNuts 2](https://github.com/cashubtc/eNuts/tree/master) is a Cashu wallet being resurrected from the original eNuts wallet.
 - [Harbor](https://github.com/HarborWallet/harbor) is an ecash wallet for better desktop privacy.
+- [hexnuts](https://github.com/hexdaemon/hexnuts) is a lightweight Cashu ecash wallet for AI agents.
+- [Ijma Wallet](https://github.com/amisatoshi/ijmawallet) is a self-custody Bitcoin/Lightning wallet with Cashu support.
 - [Kashir](https://github.com/KashirApp/Kashir) is an ecash wallet with nostr integration built using React Native and CDK.
 - [Linky](https://linky.fit/) is a PWA for contacts, Nostr messaging, and Cashu payments.
 - [Macadamia](https://github.com/zeugmaster/macadamia) is a Cashu wallet for iOS written in Swift.
+- [malibu](https://github.com/Egge21M/malibu) is a native Cashu wallet for Linux, macOS, and Windows.
 - [Minibits](https://github.com/minibits-cash/minibits_wallet) is a mobile Cashu wallet with a focus on performance and usability.
-- [Nutstash](https://github.com/gandlafbtc/nutstash-wallet) is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
+- [Nucula](https://github.com/zeugmaster/nucula) is a Cashu ecash wallet for ESP32-C6 with NFC tap-to-pay.
+- [nutsd](https://github.com/enboxorg/nutsd) is a decentralized Cashu ecash wallet powered by Enbox DWN.
 - [Nutshell](https://github.com/cashubtc/nutshell) is a CLI wallet available through PyPi. It comes with builtin Tor, supports multiple mints, and can send and receive tokens on nostr, and supports pay-to-script-hash (P2SH) tokens.
+- [Nutstash](https://github.com/gandlafbtc/nutstash-wallet) is a Cashu web wallet with many features such as multimint support and support for sending and receiving tokens via nostr. Nutstash is written in TypeScript and uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library.
 - [Safebox](https://github.com/trbouma/safebox) is a Python implementation of a Cashu wallet component that lives in nostr and is intended for use by services that need a custodial wallet for Lightning payments. Still experimental.
 - [Satoshi Pay](https://github.com/Codepocketdev/satoshi-pay-wallet) is a Cashu wallet built to serve African markets and the global Bitcoin community. It uses the [cashu-ts](https://github.com/cashubtc/cashu-ts) library and features a mobile-first PWA design. [Site](https://satoshipay.me). 
 - [Sovran](https://github.com/SovranBitcoin) is a Cashu wallet for iOS.
+- [waffledog cashu-wallet](https://github.com/waffledog-bot/cashu-wallet) is a minimal Cashu wallet CLI for AI agents built with cashu-ts and Bun.
 - [wallet.endfiat.money](https://wallet.endfiat.money/) is a Cashu web wallet. 
+- [Zappi](https://github.com/zappi-org/zappi-wallet) is an ecash wallet powered by Cashu and Nostr.
 
 
 ## Wallets- On-Chain/Lightning Wallets 
