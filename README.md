@@ -369,18 +369,110 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 
 ## Currently Unmaintained Projects
 
+### Mints
+- [alchemint](https://github.com/kazluu/alchemint) is a Cashu mint written in Elixir.
+- [be-your-own-mint](https://github.com/0xg4tt0/be-your-own-mint) is documentation of tooling and steps to run your own Cashu mint (unmaintained).
+- [cashu-lsp](https://github.com/thesimplekid/cashu-lsp) is a Cashu LSP experiment (unmaintained).
+- [cashu-mint-page](https://github.com/Michilis/cashu-mint-page) is a Cashu mint homepage project (unmaintained).
+- [cashu-rs-mint](https://github.com/thesimplekid/cashu-rs-mint) is a Cashu mint implementation using CDK (archived).
+- [cashu-signer](https://github.com/lescuer97/cashu-signer) is a remote signer for Cashu mints (unmaintained).
+- [cashu-ts-mint](https://github.com/gandlafbtc/cashu-ts-mint) is a Cashu mint written in TypeScript.
+- [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
+- [cashubrew-website](https://github.com/keep-starknet-strange/cashubrew-website) is website for the Cashubrew mint (unmaintained).
+- [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
+- [gonuts](https://github.com/elnosh/gonuts) is a Cashu wallet and mint written in Go.
+- [ldk-node-cashu-mint](https://github.com/benthecarman/ldk-node-cashu-mint) is a Cashu mint backed by LDK Node.
+- [lnbits-cashu](https://github.com/cashubtc/lnbits-cashu) is a Cashu mint extension for LNbits based on Nutshell (archived).
+- [lnbits/cashu](https://github.com/lnbits/cashu) is an LNbits Cashu integration (archived).
+- [mint](https://github.com/gandlafbtc/mint) is a Cashu mint project in TypeScript.
+- [mint-anywhere](https://github.com/jurraca/mint-anywhere) is deploy a Cashu mint with nixos-anywhere (unmaintained).
+- [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
+- [mynode-nutshell](https://github.com/tlindi/mynode-nutshell) is Nutshell packaged as a MyNodeBTC community/dynamic app (unmaintained).
+- [nutshell-docker](https://github.com/massmux/nutshell-docker) is a Nutshell Cashu Docker setup with PostgreSQL (unmaintained).
+- [nutshell-lnurl](https://github.com/callebtc/nutshell-lnurl) is LNURL to Cashu to Nostr middleware on Nutshell (unmaintained).
+- [purrmint](https://github.com/heathermm55/purrmint) is a mobile Cashu mint built with Rust and Kotlin.
+- [swift-cashu-mint](https://github.com/SparrowTek/swift-cashu-mint) is a Cashu mint implementation in Swift.
+- [tsnut](https://github.com/adambor/tsnut) is a highly extensible Cashu mint written in TypeScript.
+- [zashu](https://github.com/AbdelStark/zashu) is a Zcash-backed Cashu mint written in Rust.
+
+### Wallets
+- [andotherstuff Cashu Wallet](https://github.com/andotherstuff/cashu-wallet) is a Cashu wallet from andotherstuff.
+- [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
+- [cashu-browser-wallet](https://github.com/gandlafbtc/cashu-browser-wallet) is a batteries-included Cashu wallet for the web.
+- [cashu-dlcstr-rs](https://github.com/gudnuf/cashu-dlcstr-rs) is a DLC Cashu wallet that uses Nostr for coordination.
+- [cashu-enclave-wallet](https://github.com/davidcaseria/cashu-enclave-wallet) is a Cashu wallet for AWS Nitro Enclaves.
+- [cashu-js-wallet](https://github.com/motorina0/cashu-js-wallet) is a JavaScript Cashu wallet.
+- [cashu-mcp-wallet](https://github.com/tdelabro/cashu-mcp-wallet) is a Cashu MCP wallet (unmaintained).
+- [cashu-treasure-vault](https://github.com/HeatherLarson/cashu-treasure-vault) is a pirate-themed Cashu wallet (unmaintained).
+- [cashu-ui](https://github.com/cashubtc/cashu-ui) is a GUI for the Nutshell Cashu wallet.
+- [cashu-wallet (pleb-devs)](https://github.com/pleb-devs/cashu-wallet) is a browser Cashu wallet tutorial built with React and cashu-ts (unmaintained).
+- [Cashu-Wallet (TheWildHustle)](https://github.com/TheWildHustle/Cashu-Wallet) is a Cashu wallet project (unmaintained).
+- [cashu-wallet-browser-extension](https://github.com/CashuProjects/cashu-wallet-browser-extension) is a Cashu wallet browser extension.
+- [cashu-wallet-cli-tools](https://github.com/callebtc/cashu-wallet-cli-tools) is a small Cashu wallet CLI tool.
+- [cashu-wallet-pwa](https://github.com/SuperPhatArrow/cashu-wallet-pwa) is a Cashu wallet PWA (unmaintained).
+- [cashu-wallet-rs (Keychat)](https://github.com/keychat-io/cashu-wallet-rs) is Rust Cashu wallet components used in Keychat (unmaintained).
+- [cashu-workshop](https://github.com/supertestnet/cashu-workshop) is a basic demonstration of a Cashu web wallet client.
+- [cashu-workshop (edilmedeiros)](https://github.com/edilmedeiros/cashu-workshop) is workshop material for learning Cashu (unmaintained).
+- [cashu_app](https://github.com/hvmelo/cashu_app) is a Dart reference application for Cashu (unmaintained).
+- [CashuCardWallet](https://github.com/Marc26z/CashuCardWallet) is a NIP-60 Cashu wallet experiment (unmaintained).
+- [CashuWallet (Gudnessuche)](https://github.com/Gudnessuche/CashuWallet) is a Cashu wallet project (unmaintained).
+- [CashuWallet (pdcolandrea)](https://github.com/pdcolandrea/CashuWallet) is a Cashu wallet experiment (unmaintained).
+- [Crabstash](https://github.com/thesimplekid/crabstash) is a Cashu mobile wallet written in Dart (archived).
+- [iced-cashu](https://github.com/thesimplekid/iced-cashu) is an iced-rs Cashu UI experiment (unmaintained).
+- [kernel](https://github.com/Dayvvo/kernel) is a Cashu-based web wallet.
+- [liphapha](https://github.com/Bitshala-Incubator/liphapha) is a multi-platform private payments and chat app using Cashu and Nostr (unmaintained).
+- [MDK group chat + Cashu wallet](https://github.com/SatsAndSports/mdk_group_chat_with_cashu_wallet_integration) is a demo integrating MDK group chat with a Cashu wallet (unmaintained).
+- [my-cashu-app](https://github.com/miladsoft/my-cashu-app) is a Cashu app experiment (unmaintained).
+- [nutlet](https://github.com/matijaoe/nutlet) is a work-in-progress Cashu web wallet.
+- [parakesh](https://github.com/optout21/parakesh) is a simple reference Cashu wallet in Rust with a UI, based on CDK.
+- [pesanut-wallet](https://github.com/mubarak23/pesanut-wallet) is a multi-mint Cashu web wallet.
+- [poc-ecash](https://github.com/wavlake/poc-ecash) is a Wavlake proof-of-concept Cashu ecash web app (unmaintained).
+- [react-native.cashu.me](https://github.com/bobodread876/react-native.cashu.me) is cashu.me rewritten as a React Native mobile app (unmaintained).
+- [rest-api-cashu](https://github.com/sh1ftred/rest-api-cashu) is a Cashu wallet exposed via REST APIs (unmaintained).
+- [Rod Wallet](https://github.com/AbdelStark/rod) is a Cashu wallet written in TypeScript.
+- [Sat-Blaster](https://github.com/TheWildHustle/Sat-Blaster) is a Cashu and Lightning powered Nostr wallet.
+- [toy-cashu](https://github.com/crywolf/toy-cashu) is a from-scratch learning Cashu wallet (unmaintained).
+- [UMKM-BTC](https://github.com/UMKM-ECASH/UMKM-BTC) is a UMKM-oriented wallet with Cashu-related flows (unmaintained).
+- [wallet-extension](https://github.com/CashuProjects/wallet-extension) is an open-source Cashu wallet extension for web browsers.
+- [walnut](https://github.com/fernandofreamunde/walnut) is a web ecash wallet built to learn about Cashu.
+
+### Libraries
 - [acorn](https://github.com/CashuProjects/acorn) is a Cashu JavaScript frontend widget for managing anonymous payments (unmaintained).
 - [acorn-core](https://github.com/CashuProjects/acorn-core) is a TypeScript library for managing Cashu ecash payments (unmaintained).
+- [bip-utils (398ja)](https://github.com/398ja/bip-utils) is BIP32 helpers used with the 398ja Cashu Java stack (unmaintained).
+- [cashex](https://github.com/jurraca/cashex) is Cashu BDHKE in Elixir (Livebook) (unmaintained).
+- [cashu-address-sdk](https://github.com/lightning-digital-entertainment/cashu-address-sdk) is a TypeScript SDK for Cashu-Address (unmaintained).
+- [cashu-bdhke-kmp](https://github.com/gandlafbtc/cashu-bdhke-kmp) is a Kotlin library that implements the basic cryptographic blinded signature scheme.
+- [cashu-client](https://github.com/thunderbiscuit/cashu-client) is a Cashu client library in Kotlin.
+- [cashu-crab-bindings](https://github.com/thesimplekid/cashu-crab-bindings) are language bindings for cashu-crab (unmaintained).
+- [cashu-crypto-js](https://github.com/gandlafbtc/cashu-crypto-js) is a JavaScript/TypeScript proof-of-concept for Cashu BDHKE crypto (unmaintained).
+- [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps 
+- [cashu-feni](https://github.com/cashubtc/cashu-feni) is a Golang library for Cashu wallets and mints.
+- [cashu-java](https://github.com/aaroncj1/cashu-java) is an in-progress Java implementation of the Cashu protocol (unmaintained).
+- [cashu-js](https://github.com/devSabz404/cashu-js) is a JavaScript library for building Cashu wallets (unmaintained).
+- [cashu-js (jsahagun91)](https://github.com/jsahagun91/cashu-js) is vanilla JavaScript helpers to interact with Cashu mints in the browser (unmaintained).
+- [cashu-kvac](https://github.com/a1denvalu3/cashu-kvac) explores Keyed-Verification Anonymous Credentials (KVAC) in a Cashu context (unmaintained).
+- [cashu-react](https://github.com/gudnuf/cashu-react) is a React library built on top of cashu-ts (unmaintained).
+- [cashu-rs](https://github.com/clarkmoody/cashu-rs) is an early Rust library for Cashu (unmaintained).
+- [cashu-rs (Guilospanck)](https://github.com/Guilospanck/cashu-rs) is another Rust Cashu library experiment (unmaintained).
+- [cashu-ts-multisig](https://github.com/JohnZolton/Cashu-ts-multisig) experiments with multisig flows on cashu-ts (unmaintained).
+- [cashu-zk-engine](https://github.com/AbdelStark/cashu-zk-engine) is a Cashu protocol ZK engine implementing BDHKE in Cairo (unmaintained).
+- [cashu_dart](https://github.com/ryzizub/cashu_dart) is a Dart library for Cashu wallets (archived).
+- [cashu_dart (Syoolah fork)](https://github.com/SyoolahHome/cashu_dart) is a fork of cashu_dart (unmaintained).
+- [cashubuddy](https://github.com/happylemonprogramming/cashubuddy) packages cashu-ts as a webpack buildup for pure JavaScript use (unmaintained).
+- [cashulib](https://github.com/jurraca/cashulib) is an Elixir implementation of the Cashu protocol (unmaintained).
+- [cashupp](https://github.com/Forte11Cuba/cashupp) is a C++ Cashu protocol implementation based on the NUTs (unmaintained).
+- [cdk (arkanoider)](https://github.com/arkanoider/cdk) is a Cashu Development Kit experiment (unmaintained).
+- [cdk-flutter](https://github.com/cashubtc/cdk-flutter) is a CDK Flutter Rust bridge library (archived).
+- [headless-cashu](https://github.com/gandlafbtc/headless-cashu) is a browser Cashu wallet library without a GUI (unmaintained).
+- [nostr-mint-connect](https://github.com/gandlafbtc/nostr-mint-connect) is a cashu-ts plugin for connecting to mints via Nostr (unmaintained).
+- [nutBAC](https://github.com/4xvgal/nutBAC) is blind authentication components related to Cashu NUTs (unmaintained).
+
+### Misc
 - [aesir](https://github.com/krutt/aesir) is a CLI for setting up local Bitcoin/Lightning/Cashu regtest environments (unmaintained).
-- [alchemint](https://github.com/kazluu/alchemint) is a Cashu mint written in Elixir.
-- [andotherstuff Cashu Wallet](https://github.com/andotherstuff/cashu-wallet) is a Cashu wallet from andotherstuff.
 - [atomic-mint-swap](https://github.com/babdbtc/atomic-mint-swap) is a broker for atomic swaps of ecash between different mints (unmaintained).
 - [axepool](https://github.com/wilfredallyn/axepool) is a proxy pool experiment aimed at OCEAN Cashu payouts (unmaintained).
-- [be-your-own-mint](https://github.com/0xg4tt0/be-your-own-mint) is documentation of tooling and steps to run your own Cashu mint (unmaintained).
-- [bip-utils (398ja)](https://github.com/398ja/bip-utils) is BIP32 helpers used with the 398ja Cashu Java stack (unmaintained).
 - [bolsonitro-faucet](https://github.com/SatsCzar/bolsonitro-faucet) is a Cashu-related faucet experiment (unmaintained).
-- [Cashcrab](https://github.com/thesimplekid/cashcrab) is a Cashu wallet with a flutter UI and with as much logic as possible in rust using [cashu-crab](https://github.com/thesimplekid/cashu-crab) with nostr integration for contacts and messaging.
-- [cashex](https://github.com/jurraca/cashex) is Cashu BDHKE in Elixir (Livebook) (unmaintained).
 - [cashtanha](https://github.com/joaozinhom/cashtanha) is a hackathon Cashu simplicity prototype (unmaintained).
 - [CASHU Auth WordPress Plugin](https://github.com/uncle-jj/CASHU-Auth-WordPress-Plugin) is a WordPress plugin for anonymous site access using Cashu (unmaintained).
 - [Cashu claim Telegram bot](https://github.com/Michilis/Cashu-claim-telegram-bot) is a Telegram bot to block Cashu token spam in groups (unmaintained).
@@ -388,32 +480,14 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashu wallets index (CashuMints.space)](https://github.com/CashuMints-space/Wallets) is an index of Cashu wallets (unmaintained).
 - [cashu-address](https://github.com/gudnuf/cashu-address) natively sends Cashu payments to a public key based on BIP-353-style addressing (unmaintained).
 - [cashu-address-cli](https://github.com/lightning-digital-entertainment/cashu-address-cli) is a CLI for interacting with Cashu-Address (unmaintained).
-- [cashu-address-sdk](https://github.com/lightning-digital-entertainment/cashu-address-sdk) is a TypeScript SDK for Cashu-Address (unmaintained).
 - [Cashu-Alice](https://github.com/szerwinski/Cashu-Alice) is Cashu Alice demo (unmaintained).
 - [cashu-auditor (3xtr3m3hodl)](https://github.com/3xtr3m3hodl/cashu-auditor) is a Cashu mint auditor that loops payments for testing (unmaintained).
-- [cashu-bdhke-kmp](https://github.com/gandlafbtc/cashu-bdhke-kmp) is a Kotlin library that implements the basic cryptographic blinded signature scheme.
 - [Cashu-Bob](https://github.com/szerwinski/Cashu-Bob) is Cashu Bob demo (unmaintained).
-- [cashu-browser-wallet](https://github.com/gandlafbtc/cashu-browser-wallet) is a batteries-included Cashu wallet for the web.
-- [cashu-client](https://github.com/thunderbiscuit/cashu-client) is a Cashu client library in Kotlin.
-- [cashu-crab-bindings](https://github.com/thesimplekid/cashu-crab-bindings) are language bindings for cashu-crab (unmaintained).
-- [cashu-crypto-js](https://github.com/gandlafbtc/cashu-crypto-js) is a JavaScript/TypeScript proof-of-concept for Cashu BDHKE crypto (unmaintained).
-- [Cashu-dart](https://github.com/0xchat-app/cashu-dart) is another Library that allows developers to integrate Cashu easily into apps 
 - [cashu-decoder](https://github.com/callebtc/cashu-decoder) is a Cashu token decoder (unmaintained).
-- [cashu-dlcstr-rs](https://github.com/gudnuf/cashu-dlcstr-rs) is a DLC Cashu wallet that uses Nostr for coordination.
-- [cashu-enclave-wallet](https://github.com/davidcaseria/cashu-enclave-wallet) is a Cashu wallet for AWS Nitro Enclaves.
 - [cashu-faucet-worker](https://github.com/andotherstuff/cashu-faucet-worker) is a Cashu faucet worker (archived).
-- [cashu-feni](https://github.com/cashubtc/cashu-feni) is a Golang library for Cashu wallets and mints.
 - [cashu-gateway-ts](https://github.com/gudnuf/cashu-gateway-ts) is a TypeScript Cashu payment gateway experiment (unmaintained).
-- [cashu-java](https://github.com/aaroncj1/cashu-java) is an in-progress Java implementation of the Cashu protocol (unmaintained).
-- [cashu-js](https://github.com/devSabz404/cashu-js) is a JavaScript library for building Cashu wallets (unmaintained).
-- [cashu-js (jsahagun91)](https://github.com/jsahagun91/cashu-js) is vanilla JavaScript helpers to interact with Cashu mints in the browser (unmaintained).
-- [cashu-js-wallet](https://github.com/motorina0/cashu-js-wallet) is a JavaScript Cashu wallet.
-- [cashu-kvac](https://github.com/a1denvalu3/cashu-kvac) explores Keyed-Verification Anonymous Credentials (KVAC) in a Cashu context (unmaintained).
 - [cashu-lnurl](https://github.com/thesimplekid/cashu-lnurl) bridges LNURL and Cashu (unmaintained).
-- [cashu-lsp](https://github.com/thesimplekid/cashu-lsp) is a Cashu LSP experiment (unmaintained).
 - [cashu-marketplace](https://github.com/babdbtc/cashu-marketplace) is a no-JavaScript escrow marketplace using Cashu pay-per-request (unmaintained).
-- [cashu-mcp-wallet](https://github.com/tdelabro/cashu-mcp-wallet) is a Cashu MCP wallet (unmaintained).
-- [cashu-mint-page](https://github.com/Michilis/cashu-mint-page) is a Cashu mint homepage project (unmaintained).
 - [cashu-nostr-updater](https://github.com/Egge21M/cashu-nostr-updater) updates Nostr-related Cashu state (unmaintained).
 - [cashu-notify](https://github.com/Egge21M/cashu-notify) is Cashu notification experiments (unmaintained).
 - [cashu-p2pk](https://github.com/Egge21M/cashu-p2pk) is Cashu P2PK experiments (unmaintained).
@@ -425,112 +499,45 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-proxy (gudnuf)](https://github.com/gudnuf/cashu-proxy) is a Cashu HTTP proxy experiment (unmaintained).
 - [cashu-proxy (thesimplekid)](https://github.com/thesimplekid/cashu-proxy) is another Cashu proxy implementation in Rust (unmaintained).
 - [cashu-proxy-tester](https://github.com/gudnuf/cashu-proxy-tester) tests Cashu proxy flows (unmaintained).
-- [cashu-react](https://github.com/gudnuf/cashu-react) is a React library built on top of cashu-ts (unmaintained).
 - [cashu-redeem-api](https://github.com/Michilis/cashu-redeem-api) is an API to redeem Cashu tokens to Lightning (unmaintained).
-- [cashu-rs](https://github.com/clarkmoody/cashu-rs) is an early Rust library for Cashu (unmaintained).
-- [cashu-rs (Guilospanck)](https://github.com/Guilospanck/cashu-rs) is another Rust Cashu library experiment (unmaintained).
-- [cashu-rs-mint](https://github.com/thesimplekid/cashu-rs-mint) is a Cashu mint implementation using CDK (archived).
-- [cashu-signer](https://github.com/lescuer97/cashu-signer) is a remote signer for Cashu mints (unmaintained).
 - [cashu-split](https://github.com/Egge21M/cashu-split) is Cashu token split utilities (unmaintained).
 - [cashu-tool](https://github.com/thesimplekid/cashu-tool) is a Rust Cashu utility tool (archived).
-- [cashu-treasure-vault](https://github.com/HeatherLarson/cashu-treasure-vault) is a pirate-themed Cashu wallet (unmaintained).
 - [cashu-ts-docs](https://github.com/swedishfrenchpress/cashu-ts-docs) is documentation work for cashu-ts (unmaintained).
-- [cashu-ts-mint](https://github.com/gandlafbtc/cashu-ts-mint) is a Cashu mint written in TypeScript.
-- [cashu-ts-multisig](https://github.com/JohnZolton/Cashu-ts-multisig) experiments with multisig flows on cashu-ts (unmaintained).
-- [cashu-ui](https://github.com/cashubtc/cashu-ui) is a GUI for the Nutshell Cashu wallet.
-- [cashu-wallet (pleb-devs)](https://github.com/pleb-devs/cashu-wallet) is a browser Cashu wallet tutorial built with React and cashu-ts (unmaintained).
-- [Cashu-Wallet (TheWildHustle)](https://github.com/TheWildHustle/Cashu-Wallet) is a Cashu wallet project (unmaintained).
-- [cashu-wallet-browser-extension](https://github.com/CashuProjects/cashu-wallet-browser-extension) is a Cashu wallet browser extension.
-- [cashu-wallet-cli-tools](https://github.com/callebtc/cashu-wallet-cli-tools) is a small Cashu wallet CLI tool.
-- [cashu-wallet-pwa](https://github.com/SuperPhatArrow/cashu-wallet-pwa) is a Cashu wallet PWA (unmaintained).
-- [cashu-wallet-rs (Keychat)](https://github.com/keychat-io/cashu-wallet-rs) is Rust Cashu wallet components used in Keychat (unmaintained).
 - [cashu-webcomponent](https://github.com/PandaBear204/cashu-webcomponent) is a web component frontend and Node backend for embedding Cashu payments (unmaintained).
-- [cashu-workshop](https://github.com/supertestnet/cashu-workshop) is a basic demonstration of a Cashu web wallet client.
-- [cashu-workshop (edilmedeiros)](https://github.com/edilmedeiros/cashu-workshop) is workshop material for learning Cashu (unmaintained).
-- [cashu-zk-engine](https://github.com/AbdelStark/cashu-zk-engine) is a Cashu protocol ZK engine implementing BDHKE in Cairo (unmaintained).
 - [cashu402](https://github.com/Egge21M/cashu402) experiments with Cashu HTTP 402 payments (unmaintained).
-- [cashu_app](https://github.com/hvmelo/cashu_app) is a Dart reference application for Cashu (unmaintained).
 - [cashu_cloak](https://github.com/cashucloak/cashu_cloak) is steganography for the Cashu protocol (unmaintained).
-- [cashu_dart](https://github.com/ryzizub/cashu_dart) is a Dart library for Cashu wallets (archived).
-- [cashu_dart (Syoolah fork)](https://github.com/SyoolahHome/cashu_dart) is a fork of cashu_dart (unmaintained).
 - [CashuArcade](https://github.com/PlebeiusGaragicus/CashuArcade) is an arcade-style project using Cashu (unmaintained).
-- [Cashubrew](https://github.com/AbdelStark/gakimint) is a Cashu mint written in Elixir.
-- [cashubrew-website](https://github.com/keep-starknet-strange/cashubrew-website) is website for the Cashubrew mint (unmaintained).
-- [cashubuddy](https://github.com/happylemonprogramming/cashubuddy) packages cashu-ts as a webpack buildup for pure JavaScript use (unmaintained).
-- [CashuCardWallet](https://github.com/Marc26z/CashuCardWallet) is a NIP-60 Cashu wallet experiment (unmaintained).
 - [cashucordAuction](https://github.com/4xvgal/cashucordAuction) is a Cashu auction experiment (unmaintained).
-- [cashulib](https://github.com/jurraca/cashulib) is an Elixir implementation of the Cashu protocol (unmaintained).
 - [CashuMints Telegram bot](https://github.com/CashuMints-space/CashuMints-Telegram-bot) is a Telegram bot for Cashumints.space (unmaintained).
 - [Cashumints-site](https://github.com/CashuMints-space/Cashumints-site) is Cashumints.space 2.0 Nostr client (unmaintained).
-- [cashupp](https://github.com/Forte11Cuba/cashupp) is a C++ Cashu protocol implementation based on the NUTs (unmaintained).
 - [cashurpc](https://github.com/cashubtc/cashurpc) is a Cashu RPC experiment (unmaintained).
-- [CashuWallet (Gudnessuche)](https://github.com/Gudnessuche/CashuWallet) is a Cashu wallet project (unmaintained).
-- [CashuWallet (pdcolandrea)](https://github.com/pdcolandrea/CashuWallet) is a Cashu wallet experiment (unmaintained).
-- [cdk (arkanoider)](https://github.com/arkanoider/cdk) is a Cashu Development Kit experiment (unmaintained).
-- [cdk-flutter](https://github.com/cashubtc/cdk-flutter) is a CDK Flutter Rust bridge library (archived).
-- [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
 - [CHATTY](https://github.com/arbadacarbaYK/CHATTY) is a local/server AI expert on Bitcoin, Lightning, and Cashu (unmaintained).
 - [chessnut](https://github.com/hzrd149/chessnut) is chess over Nostr with Cashu tokens (unmaintained).
 - [cornucopia](https://github.com/gudnuf/cornucopia) stores and synchronizes Cashu proofs (unmaintained).
-- [Crabstash](https://github.com/thesimplekid/crabstash) is a Cashu mobile wallet written in Dart (archived).
 - [crown-anchor](https://github.com/robwoodgate/crown-anchor) is a provably fair Crown and Anchor game with Nostr and Cashu integration (unmaintained).
 - [dcw](https://github.com/elnosh/dcw) is an elnosh Cashu-related project (unmaintained).
-- [gonuts](https://github.com/elnosh/gonuts) is a Cashu wallet and mint written in Go.
-- [headless-cashu](https://github.com/gandlafbtc/headless-cashu) is a browser Cashu wallet library without a GUI (unmaintained).
-- [iced-cashu](https://github.com/thesimplekid/iced-cashu) is an iced-rs Cashu UI experiment (unmaintained).
-- [kernel](https://github.com/Dayvvo/kernel) is a Cashu-based web wallet.
 - [kickstart-cln-plugin](https://github.com/f321x/kickstart-cln-plugin) is a CLN plugin related to Lightning liquidity and Cashu flows (archived).
 - [ldk-cashu](https://github.com/elnosh/ldk-cashu) is LDK and Cashu integration work (unmaintained).
-- [ldk-node-cashu-mint](https://github.com/benthecarman/ldk-node-cashu-mint) is a Cashu mint backed by LDK Node.
-- [liphapha](https://github.com/Bitshala-Incubator/liphapha) is a multi-platform private payments and chat app using Cashu and Nostr (unmaintained).
-- [lnbits-cashu](https://github.com/cashubtc/lnbits-cashu) is a Cashu mint extension for LNbits based on Nutshell (archived).
-- [lnbits/cashu](https://github.com/lnbits/cashu) is an LNbits Cashu integration (archived).
 - [LNCA](https://github.com/agreatopportunity/LNCA) is a Lightning app combining L402 AI payments with Cashu-related flows (unmaintained).
 - [loudr](https://github.com/vstabile/loudr) sponsors publication of Nostr events via atomic swap of Cashu payments (unmaintained).
 - [mattress](https://github.com/ciori/mattress) is a Nostr relay for Cashu tokens of whitelisted pubkeys (unmaintained).
-- [MDK group chat + Cashu wallet](https://github.com/SatsAndSports/mdk_group_chat_with_cashu_wallet_integration) is a demo integrating MDK group chat with a Cashu wallet (unmaintained).
-- [mint](https://github.com/gandlafbtc/mint) is a Cashu mint project in TypeScript.
-- [mint-anywhere](https://github.com/jurraca/mint-anywhere) is deploy a Cashu mint with nixos-anywhere (unmaintained).
-- [Moksha](https://github.com/ngutech21/moksha) is a Cashu wallet and mint written in Rust.
-- [my-cashu-app](https://github.com/miladsoft/my-cashu-app) is a Cashu app experiment (unmaintained).
-- [mynode-nutshell](https://github.com/tlindi/mynode-nutshell) is Nutshell packaged as a MyNodeBTC community/dynamic app (unmaintained).
 - [n8n-nodes-cashu](https://github.com/asmogo/n8n-nodes-cashu) provides n8n nodes for Cashu (unmaintained).
-- [nostr-mint-connect](https://github.com/gandlafbtc/nostr-mint-connect) is a cashu-ts plugin for connecting to mints via Nostr (unmaintained).
 - [nostr-P2PK](https://github.com/pvorangecrush/nostr-P2PK) is NUT-11 P2PK Cashu micropayments over a client-relay note flow (unmaintained).
 - [nostr-pow-provider](https://github.com/f321x/nostr-pow-provider) accepts ecash to find proof-of-work for Nostr events (unmaintained).
 - [npubcash-website](https://github.com/cashubtc/npubcash-website) is the website for npubcash (unmaintained).
 - [nut-bridge](https://github.com/Egge21M/nut-bridge) bridges NIP-57 zaps and NutZaps (unmaintained).
 - [nut-november](https://github.com/cashubtc/nut-november) is a Cashubtc nut-november project (unmaintained).
 - [nut-smasher](https://github.com/gudnuf/nut-smasher) is a project for stress-testing and trying to break Cashu mints (unmaintained).
-- [nutBAC](https://github.com/4xvgal/nutBAC) is blind authentication components related to Cashu NUTs (unmaintained).
 - [nutcracker](https://github.com/Egge21M/nutcracker) is a CLI for unlocking Cashu tokens locked to your npub (unmaintained).
 - [nutgrab](https://github.com/callebtc/nutgrab) is a browser extension for redeeming Cashu tokens on the web (unmaintained).
 - [nuthog](https://github.com/vstabile/nuthog) is a Chromium extension that sniffs out Cashu nuts hidden in emojis and pages (unmaintained).
-- [nutlet](https://github.com/matijaoe/nutlet) is a work-in-progress Cashu web wallet.
-- [nutshell-docker](https://github.com/massmux/nutshell-docker) is a Nutshell Cashu Docker setup with PostgreSQL (unmaintained).
-- [nutshell-lnurl](https://github.com/callebtc/nutshell-lnurl) is LNURL to Cashu to Nostr middleware on Nutshell (unmaintained).
 - [nutstash-homepage](https://github.com/gandlafbtc/nutstash-homepage) is the homepage for Nutstash, a Cashu wallet with Nostr integration (unmaintained).
 - [P2PK-locked Cashu Token](https://github.com/Abhi25jk/P2PK-locked-Cashu-Token) is P2PK-locked Cashu token demos (unmaintained).
-- [parakesh](https://github.com/optout21/parakesh) is a simple reference Cashu wallet in Rust with a UI, based on CDK.
-- [pesanut-wallet](https://github.com/mubarak23/pesanut-wallet) is a multi-mint Cashu web wallet.
-- [poc-ecash](https://github.com/wavlake/poc-ecash) is a Wavlake proof-of-concept Cashu ecash web app (unmaintained).
-- [purrmint](https://github.com/heathermm55/purrmint) is a mobile Cashu mint built with Rust and Kotlin.
-- [react-native.cashu.me](https://github.com/bobodread876/react-native.cashu.me) is cashu.me rewritten as a React Native mobile app (unmaintained).
-- [rest-api-cashu](https://github.com/sh1ftred/rest-api-cashu) is a Cashu wallet exposed via REST APIs (unmaintained).
-- [Rod Wallet](https://github.com/AbdelStark/rod) is a Cashu wallet written in TypeScript.
-- [Sat-Blaster](https://github.com/TheWildHustle/Sat-Blaster) is a Cashu and Lightning powered Nostr wallet.
 - [strfry ecash DVM demo](https://github.com/dtdannen/strfry-ecash-plugin-dvm-demo) is proof of concept using Cashu ecash for rate-limiting on strfry/DVM (unmaintained).
-- [swift-cashu-mint](https://github.com/SparrowTek/swift-cashu-mint) is a Cashu mint implementation in Swift.
 - [swissbtc-cashu](https://github.com/Egge21M/swissbtc-cashu) is a SwissBTC Cashu integration experiment (unmaintained).
-- [toy-cashu](https://github.com/crywolf/toy-cashu) is a from-scratch learning Cashu wallet (unmaintained).
-- [tsnut](https://github.com/adambor/tsnut) is a highly extensible Cashu mint written in TypeScript.
-- [UMKM-BTC](https://github.com/UMKM-ECASH/UMKM-BTC) is a UMKM-oriented wallet with Cashu-related flows (unmaintained).
-- [wallet-extension](https://github.com/CashuProjects/wallet-extension) is an open-source Cashu wallet extension for web browsers.
 - [wallet-relay](https://github.com/bitvora/wallet-relay) is a high-performance relay for enabling NWC and Cashu wallets (unmaintained).
-- [walnut](https://github.com/fernandofreamunde/walnut) is a web ecash wallet built to learn about Cashu.
 - [webvouchers](https://github.com/solidpayorg/webvouchers) experiments with web vouchers in a Cashu/ecash context (unmaintained).
 - [x-cashu-leptos](https://github.com/thesimplekid/x-cashu-leptos) is an X-Cashu demo UI in Leptos (unmaintained).
 - [x-cashu-search](https://github.com/thesimplekid/x-cashu-search) is an X-Cashu search/pay experiment (unmaintained).
 - [ZapTok](https://github.com/silentius-satoshi/ZapTok) is a Nostr short-video PWA client with Cashu-related payments (unmaintained).
-- [zashu](https://github.com/AbdelStark/zashu) is a Zcash-backed Cashu mint written in Rust.
 
