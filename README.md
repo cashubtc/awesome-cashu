@@ -291,7 +291,6 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [mcp-money](https://github.com/pablof7z/mcp-money) is an MCP (Model Context Protocol) money implementation for Nostr using NDK (Nostr Development Kit) with Cashu ecash functionality.
 - [Meme amigo](https://memeamigo.lol/) enables you to hide ecash in a meme.
 - [Mint 98](https://github.com/orangeshyguy21/mint98) is a tool for generating realistic traffic against Cashu mints. 
-- [MintRadar](https://mintradar.pedani.eu/) is a Cashu mint monitoring dashboard.
 - [MONAD](https://github.com/SatsAndSports/MONAD) is a Monetized Onion Network Access Daemon that sells onion-routed access for Cashu.
 - [Morning Glory](https://github.com/hzrd149/morning-glory) is a paid blossom server that only stores blobs for a day.
 - [ngx_l402](https://github.com/DhananjayPurohit/ngx_l402) is an L402 authentication module/plugin for Nginx that integrates seamlessly into your web server.
@@ -321,7 +320,6 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [sig4sats](https://github.com/vstabile/sig4sats-script) is a a simple script demonstrating how to atomically exchange Cashu payments for Nostr event signatures using Schnorr adaptor signatures.
 - [Skate Spots](https://nostrhub.io/naddr1qvzqqqrhnypzqg88e9f588nx7wyz4wt0ura23w3yd4hmztqrkr95utwyvgachjepqy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqqtwd4kzar994ehqmm5wv3d7yj9#skatespots-decentralized-skate-map-community) is skate spot map built on Nostr with an integrated Cashu wallet.
 - [Spacenut](https://github.com/gandlafbtc/spacenut) is the sickest Cashu-enabled game you've ever played. [Site](https://spacenut.nutstash.app)
-- [Spark Payment processor](https://github.com/thesimplekid/cdk-spark-payment-prcoessor) is a gRPC-based Lightning Network payment processor that implements the CDK payment processor protocol using the Breez SDK Spark.
 - [Taskify](https://github.com/Solife-me/Taskify_Release) is a clean, powerful to-do app where tasks can carry Cashu bounties.
 - [The Nutty Pill](https://github.com/MonkeyDGigi/The_Nutty_Pill) is an educational application that gamifies Bitcoin learning with a Cashu.me wallet.
 - [tip.lol](https://github.com/dumonabi/tip.lol) lets you share Bitcoin Cashu ecash with a simple link.
@@ -391,11 +389,9 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Chamberlain](https://github.com/sovereign-app/chamberlain) is a mint implementation with an Integrated LDK Node using CDK.
 - [CHATTY](https://github.com/arbadacarbaYK/CHATTY) is a local/server AI expert on Bitcoin, Lightning, and Cashu (unmaintained).
 - [chessnut](https://github.com/hzrd149/chessnut) is chess over Nostr with Cashu tokens (unmaintained).
-- [Coconut](https://github.com/zig-bitcoin/coconut) is a Cashu mint written in Zig.
 - [cornucopia](https://github.com/gudnuf/cornucopia) stores and synchronizes Cashu proofs (unmaintained).
 - [Crabstash](https://github.com/thesimplekid/crabstash) is a Cashu mobile wallet written in Dart (archived).
 - [crown-anchor](https://github.com/robwoodgate/crown-anchor) is a provably fair Crown and Anchor game with Nostr and Cashu integration (unmaintained).
-- [eNuts](https://github.com/cashubtc/eNuts) is a Cashu wallet for Android and IOS. It empowers you with a user-friendly interface that streamlines every step of your ecash journey.
 - [gonuts](https://github.com/elnosh/gonuts) is a Cashu wallet and mint written in Go.
 - [iced-cashu](https://github.com/thesimplekid/iced-cashu) is an iced-rs Cashu UI experiment (unmaintained).
 - [kernel](https://github.com/Dayvvo/kernel) is a Cashu-based web wallet.
