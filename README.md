@@ -305,6 +305,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [CashuProjects](https://github.com/CashuProjects) is a collection of TypeScript projects.
 - [catofa](https://github.com/mindliner/catofa) is a web UI and orchestration layer for the Lakeside Cashu faucet.
 - [CDK Spark Payment Processor](https://github.com/thesimplekid/cdk-spark-payment-processor) is a gRPC-based Lightning Network payment processor that implements the CDK payment processor protocol using the Breez SDK Spark.
+- [Charon](https://github.com/gudnuf/charon) is a stateless Bash CLI for buying a MyNymBox VPS with Cashu or Lightning.
 - [chessu.cash](https://chessu.cash/) is a game where you can solve chess puzzles and earn Cashu ecash.
 - [classu](https://github.com/inscrib3/classu.cash) is an educational platform fully dedicated to Cashu. [Site](https://classu.cash)
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
