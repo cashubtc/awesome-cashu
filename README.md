@@ -157,7 +157,6 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [CDK](https://cashudevkit.org/) is a CDK doc site. [GitHub](https://github.com/cashubtc/cdk) for input/feedback.
 - [CDK](https://ok300.github.io/cdk-docs/mint/03_systemd_service/) is a CDK doc site.
 - [docs.cashu.space](https://github.com/cashubtc/docs.cashu.space) is the source repository for the official Cashu protocol documentation. [Site](https://docs.cashu.space/)
-- [Mint Best Practices](https://findingsov.github.io/cashu-mint-docs/) is a mint best practices doc site. [GitHub](https://github.com/findingsov/cashu-mint-docs) for input/feedback.
 - [Orchard docs](https://github.com/cashubtc/orchard-docs) is the official documentation site source for Orchard.
 
 ## Tools
