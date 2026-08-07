@@ -362,6 +362,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [tip.lol](https://github.com/dumonabi/tip.lol) lets you share Bitcoin Cashu ecash with a simple link.
 - [Tollgate](https://github.com/OpenTollGate/tollgate-app) turns any WiFi router into a decentralized ISP using bitcoin and ecash.
 - [tollgate-auth](https://github.com/Amperstrand/tollgate-auth) sells pay-per-minute SSH access charged with Cashu tokens.
+- [Upay](https://github.com/jodobear/upay) is a Rust-first research proof-of-concept for a synchronous UPI-for-Cashu escrow market over Nostr.
 - [vpn-identity-cashu](https://github.com/lescuer97/vpn-identity-cashu) manages Cashu VPN payments and passes valid pubkeys to the VPN stack.
 - [Wally](https://github.com/Origami74/wally) allows your device to discover and (auto)connect to TollGates around you. Implements Cashu Wallet Connect (CWC), an extension of NIP-47 (Nostr Wallet Connect) that enables applications to interact with Cashu ecash wallets over Nostr.
 - [wavlake-client](https://github.com/joshr4/wavlake-client) is a reference client for Wavlake streaming credits using Cashu ecash.
