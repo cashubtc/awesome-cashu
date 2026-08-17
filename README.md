@@ -248,6 +248,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [402.markets](https://github.com/Kelbie/402.markets) is an API marketplace powered by Lightning Network and Cashu tokens. [Site](https://402.markets/) 
 - [Athenut](https://github.com/thesimplekid/athenut-frontend) is a tool to search smarter (Kagi-powered). Pay in sats. [Site](https://athenut.com/), [Github-Mint](https://github.com/thesimplekid/athenut-mint)
 - [Europa](https://europa.westernbtc.com/) is a marketplace for VPN access where users can pay with Cashu ecash.
+- [eGavel](https://github.com/sktr/eGavel) is a non-custodial auction platform on Cashu e-cash — bids are locked with a 2-of-3 P2PK (seller, server, bidder) and settled automatically; proxy bidding, instant outbid refunds, and Nostr-linked identity. [Site](https://egavel.vercel.app/)
 - [europa-node](https://github.com/btjt/europa-node) is the reference operator daemon for the Europa VPN marketplace (NIP-99 listings and Cashu payments).
 - [getbased](https://getbased.health/) is an AI app for understanding lab results with an integrated Cashu wallet.
 - [Mynymbox](https://x.com/mynymbox/status/2046351907648672126) is a privacy-focused hosting provider and domain registrar that lets you pay with Cashu.
