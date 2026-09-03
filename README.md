@@ -157,6 +157,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [CDK](https://cashudevkit.org/) is a CDK doc site. [GitHub](https://github.com/cashubtc/cdk) for input/feedback.
 - [CDK](https://ok300.github.io/cdk-docs/mint/03_systemd_service/) is a CDK doc site.
 - [docs.cashu.space](https://github.com/cashubtc/docs.cashu.space) is the source repository for the official Cashu protocol documentation. [Site](https://docs.cashu.space/)
+- [Cashu Book of NUTs](https://adamdecaf.github.io/cashu-nuts-book/) is a reading copy of the [NUTs](https://github.com/cashubtc/nuts), reordered into chapters. PDF, ePUB, and web.
 - [Orchard docs](https://github.com/cashubtc/orchard-docs) is the official documentation site source for Orchard.
 
 ## Tools
