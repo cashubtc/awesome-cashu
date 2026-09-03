@@ -259,6 +259,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [agentecash](https://agentecashsdk.replit.app/) is a tool that uses private, instant ecash payments between autonomous AI agents.
 - [Agicash Giftcards](https://agi.cash/home) are Bitcoin giftcards powered by Cashu.
 - [Almandine](https://lab.oak-node.net/almandine) uses Athenut and is basic wrapper with a built-in CDK wallet.
+- [ARFL Protocol](https://github.com/0xciph3r/arfl-protocol) is a specification for a privacy-respecting bandwidth marketplace settled in Bitcoin.
 - [BitChat Cashu games](https://github.com/fresh3nough/games) is a BitChat casino bot (roulette, hangman, blackjack) using Cashu ecash.
 - [Bitcoin Skills](https://gitlab.com/lemonknowsall/bitcoin-skills/) ia a workflow for building Bitcoin, Lightning, and Cashu wallets through prompts and images, with a Claude Skills library.
 - [BitMeshV2.5](https://github.com/Silexperience210/BitMesh) is a censorship-resistant P2P messaging app with Bitcoin proof identity and Cashu wallet.
@@ -268,6 +269,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [BTCNutServer](https://github.com/d4rp4t/BTCNutServer?mc_cid=bf3feffb71) is a new experimental plugin to bring ecash payments to BTCPay Server.
 - [btcpayserver-plugin-cashu](https://github.com/KingParmenides/btcpayserver-plugin-cashu) is a BTCPay Server plugin for accepting Cashu ecash payments.
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
+- [CashMesh](https://github.com/truthixify/cashmesh) is an open merchant acquiring and settlement network for multi-operator Cashu ecash on Stellar.
 - [Cashu Bonds](https://github.com/lescuer97/nut-bond) is a simple proof of concept of identity bonds using Cashu.
 - [Cashu Cards](https://cashu-cards.shakespeare.wtf/) turns Cashu ecash into beautiful cards.
 - [Cashu Casino](https://github.com/babdbtc/cashucasino) is a privacy-focused online casino powered by Cashu ecash.
@@ -293,6 +295,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-pos](https://github.com/babdbtc/cashu-pos) is a self-hostable POS app built with Expo for accepting Cashu payments via NFC tap-to-pay and Lightning invoices.
 - [cashu-service](https://github.com/irislib/cashu-service) provides reusable Cashu primitives for paid connectivity services.
 - [cashu-startos](https://github.com/horologger/cashu-startos) is a StartOS wrapper for running a Cashu mint server.
+- [cashu-strk20](https://github.com/truthixify/cashu-strk20) is Cashu payment infrastructure backed by private STRK20 settlement on Starknet.
 - [cashu-voucher](https://github.com/398ja/cashu-voucher) implements gift-card style Cashu vouchers that are spent as ecash.
 - [cashu-vpn](https://github.com/robwoodgate/cashu-vpn) sells short-lived WireGuard VPN access for Cashu ecash in a non-custodial seller flow.
 - [cashu-vpn-client](https://github.com/lescuer97/cashu-vpn-client) is a desktop client for Cashu-paid VPN access (companion stack: cashu-vpn-wireguard, vpn-identity-cashu).
@@ -315,6 +318,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [EchoCash](https://github.com/Harshdev098/EchoCash) is a P2P communication and payment platform using WebRTC and WebSockets for decentralized value transfer via Fedimint and Cashu.
 - [Frosty Cashu Wallet](https://github.com/SatsAndSports/FrostyCashuWallet) is a demo Cashu wallet with FROST threshold multisignature support for collaborative ecash control.
 - [Granola](https://github.com/brenorb/granola) is a decentralized exchange layer on top of Cashu that coordinates atomic swaps over Nostr.
+- [Hanbova App](https://github.com/j-kon/hanbova-app) is a Bitcoin payment mobile client featuring a protected send flow powered by Cashu ecash P2PK escrow.
 - [Hashpool](https://github.com/vnprc/hashpool) is an accountless mining pool that uses ecash to represent mining shares.
 - [hashu](https://github.com/asherp/hashu) is a hashrate proxy that mints hashrate vouchers via Cashu.
 - [Hide a message in an emoji](https://github.com/paulgb/emoji-encoder) is a [Site](https://emoji.paulbutler.org) that allows you to hide ecash in an emoji.
@@ -330,6 +334,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [ngx_l402](https://github.com/DhananjayPurohit/ngx_l402) is an L402 authentication module/plugin for Nginx that integrates seamlessly into your web server.
 - [night-bazaar](https://github.com/orveth/night-bazaar) is a pop-gated 3D browser open-world game on the Cashu stack with pay-per-action ecash.
 - [nostr.blue](https://github.com/patrickulrich/nostr.blue) ia a full-featured Nostr social client with a built-in NIP-60 Cashu wallet, compiled to WebAssembly using CDK.
+- [nostrolo.gy/nutzaps](https://nostrolo.gy/nutzaps) is an analytics dashboard that tracks nutzap activity across all mints on Nostr.
 - [nostrpay](https://github.com/Unit-Matrix/nostrpay) is a child-friendly learning app with offline-first Cashu payments built into an educational environment.
 - [Numo](https://github.com/cashubtc/Numo) is an Android Point-of-Sale application that enables merchants to receive Cashu ecash payments via tap-2-pay.
 - [Numo (ZapOut reference)](https://github.com/Schrotti77/Numo) is a Cashu and Lightning point-of-sale app used as a ZapOut reference implementation.
