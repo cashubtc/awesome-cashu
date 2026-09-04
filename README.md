@@ -271,7 +271,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
 - [CashMesh](https://github.com/truthixify/cashmesh) is an open merchant acquiring and settlement network for multi-operator Cashu ecash on Stellar.
 - [Cashu Bonds](https://github.com/lescuer97/nut-bond) is a simple proof of concept of identity bonds using Cashu.
-- [Cashu Book of NUTs](https://ashannon.us/cashu-nuts-book/) is the Cashu Notation, Usage, and Terminology documents grouped by theme and bound in book form.
+- [Cashu Book of NUTs](https://ashannon.us/cashu-nuts-book/) documents the Cashu Notation, Usage, and Terminology, grouped by theme and bound in book form.
 - [Cashu Cards](https://cashu-cards.shakespeare.wtf/) turns Cashu ecash into beautiful cards.
 - [Cashu Casino](https://github.com/babdbtc/cashucasino) is a privacy-focused online casino powered by Cashu ecash.
 - [Cashu for Community Sovereignty](https://github.com/cashu4community) provides private and censorship resistant payment systems for communities under authoritarian regimes. [Site](http://cashu4community.xyz)
