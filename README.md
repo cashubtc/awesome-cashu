@@ -316,6 +316,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [darknode](https://github.com/kingzero-creator/darknode) is an off-grid AI node combining a local LLM, LoRa mesh radio, and Bitcoin/Cashu payments.
 - [deez-cashus](https://github.com/ngmisl/deez-cashus) is a production-ready demonstration of HTTP 402 (Payment Required) using Cashu for privacy-preserving Bitcoin-backed micropayments.
 - [EchoCash](https://github.com/Harshdev098/EchoCash) is a P2P communication and payment platform using WebRTC and WebSockets for decentralized value transfer via Fedimint and Cashu.
+- [eGavel](https://github.com/sktr/eGavel) is a non-custodial auction platform on Cashu ecash.
 - [Frosty Cashu Wallet](https://github.com/SatsAndSports/FrostyCashuWallet) is a demo Cashu wallet with FROST threshold multisignature support for collaborative ecash control.
 - [Granola](https://github.com/brenorb/granola) is a decentralized exchange layer on top of Cashu that coordinates atomic swaps over Nostr.
 - [Hanbova App](https://github.com/j-kon/hanbova-app) is a Bitcoin payment mobile client featuring a protected send flow powered by Cashu ecash P2PK escrow.
@@ -325,6 +326,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [kirk](https://github.com/EthnTuttle/kirk) is a trustless gaming protocol combining Cashu ecash tokens with Nostr.
 - [lakeside](https://github.com/mindliner/lakeside) is a small utility for generating Cashu tokens.
 - [Layer3 Press](https://layer3.press/welcome) is an unstoppable publishing service that allows people to easily receive Bitcoin, Lightning and Cashu subscription payments with a built-in Coinos wallet.
+- [lightning-operator-skills](https://github.com/vincenzopalazzo/lightning-operator-skills) is a collection of Goose recipes and agent skills for operating a Lightning node backing a Cashu mint.
 - [lnuts](https://gitworkshop.dev/npub1dfedhrhn7wu7uhkdsz8dd5rrr50ymkjutkklq7y8zpxn89t7hfyqfzlc7u/relay.ngit.dev/lnuts) is a full Nostr-ready LNURL-pay server that bridges Lightning payments to Cashu tokens.
 - [mcp-money](https://github.com/pablof7z/mcp-money) is an MCP (Model Context Protocol) money implementation for Nostr using NDK (Nostr Development Kit) with Cashu ecash functionality.
 - [Meme amigo](https://memeamigo.lol/) enables you to hide ecash in a meme.
@@ -343,6 +345,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [nutoff-wallet](https://github.com/gzuuus/nutoff-wallet) is a command-line interface and MCP server interface implementing a Cashu wallet.
 - [Nuts are Pure Signal](https://github.com/swedishfrenchpress/bitcoinforsignal) is a bitcoin for Signal hackathon project winner.
 - [Nutshell in Azure TEE](https://github.com/aljazceru/nutshell-azure-tee) is a Cashu mint running in confidential containers (Azure TEE).
+- [Nutty](https://github.com/sovereign-maxi/nutty) is client-side Cashu BDHKE operations compiled to WebAssembly.
 - [nutvault](https://github.com/lescuer97/nutvault) is a more secure signer component for Cashu mints.
 - [Obfusats](https://devpost.com/software/obfusats) is a hackathon project that takes a stack of sats, splits and routes through a couple of Cashu mints before merging again. 
 - [OnChainDiscGolf](https://github.com/OnChainDiscGolf/app) is a disc golf scorecard app with integrated Bitcoin payments via Cashu ecash.
