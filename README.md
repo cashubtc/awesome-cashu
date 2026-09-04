@@ -316,7 +316,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [darknode](https://github.com/kingzero-creator/darknode) is an off-grid AI node combining a local LLM, LoRa mesh radio, and Bitcoin/Cashu payments.
 - [deez-cashus](https://github.com/ngmisl/deez-cashus) is a production-ready demonstration of HTTP 402 (Payment Required) using Cashu for privacy-preserving Bitcoin-backed micropayments.
 - [EchoCash](https://github.com/Harshdev098/EchoCash) is a P2P communication and payment platform using WebRTC and WebSockets for decentralized value transfer via Fedimint and Cashu.
-- [eGavel](https://github.com/sktr/eGavel) is a non-custodial auction platform built on Cashu ecash with 2-of-3 P2PK bid locking.
+- [eGavel](https://github.com/sktr/eGavel) is a non-custodial auction platform on Cashu ecash.
 - [Frosty Cashu Wallet](https://github.com/SatsAndSports/FrostyCashuWallet) is a demo Cashu wallet with FROST threshold multisignature support for collaborative ecash control.
 - [Granola](https://github.com/brenorb/granola) is a decentralized exchange layer on top of Cashu that coordinates atomic swaps over Nostr.
 - [Hanbova App](https://github.com/j-kon/hanbova-app) is a Bitcoin payment mobile client featuring a protected send flow powered by Cashu ecash P2PK escrow.
