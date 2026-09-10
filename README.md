@@ -85,7 +85,8 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [Clams](https://clams.tech/) is a Personal Finance and Business Analytics application that has a Cashu NIP-60 connection.
 - [Highlighter](https://github.com/pablof7z/highlighter)
 - [Iris](https://github.com/irislib/iris-messenger) is a Nostr Android, iOS and web client that also has a standalone desktop app and a Cashu wallet.
-- [Learn civics](https://civico.app) is a civics citizenship app that has NIP-60 and NIP-61 support.
+- [Piyali](https://piyali.app) is an AI language learning tutor that has NIP-60 and NIP-61 support to create scholarships with learning.
+- [Robots Building Education](https://robotsbuildingeducation.com) is a companion AI coding tutor app to Piyali that has NIP-60 and NIP-61 support.
 - [lnw.cash](https://github.com/AlbiziaLebbeck/lnwCash), [Site](https://lnw.cash/)
 - [nutlife.lol](https://nutlife.lol/) 
 - [Nutsack](https://github.com/pablof7z/nutsack), [Site](https://github.com/pablof7z/nutsack)
