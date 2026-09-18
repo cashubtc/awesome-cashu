@@ -33,6 +33,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [bankify](https://github.com/supertestnet/bankify) is a tool that turns any Cashu mint into a Lightning wallet with NWC support.
 - [Bey Wallet](https://github.com/thehussein01/BeyWallet) is a modular, local-first ecash wallet for Bitcoin and Nostr.
 - [botwallets](https://github.com/aeschylus/botwallets) is a simple Cashu wallet API for autonomous agents and bots.
+- [Cashr](https://github.com/rayfish/cashr) is a Cashu wallet and Nostr signer for the macOS menu bar, with Lightning payments and zaps.
 - [Cashu Pixel](https://github.com/swedishfrenchpress/cashu-pixel) is an offline Cashu ecash wallet for Raspberry Pi with a HyperPixel touchscreen.
 - [Cashu Pixel (Rust)](https://github.com/swedishfrenchpress/cashu-pixel-rs) is a Rust/CDK/Slint rewrite of Cashu Pixel for Raspberry Pi.
 - [Cashu Wallet](https://github.com/cashubtc/wallet) is the official Cashu wallet for iOS and Android.
@@ -192,6 +193,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu.
 - [Nutshell configurer]( https://celadon-semolina-91d112.netlify.app/) is a tool to set up the .env file for nutshell mints.
 - [Orchard](https://github.com/cashubtc/orchard) is a web application for Cashu mint management.
+- [Proofstorm](https://proofstorm.com) is a CLI/GUI tool for spinning up disposable Bitcoin, Lightning, and Cashu test environments, with MCP support for coding agents. [GitHub](https://github.com/orangeshyguy21/proofstorm)
 - [qr_maker](https://github.com/higedamc/qr_maker) is a simple QR code generator with Cashu data support.
 
 ## Projects
@@ -236,6 +238,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-l402](https://github.com/Traviseric/cashu-l402) is a Cashu ecash ↔ L402 settlement bridge for atomic ecash-to-macaroon exchange.
 - [cashu-mpp](https://github.com/gudnuf/cashu-mpp) is an experimental NUT-24 HTTP 402 implementation with server-side Cashu validation.
 - [clawtar](https://github.com/robwoodgate/clawtar) is an agent-first demo for Cashu 402 payments.
+- [Geata](https://git.cashu.dev/thesimplekid/geata) is a reverse proxy that lets clients pay for requests beyond a free rate limit using Cashu. [GitHub mirror](https://github.com/thesimplekid/geata)
 - [magicsphere](https://github.com/rphilbrdigits/magicsphere) is a Magic 8 Ball oracle powered by Lightning payments via Cashu and L402.
 - [nutpay](https://github.com/babdbtc/nutpay) is a Chrome extension for automatic Cashu micropayments via X-Cashu proxies.
 - [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
@@ -262,6 +265,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [ARFL Protocol](https://github.com/0xciph3r/arfl-protocol) is a specification for a privacy-respecting bandwidth marketplace settled in Bitcoin.
 - [BitChat Cashu games](https://github.com/fresh3nough/games) is a BitChat casino bot (roulette, hangman, blackjack) using Cashu ecash.
 - [Bitcoin Skills](https://gitlab.com/lemonknowsall/bitcoin-skills/) ia a workflow for building Bitcoin, Lightning, and Cashu wallets through prompts and images, with a Claude Skills library.
+- [BitcoinPIR cashier](https://github.com/Bitcoin-PIR/cashier) is a Rust service that sells Ed25519-signed session grants for Cashu ecash, which BitcoinPIR servers meter offline per query.
 - [BitMeshV2.5](https://github.com/Silexperience210/BitMesh) is a censorship-resistant P2P messaging app with Bitcoin proof identity and Cashu wallet.
 - [bitpoints.me](https://github.com/bitpoints-cashu/bitpoints.me) is a Cashu Ecash Wallet with Bluetooth mesh networking and Nostr integration.
 - [Blackbox Node](https://github.com/wadadawadada/blackbox_node) is an offline-first command post combining local AI, radio messaging, mapping, telemetry, and Cashu payments in a single self-hosted web UI.
@@ -271,6 +275,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [bullishNuts](https://github.com/thebullishbitcoiner/bullishnuts) is an ecash wallet in early beta phase.
 - [CashMesh](https://github.com/truthixify/cashmesh) is an open merchant acquiring and settlement network for multi-operator Cashu ecash on Stellar.
 - [Cashu Bonds](https://github.com/lescuer97/nut-bond) is a simple proof of concept of identity bonds using Cashu.
+- [Cashu Book of NUTs](https://ashannon.us/cashu-nuts-book/) documents the Cashu Notation, Usage, and Terminology, grouped by theme and bound in book form.
 - [Cashu Cards](https://cashu-cards.shakespeare.wtf/) turns Cashu ecash into beautiful cards.
 - [Cashu Casino](https://github.com/babdbtc/cashucasino) is a privacy-focused online casino powered by Cashu ecash.
 - [Cashu for Community Sovereignty](https://github.com/cashu4community) provides private and censorship resistant payment systems for communities under authoritarian regimes. [Site](http://cashu4community.xyz)
@@ -351,6 +356,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [OnChainDiscGolf](https://github.com/OnChainDiscGolf/app) is a disc golf scorecard app with integrated Bitcoin payments via Cashu ecash.
 - [Openpleb](https://github.com/gandlafbtc/open-pleb) is a platform for matching users that want to pay a banking QR with bitcoin, and earners that want to earn bitcoin for paying the users offers.
 - [Orchard](https://github.com/orangeshyguy21/orchard) is a Bitcoin super application that has Cashu mint monitoring.
+- [PactAgent](https://github.com/comwanga/pactagent) is an open-source framework for autonomous economic agents that discover each other through Nostr, negotiate bounded service agreements, and settle via Cashu ecash escrow.
 - [payment-methods](https://github.com/forgesworn/payment-methods) is Lightning and Cashu payment method specifications.
 - [Paywally](https://github.com/bordalix/paywally) is a Lightning paywall powered by Cashu.
 - [perform](https://github.com/osmaxx/perform) is a commitment-device PWA where you stake Bitcoin via Cashu on your habits.
