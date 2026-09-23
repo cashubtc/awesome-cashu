@@ -43,6 +43,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [cashu-agent](https://github.com/jeletor/cashu-agent) is a Cashu ecash wallet for AI agents with privacy-preserving payments.
 - [cashu-skill (eridanux)](https://github.com/eridanux/cashu-skill) is a CLI-oriented Cashu skill for managing ecash tokens and Lightning mints.
 - [Cashu.me](https://github.com/cashubtc/cashu.me) is a web wallet built on Quasar and Vue.js. It is written in JavaScript and TypeScript.
+- [Cashu.me](https://github.com/cashubtc/wallet) is a native Cashu wallet for iPhone and Android.
 - [cocoa-cash](https://github.com/Slender2097/cocoa-cash) is a simple Cashu protocol wallet.
 - [CocoCashu](https://github.com/imyrvold/CocoCashuApp) is a native iOS/macOS Cashu wallet app.
 - [cocod](https://github.com/Egge21M/cocod) is a Cashu wallet CLI and daemon built with Bun and TypeScript.
