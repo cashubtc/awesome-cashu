@@ -262,7 +262,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [agentecash](https://agentecashsdk.replit.app/) is a tool that uses private, instant ecash payments between autonomous AI agents.
 - [Agicash Giftcards](https://agi.cash/home) are Bitcoin giftcards powered by Cashu.
 - [Almandine](https://lab.oak-node.net/almandine) uses Athenut and is basic wrapper with a built-in CDK wallet.
-- [ARFL Protocol](https://github.com/0xciph3r/arfl-protocol) is a specification for a privacy-respecting bandwidth marketplace settled in Bitcoin.
+- [ARFL](https://github.com/0xciph3r/ARFL) is a decentralised VPN protocol and privacy-respecting bandwidth marketplace powered by Bitcoin and Cashu ecash. [Protocol Spec](https://github.com/0xciph3r/arfl-protocol)
 - [BitChat Cashu games](https://github.com/fresh3nough/games) is a BitChat casino bot (roulette, hangman, blackjack) using Cashu ecash.
 - [Bitcoin Skills](https://gitlab.com/lemonknowsall/bitcoin-skills/) ia a workflow for building Bitcoin, Lightning, and Cashu wallets through prompts and images, with a Claude Skills library.
 - [BitcoinPIR cashier](https://github.com/Bitcoin-PIR/cashier) is a Rust service that sells Ed25519-signed session grants for Cashu ecash, which BitcoinPIR servers meter offline per query.
@@ -347,6 +347,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Numo (ZapOut reference)](https://github.com/Schrotti77/Numo) is a Cashu and Lightning point-of-sale app used as a ZapOut reference implementation.
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
 - [NUTbits](https://github.com/DoktorShift/nutbits) is a NWC wallet service that translates between Cashu mint (NUTs) and Nostr Wallet Connect (NIP-47).
+- [NutFT](https://github.com/brenorb/NutFT) is an application-level extension for Cashu proofs representing individually identifiable bearer assets.
 - [nutoff-wallet](https://github.com/gzuuus/nutoff-wallet) is a command-line interface and MCP server interface implementing a Cashu wallet.
 - [Nuts are Pure Signal](https://github.com/swedishfrenchpress/bitcoinforsignal) is a bitcoin for Signal hackathon project winner.
 - [Nutshell in Azure TEE](https://github.com/aljazceru/nutshell-azure-tee) is a Cashu mint running in confidential containers (Azure TEE).
