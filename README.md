@@ -173,6 +173,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-mint-status-board](https://github.com/shroominic/cashu-mint-status-board) is a mint status board. [cashu.live](https://cashu.live)
 - [Cashu Mint Directory](https://github.com/ye0man/cashu-mint-directory) is an interactive table to discover and connect with Cashu mints.
 - [Cashumints.space](https://Cashumints.space) is an index of Cashu ecash mints and offers reviews of these mints, complete with comprehensive mint pages.
+- [L3](https://github.com/JacksonZheng07/L3) is a real-time trust scoring and autonomous fund migration engine for Cashu ecash mints. [Site](https://mit-bitcoin.vercel.app)
 - [Mint Audit](https://audit.8333.space/) is a mint auditor and [Mint Watch Bot](https://primal.net/p/npub1cashu0thfukl57lgwtarn7h4jrzrg2e346zc8sjvjd8u5hheds0qlhpt92) is a bot that watches the status of mints.
 - [mint-discovery](https://github.com/jooray/mint-discovery) is a Cashu mint discovery library.
 - [MintRadar](https://mintradar.pedani.eu) — Real-time Cashu mint monitor with uptime, latency, Trust Score, NUT compatibility, watchlist and Nostr reviews. [GitHub](https://github.com/hroomnik007/MintRadar)
