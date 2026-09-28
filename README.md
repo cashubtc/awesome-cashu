@@ -16,7 +16,6 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [arxmint](https://github.com/Traviseric/arxmint) is a self-hosted Cashu mint / payment infrastructure for accepting Bitcoin payments with no middleman.
 - [cashu-mint](https://github.com/398ja/cashu-mint) is a Java/Spring Boot implementation of the Cashu mint protocol.
 - [cashu-mint (TypeScript)](https://github.com/Traviseric/cashu-mint) is a TypeScript Cashu mint implementing NUT-00 through NUT-07.
-- [custom-unit-mint](https://github.com/zeugmaster/custom-unit-mint) is cdk-mintd with a custom gRPC payment processor for manually settled custom units.
 - [fibernuts](https://github.com/code3ks/fibernuts) is a Cashu ecash mint backed by Fiber Network payment channels.
 - [MINTED](https://minted.is/) is a Cashu mint accessible via Tor.
 - [minervamnt](https://github.com/Z0rlord/minervamnt) is an Ark-backed Cashu mint in Rust (Chaumian ecash backed by VTXOs).
@@ -25,6 +24,7 @@ Cashu is an open Ecash protocol for anyone to implement. The specifications, cal
 - [nutmix](https://github.com/lescuer97/nutmix) is another mint written in Golang.
 - [nutshell](https://github.com/cashubtc/nutshell) is the reference mint implementation in Python.
 - [nutshell-xmr](https://github.com/MaurerAnton/nutshell-xmr) is a Cashu mint forked from Nutshell with a Monero (XMR) wallet-rpc backend.
+- [Pecan](https://github.com/zeugmaster/pecan) is a CDK payment processor and ecash teller console for manually settled, custom-unit Cashu mints.
 - [unit-cashu-mint](https://github.com/DUCAT-UNIT/unit-cashu-mint) is a Cashu mint implementation in TypeScript.
 
 ## Wallets
@@ -129,6 +129,7 @@ Cashu libraries allow developers to build wallets, mints, and other services tha
 - [Cashu Development Kit(cdk)](https://github.com/cashubtc/cdk) is a Rust library implementing the Cashu protocol.
 - [cdk-cashu-auditor](https://github.com/thesimplekid/cdk-cashu-auditor) is a Cashu mint auditor built on CDK.
 - [cdk-kotlin](https://github.com/cashubtc/cdk-kotlin) are Kotlin/Android language bindings for the Cashu Development Kit (cdk).
+- [cdk-payment-processors](https://github.com/cashubtc/cdk-payment-processors) is a collection of payment processors for the Cashu Development Kit (CDK).
 - [cdk-pop-verifier](https://github.com/MakePrisms/cdk-pop-verifier) is a Proof-of-Payment verifier SDK for NUT-24 Cashu HTTP 402 with proof-of-power.
 - [cdk-python](https://github.com/cashubtc/cdk-python) are Python language bindings for the Cashu Development Kit (cdk). 
 - [cdk-swift](https://github.com/cashubtc/cdk-swift) are Swift language bindings for the Cashu Development Kit (cdk).
@@ -173,6 +174,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-mint-status-board](https://github.com/shroominic/cashu-mint-status-board) is a mint status board. [cashu.live](https://cashu.live)
 - [Cashu Mint Directory](https://github.com/ye0man/cashu-mint-directory) is an interactive table to discover and connect with Cashu mints.
 - [Cashumints.space](https://Cashumints.space) is an index of Cashu ecash mints and offers reviews of these mints, complete with comprehensive mint pages.
+- [L3](https://github.com/JacksonZheng07/L3) is a real-time trust scoring and autonomous fund migration engine for Cashu ecash mints. [Site](https://mit-bitcoin.vercel.app)
 - [Mint Audit](https://audit.8333.space/) is a mint auditor and [Mint Watch Bot](https://primal.net/p/npub1cashu0thfukl57lgwtarn7h4jrzrg2e346zc8sjvjd8u5hheds0qlhpt92) is a bot that watches the status of mints.
 - [mint-discovery](https://github.com/jooray/mint-discovery) is a Cashu mint discovery library.
 - [MintRadar](https://mintradar.org) — Real-time Cashu mint monitor with uptime, latency, Trust Score, NUT compatibility, watchlist and Nostr reviews. [GitHub](https://github.com/hroomnik007/MintRadar)
