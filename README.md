@@ -216,7 +216,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [routstr-chat](https://github.com/Routstr/routstr-chat) is a fully local chat interface implementing the Routstr protocol for Cashu-paid LLM access.
 - [routstr-core](https://github.com/Chewy-b0t/routstr-core) is a Cashu ecash inference proxy (Ollama backend, admin UI, Lightning top-up) for paid AI inference.
 - [satgate](https://github.com/TheCryptoDonkey/satgate) monetizes OpenAI-compatible endpoints with Lightning-paid AI inference in a Cashu-capable agent stack.
-- [Sats4Tokens](https://github.com/beihaili/sats4tokens) is a payment gateway and key shop that lets users buy capped AI API keys with Bitcoin Lightning or Cashu ecash.
+- [Sats4Tokens](https://github.com/beihaili/sats4tokens) is a payment gateway that lets users buy AI API keys with Cashu ecash.
 
 ### LN Address Support
 - [npubcash-server](https://github.com/cashubtc/npubcash-server) is a Lightning-Address provider for nostr pubkeys based on [Cashu-Address](https://github.com/lightning-digital-entertainment/cashu-address)
@@ -248,7 +248,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [nutpay](https://github.com/babdbtc/nutpay) is a Chrome extension for automatic Cashu micropayments via X-Cashu proxies.
 - [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
 - [teneo-publishing](https://github.com/Traviseric/teneo-publishing) is an AI agent content publishing API with pay-per-use via Lightning L402 or Cashu.
-- [The NutPub](https://github.com/rajesh-taylor/nutpub) is a streaming platform where live shows and sets are paid for in Cashu ecash via NUT-24 HTTP 402 micropayments.
+- [The NutPub](https://github.com/rajesh-taylor/nutpub) is a streaming platform where live shows and sets are paid with Cashu ecash via NUT-24 HTTP 402 micropayments.
 - [toll-booth](https://github.com/forgesworn/toll-booth) turns any API into a Lightning or Cashu toll booth with one-line middleware, including Cashu settlement paths.
 - [X-Cashu](https://github.com/callebtc/xcashu) is a work-in-progress project that aims to create a 402 Payment Required scheme to monetize REST API access by using ecash in HTTP headers.
 - [x402-cashu](https://github.com/orangerabbit-io/x402-cashu) connects x402-style HTTP payments with Cashu ecash.
@@ -348,7 +348,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Morning Glory](https://github.com/hzrd149/morning-glory) is a paid blossom server that only stores blobs for a day.
 - [ngx_l402](https://github.com/DhananjayPurohit/ngx_l402) is an L402 authentication module/plugin for Nginx that integrates seamlessly into your web server.
 - [night-bazaar](https://github.com/orveth/night-bazaar) is a pop-gated 3D browser open-world game on the Cashu stack with pay-per-action ecash.
-- [Nonfungible.cash](https://github.com/callebtc/cashu-nft) is a bearer collectible and marketplace system that embeds blind-signed Pointcheval–Sanders Cashu credentials inside image EXIF headers.
+- [Nonfungible.cash](https://github.com/callebtc/cashu-nft) turns any picture into a private, bearer collectible built on Cashu ecash.
 - [nostr.blue](https://github.com/patrickulrich/nostr.blue) ia a full-featured Nostr social client with a built-in NIP-60 Cashu wallet, compiled to WebAssembly using CDK.
 - [nostrolo.gy/nutzaps](https://nostrolo.gy/nutzaps) is an analytics dashboard that tracks nutzap activity across all mints on Nostr.
 - [nostrpay](https://github.com/Unit-Matrix/nostrpay) is a child-friendly learning app with offline-first Cashu payments built into an educational environment.
