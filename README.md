@@ -209,6 +209,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
 - [leashd](https://github.com/brainbytes-dev/leashd) provides non-custodial spend governance for autonomous AI agents using Cashu.
 - [ln-agent-poc-v2](https://github.com/cachet-jp/ln-agent-poc-v2) is an MCP server and Claude Code skill pack for buying gift cards, eSIMs, and mobile top-ups with agent payments.
+- [omarchy-routstr](https://github.com/babdbtc/omarchy-routstr) is an Omarchy desktop status bar plugin for funding and monitoring Routstr AI inference with Cashu ecash and Lightning.
 - [otrta-client](https://github.com/Routstr/otrta-client) is privacy-first AI payment system powered by e-cash technology. [Site](https://ecash.client.otrta.me/documentation/overview)
 - [peer2prompt](https://github.com/longevityboris/peer2prompt) is a peer-to-peer protocol for anonymous AI inference paid with Cashu.
 - [plugin-nostr](https://github.com/ChuXo/plugin-nostr) is a Nostr + Cashu ecash plugin with Agent-to-Agent Nostr (A2N) protocol support.
@@ -287,6 +288,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashu Cards](https://cashu-cards.shakespeare.wtf/) turns Cashu ecash into beautiful cards.
 - [Cashu Casino](https://github.com/babdbtc/cashucasino) is a privacy-focused online casino powered by Cashu ecash.
 - [Cashu for Community Sovereignty](https://github.com/cashu4community) provides private and censorship resistant payment systems for communities under authoritarian regimes. [Site](http://cashu4community.xyz)
+- [Cashu for M5Stack PaperS3](https://github.com/Emzy/papers3-cashu) is an experimental native Cashu hardware wallet port of Nucula for the ESP32-S3 e-paper touch device.
 - [Cashu for WooCommerce](https://github.com/robwoodgate/cashu-for-woocommerce) adds a secure Cashu payment gateway to your WooCommerce store.
 - [Cashu LoRa Bridge](https://github.com/Silexperience210/cashu-lora-bridge) is a gateway server that enables offline Bitcoin transactions via LoRa radio networks.
 - [Cashu MLS Chat](https://github.com/SatsAndSports/cashu_mls_chat) is a a web-based application combining MDK (Marmot Development Kit) for encrypted group messaging with Cashu (CDK) for ecash wallet functionality.
@@ -354,6 +356,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [nostrpay](https://github.com/Unit-Matrix/nostrpay) is a child-friendly learning app with offline-first Cashu payments built into an educational environment.
 - [Numo](https://github.com/cashubtc/Numo) is an Android Point-of-Sale application that enables merchants to receive Cashu ecash payments via tap-2-pay.
 - [Numo (ZapOut reference)](https://github.com/Schrotti77/Numo) is a Cashu and Lightning point-of-sale app used as a ZapOut reference implementation.
+- [Numo POS Spike](https://github.com/Amperstrand/numo-pos-spike) is a restaurant checkout and real-time kitchen display prototype integrating Cashu payments via Numo payment terminal webhooks.
 - [Nutband](https://github.com/jooray/nutband) aims to use Cashu payments over long range radio and other mesh networks using Reticulum and LXMF.
 - [NUTbits](https://github.com/DoktorShift/nutbits) is a NWC wallet service that translates between Cashu mint (NUTs) and Nostr Wallet Connect (NIP-47).
 - [NutFT](https://github.com/brenorb/NutFT) is an application-level extension for Cashu proofs representing individually identifiable bearer assets.
@@ -373,6 +376,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Portal Technologies](https://github.com/PortalTechnologiesInc) is a universal app for identity & payments.
 - [Purrwallet](https://github.com/heathermm55/purrwallet) is a cross-platform Cashu ecash wallet built with Rust and Flutter, featuring a terminal-inspired UI for privacy-focused Bitcoiners.
 - [Receipt.cash](https://github.com/Origami74/receipt-cash) is a bill splitter to snap a picture of a fiat bill and easily split costs auto-converted to Bitcoin. It's based on Cashu payment requests. [Site](https://sugardaddy.cash/)
+- [Real Open Bidding](https://github.com/ye0man/real-open-bidding) is a prototype for prepaid, decentralized real-time ad bidding over Nostr settled with Cashu NUT-11 2-of-2 P2PK escrow and oracle co-signing.
 - [rythm](https://rythm.xyz/) is a non-custodial email paywall using Cashu.
 - [S-two Cairo Demo](https://stwo-cairo.vercel.app/) is bringing zero-knowledge proofs to Cashu. Github repos: [stwo-cairo](https://github.com/starkware-libs/stwo-cairo) and [stwo-cairo-ts](https://github.com/clealabs/stwo-cairo-ts)
 - [satflux](https://github.com/webiumsk/satflux) is a multi-tenant control panel for BTCPay Server stores and invoices with Cashu-related flows.
