@@ -315,6 +315,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-vpn](https://github.com/robwoodgate/cashu-vpn) sells short-lived WireGuard VPN access for Cashu ecash in a non-custodial seller flow.
 - [cashu-vpn-client](https://github.com/lescuer97/cashu-vpn-client) is a desktop client for Cashu-paid VPN access (companion stack: cashu-vpn-wireguard, vpn-identity-cashu).
 - [cashu-vpn-wireguard](https://github.com/lescuer97/cashu-vpn-wireguard) is a WireGuard server component for Cashu-paid VPN that takes pubkeys from an auth manager.
+- [Cashu-XX](https://github.com/ye0man/cashu-xx) is an 8-bit browser RPG where players earn Cashu ecash by completing quests.
 - [cashu.me.extension](https://github.com/Kelbie/cashu.me.extension) is a Cashu.me wrapper that allows you to use your Cashu.me ecash and manage functionality related to it including sending and receiving.        [Chrome extension](https://chromewebstore.google.com/detail/cashume/adfafhcbnbehkgpkfgpbgagkjlddkohj) and [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/cashu-me/).
 - [cashu4community web](https://github.com/cashu4community/cashu4communityweb) is the web frontend for Cashu for Community Sovereignty.
 - [cashu4cs-deploy](https://github.com/cashu4community/cashu4cs-deploy) is deployment tooling for Cashu for Community Sovereignty.
