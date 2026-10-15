@@ -174,6 +174,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-mint-status-board](https://github.com/shroominic/cashu-mint-status-board) is a mint status board. [cashu.live](https://cashu.live)
 - [Cashu Mint Directory](https://github.com/ye0man/cashu-mint-directory) is an interactive table to discover and connect with Cashu mints.
 - [Cashumints.space](https://Cashumints.space) is an index of Cashu ecash mints and offers reviews of these mints, complete with comprehensive mint pages.
+- [L3](https://github.com/JacksonZheng07/L3) provides real-time trust scoring and autonomous fund migration for Cashu mints.
 - [Mint Audit](https://audit.8333.space/) is a mint auditor and [Mint Watch Bot](https://primal.net/p/npub1cashu0thfukl57lgwtarn7h4jrzrg2e346zc8sjvjd8u5hheds0qlhpt92) is a bot that watches the status of mints.
 - [mint-discovery](https://github.com/jooray/mint-discovery) is a Cashu mint discovery library.
 - [MintRadar](https://mintradar.org) — Real-time Cashu mint monitor with uptime, latency, Trust Score, NUT compatibility, watchlist and Nostr reviews. [GitHub](https://github.com/hroomnik007/MintRadar)
@@ -329,6 +330,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [chessu.cash](https://chessu.cash/) is a game where you can solve chess puzzles and earn Cashu ecash.
 - [classu](https://github.com/inscrib3/classu.cash) is an educational platform fully dedicated to Cashu. [Site](https://classu.cash)
 - [CLN mint plugin](https://github.com/gudnuf/cln_pyshu_mint) is a work-in-progress CLN plugin for running a mint on your own node.
+- [CypherGuide](https://github.com/greenweaveglobal/CypherGuide) is a sovereign peer-to-peer lodging protocol with Nostr identity and no KYC, where bookings and donations can be settled in Cashu ecash. [Site](https://cypherguide.org)
 - [darknode](https://github.com/kingzero-creator/darknode) is an off-grid AI node combining a local LLM, LoRa mesh radio, and Bitcoin/Cashu payments.
 - [deez-cashus](https://github.com/ngmisl/deez-cashus) is a production-ready demonstration of HTTP 402 (Payment Required) using Cashu for privacy-preserving Bitcoin-backed micropayments.
 - [EchoCash](https://github.com/Harshdev098/EchoCash) is a P2P communication and payment platform using WebRTC and WebSockets for decentralized value transfer via Fedimint and Cashu.
@@ -388,6 +390,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Spacenut](https://github.com/gandlafbtc/spacenut) is the sickest Cashu-enabled game you've ever played. [Site](https://spacenut.nutstash.app)
 - [Spillman Cashu channel demo](https://github.com/SatsAndSports/demo_of_spillman_cashu_channel) is a demo of high-frequency micropayments with Cashu Spillman channels.
 - [Taskify](https://github.com/Solife-me/Taskify_Release) is a clean, powerful to-do app where tasks can carry Cashu bounties.
+- [Tessera](https://github.com/gwbtc/tessera) issues access tokens (passes, credits, tickets, invites) as NUT-22 blind auth tokens on Urbit, running a separate auth mint per service over HTTP and Ames.
 - [tg-mint-orchestrator](https://github.com/Rits1272/tg-mint-orchestrator) is an Ansible playbook for deploying per-operator Cashu (CDK) mints.
 - [The Nutty Pill](https://github.com/MonkeyDGigi/The_Nutty_Pill) is an educational application that gamifies Bitcoin learning with a Cashu.me wallet.
 - [tip.lol](https://github.com/dumonabi/tip.lol) lets you share Bitcoin Cashu ecash with a simple link.
