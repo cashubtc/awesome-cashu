@@ -246,6 +246,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [cashu-mpp](https://github.com/gudnuf/cashu-mpp) is an experimental NUT-24 HTTP 402 implementation with server-side Cashu validation.
 - [clawtar](https://github.com/robwoodgate/clawtar) is an agent-first demo for Cashu 402 payments.
 - [Geata](https://git.cashu.dev/thesimplekid/geata) is a reverse proxy that lets clients pay for requests beyond a free rate limit using Cashu. [GitHub mirror](https://github.com/thesimplekid/geata)
+- [Jittator](https://jittator.com) is a pay-per-call screenshot and PDF API for AI agents that accepts Cashu ecash in the X-Cashu header (NUT-24) or Lightning L402, 20 or 30 sats per call, no account.
 - [magicsphere](https://github.com/rphilbrdigits/magicsphere) is a Magic 8 Ball oracle powered by Lightning payments via Cashu and L402.
 - [nutpay](https://github.com/babdbtc/nutpay) is a Chrome extension for automatic Cashu micropayments via X-Cashu proxies.
 - [Proxnut](https://github.com/gandlafbtc/proxnut)  forwards requests only if they have a valid cashu token attached to the X-Cashu header.
