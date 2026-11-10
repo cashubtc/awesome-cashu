@@ -200,6 +200,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Orchard](https://github.com/cashubtc/orchard) is a web application for Cashu mint management.
 - [Proofstorm](https://proofstorm.com) is a CLI/GUI tool for spinning up disposable Bitcoin, Lightning, and Cashu test environments, with MCP support for coding agents. [GitHub](https://github.com/orangeshyguy21/proofstorm)
 - [qr_maker](https://github.com/higedamc/qr_maker) is a simple QR code generator with Cashu data support.
+- [SatBotly Cashu](https://satbotly.com/cashu) is a free, source-checked list of Cashu mints, wallets, MCP servers and NUT-24 APIs for AI agents, plus [try402](https://satbotly.com/try402), a sandbox that pays a 21-sat NUT-24 paywall with testnut ecash.
 
 ## Projects
 ### LLM Purchase
