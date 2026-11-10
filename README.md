@@ -195,6 +195,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [dev-calls](https://github.com/cashubtc/dev-calls) collects notes and materials from Cashu developer calls.
 - [ndk-cashu-tests](https://github.com/d4rp4t/ndk-cashu-tests) contains tests for NDK Cashu integrations.
 - [Numbnoot](https://numbnoot.gandlaf.com) is a simulator for the Blind Diffie-Hellman Key Exchange scheme in used in Cashu.
+- [nutgraph](https://ye0man.github.io/nutgraph/) is a knowledge graph of the Cashu ecosystem, with the spec at the center and modules and their dependents around it.
 - [Nutshell configurer]( https://celadon-semolina-91d112.netlify.app/) is a tool to set up the .env file for nutshell mints.
 - [Orchard](https://github.com/cashubtc/orchard) is a web application for Cashu mint management.
 - [Proofstorm](https://proofstorm.com) is a CLI/GUI tool for spinning up disposable Bitcoin, Lightning, and Cashu test environments, with MCP support for coding agents. [GitHub](https://github.com/orangeshyguy21/proofstorm)
@@ -207,6 +208,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [arbstr-vault](https://github.com/johnzilla/arbstr-vault) is a centralized treasury/"bank" service for AI agent Cashu balances.
 - [ChatNut](https://chatnut.sparkpay.pt/) is a privacy-preserving Chat application for large language models (LLMs) that users pay-per-request with an integrated Cashu wallet without having to create accounts.
 - [Cypherflow](https://github.com/cypherflow/cypherflow_ai) is an application that provides private AI conversations powered by Cashu payments.
+- [dvm-cli](https://github.com/dvmkit/dvm-cli) is a command-line client and agent skill for pay-per-use services that AI agents can pay for without accounts or API keys.
 - [ecash OpenAI API client](https://github.com/9qeklajc/ecash-402-client) is a privacy-focused payment gateway that enables anonymous micropayments using Cashu ecash for accessing Large Language Models via the OpenAI API.
 - [leashd](https://github.com/brainbytes-dev/leashd) provides non-custodial spend governance for autonomous AI agents using Cashu.
 - [ln-agent-poc-v2](https://github.com/cachet-jp/ln-agent-poc-v2) is an MCP server and Claude Code skill pack for buying gift cards, eSIMs, and mobile top-ups with agent payments.
@@ -364,6 +366,8 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [NUTbits](https://github.com/DoktorShift/nutbits) is a NWC wallet service that translates between Cashu mint (NUTs) and Nostr Wallet Connect (NIP-47).
 - [NutFT](https://github.com/brenorb/NutFT) is an application-level extension for Cashu proofs representing individually identifiable bearer assets.
 - [nutoff-wallet](https://github.com/gzuuus/nutoff-wallet) is a command-line interface and MCP server interface implementing a Cashu wallet.
+- [nutcracker-startos](https://github.com/bobodread876/nutcracker-startos) is a StartOS package for running Nutcracker.
+- [Nutflix demo](https://github.com/SovereignTechnology/nutflix-demo) is a peer-to-peer paid video network demo using Nostr and Cashu ecash.
 - [Nuts are Pure Signal](https://github.com/swedishfrenchpress/bitcoinforsignal) is a bitcoin for Signal hackathon project winner.
 - [Nutshell in Azure TEE](https://github.com/aljazceru/nutshell-azure-tee) is a Cashu mint running in confidential containers (Azure TEE).
 - [Nutty](https://github.com/sovereign-maxi/nutty) is client-side Cashu BDHKE operations compiled to WebAssembly.
