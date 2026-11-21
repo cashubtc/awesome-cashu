@@ -370,6 +370,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Nutflix demo](https://github.com/SovereignTechnology/nutflix-demo) is a peer-to-peer paid video network demo using Nostr and Cashu ecash.
 - [Nuts are Pure Signal](https://github.com/swedishfrenchpress/bitcoinforsignal) is a bitcoin for Signal hackathon project winner.
 - [Nutshell in Azure TEE](https://github.com/aljazceru/nutshell-azure-tee) is a Cashu mint running in confidential containers (Azure TEE).
+- [nutstream](https://github.com/samizdatproject/nutstream) is a web podcast player that pays any Podcasting 2.0 show by the minute with Cashu ecash, over NUT-18 payment requests or NIP-61 nutzaps. [Site](https://samizdatproject.github.io/nutstream/)
 - [Nutty](https://github.com/sovereign-maxi/nutty) is client-side Cashu BDHKE operations compiled to WebAssembly.
 - [nutvault](https://github.com/lescuer97/nutvault) is a more secure signer component for Cashu mints.
 - [Obfusats](https://devpost.com/software/obfusats) is a hackathon project that takes a stack of sats, splits and routes through a couple of Cashu mints before merging again. 
