@@ -179,6 +179,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Mint Audit](https://audit.8333.space/) is a mint auditor and [Mint Watch Bot](https://primal.net/p/npub1cashu0thfukl57lgwtarn7h4jrzrg2e346zc8sjvjd8u5hheds0qlhpt92) is a bot that watches the status of mints.
 - [mint-discovery](https://github.com/jooray/mint-discovery) is a Cashu mint discovery library.
 - [MintRadar](https://mintradar.org) — Real-time Cashu mint monitor with uptime, latency, Trust Score, NUT compatibility, watchlist and Nostr reviews. [GitHub](https://github.com/hroomnik007/MintRadar)
+- [NutCheck](https://nutcheck.org/) runs automated protocol conformance and security checks against Cashu mints and publishes evidence-backed grades on Nostr. [GitHub](https://github.com/rademenezbtc/nutcheck)
 - [SOLVENT](https://github.com/TheWeirdDee/solvent) is a Proof-of-Liabilities verifier and client that checks Cashu mint liability accounting against Nostr publications and on-chain Bitcoin reserves. [Site](https://solvent-ashen.vercel.app/)
 
 ### Restore 
@@ -348,6 +349,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [kirk](https://github.com/EthnTuttle/kirk) is a trustless gaming protocol combining Cashu ecash tokens with Nostr.
 - [lakeside](https://github.com/mindliner/lakeside) is a small utility for generating Cashu tokens.
 - [Layer3 Press](https://layer3.press/welcome) is an unstoppable publishing service that allows people to easily receive Bitcoin, Lightning and Cashu subscription payments with a built-in Coinos wallet.
+- [Licash](https://github.com/lichenbtc-org/licash) is an ecash protocol and wallet stack featuring unilateral on-chain Bitcoin exit contracts.
 - [lightning-operator-skills](https://github.com/vincenzopalazzo/lightning-operator-skills) is a collection of Goose recipes and agent skills for operating a Lightning node backing a Cashu mint.
 - [lnuts](https://gitworkshop.dev/npub1dfedhrhn7wu7uhkdsz8dd5rrr50ymkjutkklq7y8zpxn89t7hfyqfzlc7u/relay.ngit.dev/lnuts) is a full Nostr-ready LNURL-pay server that bridges Lightning payments to Cashu tokens.
 - [mcp-money](https://github.com/pablof7z/mcp-money) is an MCP (Model Context Protocol) money implementation for Nostr using NDK (Nostr Development Kit) with Cashu ecash functionality.
