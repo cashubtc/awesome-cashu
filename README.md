@@ -207,6 +207,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [402-mcp](https://github.com/forgesworn/402-mcp) is an MCP client that lets AI agents discover, pay for, and consume L402 and Cashu 402 APIs.
 - [arbstr-node](https://github.com/johnzilla/arbstr-node) is a full-stack inference marketplace node deployment (arbstr) with Cashu-related flows.
 - [arbstr-vault](https://github.com/johnzilla/arbstr-vault) is a centralized treasury/"bank" service for AI agent Cashu balances.
+- [bursar](https://github.com/dbarabashh/bursar) is a local wallet daemon and MCP server for AI agents to pay NUT-24 (X-Cashu) 402 APIs with Cashu ecash under spending limits and passkey approvals.
 - [ChatNut](https://chatnut.sparkpay.pt/) is a privacy-preserving Chat application for large language models (LLMs) that users pay-per-request with an integrated Cashu wallet without having to create accounts.
 - [Cypherflow](https://github.com/cypherflow/cypherflow_ai) is an application that provides private AI conversations powered by Cashu payments.
 - [dvm-cli](https://github.com/dvmkit/dvm-cli) is a command-line client and agent skill for pay-per-use services that AI agents can pay for without accounts or API keys.
